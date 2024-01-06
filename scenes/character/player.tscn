@@ -1,4 +1,4 @@
-[gd_scene load_steps=14 format=3 uid="uid://d4cvahlopgf0p"]
+[gd_scene load_steps=15 format=3 uid="uid://d4cvahlopgf0p"]
 
 [ext_resource type="Texture2D" uid="uid://bodisxwv3jjqy" path="res://assets/arts/character/Player.png" id="1_bqvlj"]
 [ext_resource type="Script" path="res://scripts/character/player.gd" id="1_rdkek"]
@@ -118,9 +118,25 @@ tracks/0/keys = {
 "values": [17, 18, 19, 20, 20]
 }
 
+[sub_resource type="Animation" id="Animation_877xy"]
+resource_name = "death"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.3, 0.6, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 1,
+"values": [27, 28, 29, 30]
+}
+
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_qj6sy"]
 _data = {
 "RESET": SubResource("Animation_4fq1a"),
+"death": SubResource("Animation_877xy"),
 "idle_down": SubResource("Animation_g71n6"),
 "idle_side": SubResource("Animation_enwcc"),
 "idle_up": SubResource("Animation_uprnb"),

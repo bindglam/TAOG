@@ -12,3 +12,5 @@ script = ExtResource("1_lbtbg")
 [node name="TestMap" parent="." instance=ExtResource("2_5lga3")]
 
 [node name="Player" parent="." instance=ExtResource("3_rb6j0")]
+
+[node name="Bullets" type="Node" parent="."]

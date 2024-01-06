@@ -13,6 +13,7 @@ var last_pos = Vector2()
 
 func _ready()->void :
 	pickup_item("YH-001")
+	pickup_item("M23")
 
 func _process(_delta:float)->void :
 	var cursor_pos = get_global_mouse_position()
@@ -71,7 +72,10 @@ func pickup_item(item_id):
 	item.set_meta("item_name", item_id)
 	var item_scene = ItemDB.get_item(item_id)
 	item.set_meta("item_data", item_scene)
-	item.texture = item_scene.instantiate().item_icon
+	if item_scene.instantiate().item_icon == null:
+		item.texture = ItemDB.get_item("error").instantiate().item_icon
+	else:
+		item.texture = item_scene.instantiate().item_icon
 	add_child.call_deferred(item)
 	if not grid_bkpk.insert_item_at_first_available_spot(item):
 		item.queue_free()

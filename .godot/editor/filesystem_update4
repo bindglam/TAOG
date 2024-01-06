@@ -13,3 +13,6 @@ res://scripts/item/weapon/gun/GunItem.gd
 res://scripts/autoload/ItemDB.gd
 res://scenes/item/error.tscn
 res://scripts/character/player/Inventory.gd
+res://scenes/item/weapon/gun/M23.tscn
+res://scenes/bullet/normal_bullet.tscn
+res://scripts/bullet/normal_bullet.gd

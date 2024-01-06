@@ -1,7 +1,8 @@
 extends Node
 
 const ITEMS := { 
-	"YH-001": preload("res://scenes/item/weapon/gun/YH-001.tscn"), 
+	"YH-001": preload("res://scenes/item/weapon/gun/YH-001.tscn"),
+	"M23": preload("res://scenes/item/weapon/gun/M23.tscn"), 
 	"error": preload("res://scenes/item/error.tscn"),
 }
 

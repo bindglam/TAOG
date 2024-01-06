@@ -10,13 +10,13 @@ func _ready():
 func _process(_delta:float)->void :
 	var player: Character = get_parent().get_parent().get_parent().get_parent().get_parent()
 	if items["HAND_1"] == null:
-		player.item_1 = null
+		player.primary_item = null
 	else:
-		items["HAND_1"].set_meta("item_data", player.item_1)
+		items["HAND_1"].set_meta("item_data", player.primary_item)
 	if items["HAND_2"] == null:
-		player.item_2 = null
+		player.secondary_item = null
 	else:
-		items["HAND_2"].set_meta("item_data", player.item_2)
+		items["HAND_2"].set_meta("item_data", player.secondary_item)
 	
 func insert_item(item):
 	var item_pos = item.global_position + item.size / 2
@@ -40,10 +40,10 @@ func insert_item(item):
 	items[item_slot] = item
 	if item_slot == "HAND_1" and item.has_meta("item_data"):
 		var packed_item = item.get_meta("item_data")
-		get_parent().get_parent().get_parent().get_parent().get_parent().item_1 = packed_item
+		get_parent().get_parent().get_parent().get_parent().get_parent().primary_item = packed_item
 	if item_slot == "HAND_2" and item.has_meta("item_data"):
 		var packed_item = item.get_meta("item_data")
-		get_parent().get_parent().get_parent().get_parent().get_parent().item_2 = packed_item
+		get_parent().get_parent().get_parent().get_parent().get_parent().secondary_item = packed_item
 	item.global_position = slot.global_position + slot.size / 2 - item.size / 2
 	return true
 	

@@ -1,0 +1,38 @@
+[gd_scene load_steps=4 format=3 uid="uid://cna0aofk5me4g"]
+
+[ext_resource type="Texture2D" uid="uid://6pchdsrxuo64" path="res://assets/arts/util/bullet/Bullet.png" id="1_jf5vn"]
+[ext_resource type="Script" path="res://scripts/bullet/normal_bullet.gd" id="1_jltxo"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_w0u0m"]
+radius = 3.0
+height = 10.0
+
+[node name="Bullet" type="CharacterBody2D"]
+z_as_relative = false
+y_sort_enabled = true
+scale = Vector2(0.3, 0.3)
+script = ExtResource("1_jltxo")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(3.33333, -1.42109e-14)
+rotation = 1.5708
+shape = SubResource("CapsuleShape2D_w0u0m")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_jf5vn")
+offset = Vector2(5, 0)
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Area2D"]
+polygon = PackedVector2Array(0, -3.33333, 0, 3.33333, 6.66667, 3.33333, 13.3333, 0, 6.66667, -3.33333)
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+position = Vector2(5, 2.38419e-07)
+scale = Vector2(0.5, 0.333333)
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 5.0
+one_shot = true
+autostart = true

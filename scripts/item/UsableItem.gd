@@ -17,6 +17,7 @@ func _ready() -> void:
 	add_child.call_deferred(timer)
 	timer.wait_time = cooldown
 	timer.one_shot = true
+	timer.autostart = false
 
 func on_use():
 	pass

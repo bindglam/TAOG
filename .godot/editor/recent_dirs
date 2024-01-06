@@ -1,8 +1,10 @@
+res://scripts/bullet
+res://scenes/bullet
+res://scenes/item/weapon/gun
 res://scenes/item
 res://scenes/ui
 res://scripts/character/player
 res://scripts/autoload
-res://scenes/item/weapon/gun
 res://scenes/map
 res://scripts
 res://scripts/character
