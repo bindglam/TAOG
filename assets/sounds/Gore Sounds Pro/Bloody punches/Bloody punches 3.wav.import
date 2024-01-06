@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dkj08cfyut3v1"
+path="res://.godot/imported/Bloody punches 3.wav-ff3611abdff9779c2e2c39b15109cb86.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Bloody punches/Bloody punches 3.wav"
+dest_files=["res://.godot/imported/Bloody punches 3.wav-ff3611abdff9779c2e2c39b15109cb86.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://baags2o2focjr"
+path="res://.godot/imported/Drum roll 10.wav-b1394effe590a81f09a98078a1869f8e.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Drum roll 10.wav"
+dest_files=["res://.godot/imported/Drum roll 10.wav-b1394effe590a81f09a98078a1869f8e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

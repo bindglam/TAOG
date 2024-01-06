@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dbs412qmlgxgr"
+path="res://.godot/imported/Silenced Burst.wav-cb724f96f2421bf5e4544f08e9747389.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Silenced Burst.wav"
+dest_files=["res://.godot/imported/Silenced Burst.wav-cb724f96f2421bf5e4544f08e9747389.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

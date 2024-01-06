@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bj8i017iw2tvl"
+path="res://.godot/imported/Book page flip 3.wav-2347b4dd646c4ae6f61597ada4de0dac.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Book page flip 3.wav"
+dest_files=["res://.godot/imported/Book page flip 3.wav-2347b4dd646c4ae6f61597ada4de0dac.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

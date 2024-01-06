@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d14e7q5nhyhjl"
+path="res://.godot/imported/Ripping guts out of body 8.wav-ffa955454a8d50501cd129909406165d.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Ripping guts out of body/Ripping guts out of body 8.wav"
+dest_files=["res://.godot/imported/Ripping guts out of body 8.wav-ffa955454a8d50501cd129909406165d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

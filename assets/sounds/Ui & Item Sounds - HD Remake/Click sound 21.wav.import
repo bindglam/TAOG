@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cobhpfyteytix"
+path="res://.godot/imported/Click sound 21.wav-5528a759b214921b75cf966b79476b9c.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Click sound 21.wav"
+dest_files=["res://.godot/imported/Click sound 21.wav-5528a759b214921b75cf966b79476b9c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

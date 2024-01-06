@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dfqvawnygqs4t"
+path="res://.godot/imported/Silenced Sniper RIfle.wav-1fd8e9b274498677bd00eef3517e90a2.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Silenced Sniper RIfle.wav"
+dest_files=["res://.godot/imported/Silenced Sniper RIfle.wav-1fd8e9b274498677bd00eef3517e90a2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

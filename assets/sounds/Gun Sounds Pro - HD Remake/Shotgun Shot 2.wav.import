@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cym618b4gokaq"
+path="res://.godot/imported/Shotgun Shot 2.wav-adfca7b10cc4581856d0e129f2d18e1a.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Shotgun Shot 2.wav"
+dest_files=["res://.godot/imported/Shotgun Shot 2.wav-adfca7b10cc4581856d0e129f2d18e1a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ddqjvn4mowsit"
+path="res://.godot/imported/Eating Guts 4.wav-d1a206e82fa20c4a2c27331691c2adb2.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Eating Guts/Eating Guts 4.wav"
+dest_files=["res://.godot/imported/Eating Guts 4.wav-d1a206e82fa20c4a2c27331691c2adb2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

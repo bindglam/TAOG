@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://onljlqflx2ty"
+path="res://.godot/imported/Gun Pickup 4.wav-29d1b21dc8fd8a94fd1637e51daa13ee.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Gun Pickup 4.wav"
+dest_files=["res://.godot/imported/Gun Pickup 4.wav-29d1b21dc8fd8a94fd1637e51daa13ee.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

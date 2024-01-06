@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://07maywxp7y41"
+path="res://.godot/imported/Alert sound 4.wav-ab11c89feb5d1c64a68c41166976a8a9.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Alert sound 4.wav"
+dest_files=["res://.godot/imported/Alert sound 4.wav-ab11c89feb5d1c64a68c41166976a8a9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

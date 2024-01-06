@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://vba5q12l3rvr"
+path="res://.godot/imported/Win sound 17.wav-0d62484e9e1c050257e7f7842977c9cf.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Win sound 17.wav"
+dest_files=["res://.godot/imported/Win sound 17.wav-0d62484e9e1c050257e7f7842977c9cf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

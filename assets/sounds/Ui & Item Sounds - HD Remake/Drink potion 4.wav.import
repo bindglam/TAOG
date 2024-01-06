@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://66036mbmbjta"
+path="res://.godot/imported/Drink potion 4.wav-5b9542b18533176a24f23bf5e35ae92b.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Drink potion 4.wav"
+dest_files=["res://.godot/imported/Drink potion 4.wav-5b9542b18533176a24f23bf5e35ae92b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

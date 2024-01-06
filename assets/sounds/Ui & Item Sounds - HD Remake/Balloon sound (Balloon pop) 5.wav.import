@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://n7p0hvlrn04o"
+path="res://.godot/imported/Balloon sound (Balloon pop) 5.wav-c07c8f5c83628b9e3775be7f879ff41b.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Balloon sound (Balloon pop) 5.wav"
+dest_files=["res://.godot/imported/Balloon sound (Balloon pop) 5.wav-c07c8f5c83628b9e3775be7f879ff41b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

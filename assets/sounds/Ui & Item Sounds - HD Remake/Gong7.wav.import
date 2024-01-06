@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dwpvi1vvl51gr"
+path="res://.godot/imported/Gong7.wav-97db9ce47aac7b7e0316b971e4568e96.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Gong7.wav"
+dest_files=["res://.godot/imported/Gong7.wav-97db9ce47aac7b7e0316b971e4568e96.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

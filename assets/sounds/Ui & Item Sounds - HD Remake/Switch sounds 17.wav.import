@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dgietmqw41qga"
+path="res://.godot/imported/Switch sounds 17.wav-cb9ba5d3462bc3d37f10e2126ea73c85.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Switch sounds 17.wav"
+dest_files=["res://.godot/imported/Switch sounds 17.wav-cb9ba5d3462bc3d37f10e2126ea73c85.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

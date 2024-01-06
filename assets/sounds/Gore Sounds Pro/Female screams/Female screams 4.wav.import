@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c7icmdf5ckpgi"
+path="res://.godot/imported/Female screams 4.wav-5bd94125772100e6b43dce9febe75674.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Female screams/Female screams 4.wav"
+dest_files=["res://.godot/imported/Female screams 4.wav-5bd94125772100e6b43dce9febe75674.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

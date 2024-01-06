@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cfqxdd16ps3k2"
+path="res://.godot/imported/Male screams 7.wav-488310123a77cf224c5c270bc2e18e08.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Male screams/Male screams 7.wav"
+dest_files=["res://.godot/imported/Male screams 7.wav-488310123a77cf224c5c270bc2e18e08.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

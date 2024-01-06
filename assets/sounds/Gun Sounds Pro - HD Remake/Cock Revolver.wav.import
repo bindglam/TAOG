@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dk1su2hga7u8t"
+path="res://.godot/imported/Cock Revolver.wav-c8c9482ab2187021336db5b2512b1ab7.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Cock Revolver.wav"
+dest_files=["res://.godot/imported/Cock Revolver.wav-c8c9482ab2187021336db5b2512b1ab7.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

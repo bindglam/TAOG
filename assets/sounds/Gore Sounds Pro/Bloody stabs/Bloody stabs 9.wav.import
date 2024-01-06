@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cu3buq7e3gd05"
+path="res://.godot/imported/Bloody stabs 9.wav-d094bf9c9ada40ba84cd9ab219a74940.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Bloody stabs/Bloody stabs 9.wav"
+dest_files=["res://.godot/imported/Bloody stabs 9.wav-d094bf9c9ada40ba84cd9ab219a74940.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

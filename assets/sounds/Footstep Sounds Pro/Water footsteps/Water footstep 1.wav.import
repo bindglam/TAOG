@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dhbv7dk1drtu3"
+path="res://.godot/imported/Water footstep 1.wav-6d65fc7188818b4b238a2c3e66ad7802.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Footstep Sounds Pro/Water footsteps/Water footstep 1.wav"
+dest_files=["res://.godot/imported/Water footstep 1.wav-6d65fc7188818b4b238a2c3e66ad7802.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

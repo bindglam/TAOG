@@ -1,0 +1,122 @@
+[gd_scene load_steps=7 format=3 uid="uid://cwwa8ce1va3g8"]
+
+[ext_resource type="FontFile" uid="uid://b058eixo0tfnl" path="res://assets/fonts/DungGeunMo.ttf" id="1_205h6"]
+[ext_resource type="Script" path="res://scripts/character/player/EquipmentSlots.gd" id="2_lri4j"]
+[ext_resource type="Script" path="res://scripts/character/player/Inventory.gd" id="2_nti5u"]
+[ext_resource type="Texture2D" uid="uid://cvtsmf320vjxf" path="res://assets/arts/ui/InventoryGrid.png" id="2_w5aee"]
+[ext_resource type="Script" path="res://scripts/character/player/GridBackPack.gd" id="3_410ny"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_3jbuy"]
+font = ExtResource("1_205h6")
+
+[node name="PlayerUI" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+offset_right = 120.0
+offset_bottom = 16.0
+text = "Version: dev0.1"
+label_settings = SubResource("LabelSettings_3jbuy")
+
+[node name="Inventory" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("2_nti5u")
+
+[node name="Base" type="Panel" parent="Inventory"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.078559
+anchor_top = 0.123457
+anchor_right = 0.921441
+anchor_bottom = 0.876543
+grow_horizontal = 2
+grow_vertical = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="EquipmentSlots" type="Panel" parent="Inventory"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.501736
+anchor_top = 0.154321
+anchor_right = 0.502
+anchor_bottom = 0.154321
+offset_right = 260.696
+offset_bottom = 191.0
+script = ExtResource("2_lri4j")
+metadata/_edit_use_anchors_ = true
+
+[node name="HAND_1" type="ColorRect" parent="Inventory/EquipmentSlots"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.073
+anchor_top = 0.12
+anchor_right = 0.073
+anchor_bottom = 0.12
+offset_left = -0.0530014
+offset_top = 0.0799999
+offset_right = 93.947
+offset_bottom = 62.0801
+color = Color(0.462745, 0.462745, 0.462745, 1)
+
+[node name="HAND_2" type="ColorRect" parent="Inventory/EquipmentSlots"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.073
+anchor_top = 0.524
+anchor_right = 0.073
+anchor_bottom = 0.524
+offset_left = -0.0530014
+offset_top = -0.0840073
+offset_right = 93.947
+offset_bottom = 61.8797
+color = Color(0.462745, 0.462745, 0.462745, 1)
+
+[node name="HEAD" type="ColorRect" parent="Inventory/EquipmentSlots"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.552
+anchor_top = 0.12
+anchor_right = 0.552
+anchor_bottom = 0.12
+offset_left = -0.0720062
+offset_top = 0.0799999
+offset_right = 93.928
+offset_bottom = 60.78
+color = Color(0.462745, 0.462745, 0.462745, 1)
+
+[node name="BODY" type="ColorRect" parent="Inventory/EquipmentSlots"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.552
+anchor_top = 0.5
+anchor_right = 0.552
+anchor_bottom = 0.5
+offset_left = -0.0720062
+offset_top = 4.5
+offset_right = 93.928
+offset_bottom = 65.4237
+color = Color(0.462745, 0.462745, 0.462745, 1)
+
+[node name="GridBackPack" type="TextureRect" parent="Inventory"]
+modulate = Color(0.458824, 0.458824, 0.458824, 1)
+texture_filter = 1
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.09375
+anchor_top = 0.151235
+anchor_right = 0.482639
+anchor_bottom = 0.546296
+texture = ExtResource("2_w5aee")
+script = ExtResource("3_410ny")
+metadata/_edit_use_anchors_ = true

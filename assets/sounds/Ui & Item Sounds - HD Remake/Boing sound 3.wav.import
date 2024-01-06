@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ih5qkr1k14yx"
+path="res://.godot/imported/Boing sound 3.wav-a7a548bed604eba45f82a1665c6d6aa6.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Boing sound 3.wav"
+dest_files=["res://.godot/imported/Boing sound 3.wav-a7a548bed604eba45f82a1665c6d6aa6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

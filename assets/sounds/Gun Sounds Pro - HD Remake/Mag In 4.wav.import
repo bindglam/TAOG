@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bndo0nsskn6jk"
+path="res://.godot/imported/Mag In 4.wav-f7a5133de9a629c1993ca0114456a331.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In 4.wav"
+dest_files=["res://.godot/imported/Mag In 4.wav-f7a5133de9a629c1993ca0114456a331.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dh8eqi7uwm388"
+path="res://.godot/imported/Assault Rifle Shot 4.wav-9be38171391cc6fb79a1c735e82af835.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Assault Rifle Shot 4.wav"
+dest_files=["res://.godot/imported/Assault Rifle Shot 4.wav-9be38171391cc6fb79a1c735e82af835.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b0phvqpkygpqw"
+path="res://.godot/imported/Skull crashed 1.wav-4a7464608b5693898b9d42dbb85d24c9.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Skull crashed/Skull crashed 1.wav"
+dest_files=["res://.godot/imported/Skull crashed 1.wav-4a7464608b5693898b9d42dbb85d24c9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

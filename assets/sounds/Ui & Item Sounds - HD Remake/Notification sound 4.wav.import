@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://doctjqgd0yl3p"
+path="res://.godot/imported/Notification sound 4.wav-4fef52fafe0e045a3e11b4c02dce2556.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Notification sound 4.wav"
+dest_files=["res://.godot/imported/Notification sound 4.wav-4fef52fafe0e045a3e11b4c02dce2556.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

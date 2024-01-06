@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://4r371rv54mju"
+path="res://.godot/imported/Revolver Shot 7.wav-1c270411bfa5be19e5e9b7a34ffd3709.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Revolver Shot 7.wav"
+dest_files=["res://.godot/imported/Revolver Shot 7.wav-1c270411bfa5be19e5e9b7a34ffd3709.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

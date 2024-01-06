@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dkeqfefukperu"
+path="res://.godot/imported/Hover over button sound 25.wav-71a1d50a2845759740a7ed918780f6e2.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Hover over button sound 25.wav"
+dest_files=["res://.godot/imported/Hover over button sound 25.wav-71a1d50a2845759740a7ed918780f6e2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bveohox6tnwq8"
+path="res://.godot/imported/Pistol Shot 12.wav-335687d97e8b5b47bca060840c2af298.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Pistol Shot 12.wav"
+dest_files=["res://.godot/imported/Pistol Shot 12.wav-335687d97e8b5b47bca060840c2af298.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

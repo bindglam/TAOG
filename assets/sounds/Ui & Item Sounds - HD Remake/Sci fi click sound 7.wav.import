@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bj2axi77e11ng"
+path="res://.godot/imported/Sci fi click sound 7.wav-2432d666b59a27024532b1712f121eff.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Sci fi click sound 7.wav"
+dest_files=["res://.godot/imported/Sci fi click sound 7.wav-2432d666b59a27024532b1712f121eff.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

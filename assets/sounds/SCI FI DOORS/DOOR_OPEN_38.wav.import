@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://biw14vgvy3rmq"
+path="res://.godot/imported/DOOR_OPEN_38.wav-73caf60f394f3a84bf5d61f93ea155f4.sample"
+
+[deps]
+
+source_file="res://assets/sounds/SCI FI DOORS/DOOR_OPEN_38.wav"
+dest_files=["res://.godot/imported/DOOR_OPEN_38.wav-73caf60f394f3a84bf5d61f93ea155f4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

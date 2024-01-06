@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bx3wp7vykanxg"
+path="res://.godot/imported/Dry shot 8.wav-69641757c9836399b0767e84514827c2.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Dry shot 8.wav"
+dest_files=["res://.godot/imported/Dry shot 8.wav-69641757c9836399b0767e84514827c2.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://pn43jn6ncw5l"
+path="res://.godot/imported/Open map 4.wav-1d4eeaf72a4a22cc1cddd946a7a361fe.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Open map 4.wav"
+dest_files=["res://.godot/imported/Open map 4.wav-1d4eeaf72a4a22cc1cddd946a7a361fe.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

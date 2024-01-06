@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cg464ihglyw1"
+path="res://.godot/imported/Female screams 6.wav-1dda8c06026de78979f9b0aa0510c78e.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Female screams/Female screams 6.wav"
+dest_files=["res://.godot/imported/Female screams 6.wav-1dda8c06026de78979f9b0aa0510c78e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

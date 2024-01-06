@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cev631r3v3rtc"
+path="res://.godot/imported/Silenced Pistol 4.wav-18de1dc336cf1e64f88aac50ddbcbbfe.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Silenced Pistol 4.wav"
+dest_files=["res://.godot/imported/Silenced Pistol 4.wav-18de1dc336cf1e64f88aac50ddbcbbfe.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

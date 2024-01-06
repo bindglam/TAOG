@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c1l5de4r2a6gt"
+path="res://.godot/imported/Coins 11.wav-c91d139e3d83f27b3d748a77315bb179.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Coins 11.wav"
+dest_files=["res://.godot/imported/Coins 11.wav-c91d139e3d83f27b3d748a77315bb179.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

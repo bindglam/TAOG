@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bej14vk6b5tow"
+path="res://.godot/imported/Cock Shotgun 4.wav-7df3d85bbccee9c0992b1a168e5ea7b1.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Cock Shotgun 4.wav"
+dest_files=["res://.godot/imported/Cock Shotgun 4.wav-7df3d85bbccee9c0992b1a168e5ea7b1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

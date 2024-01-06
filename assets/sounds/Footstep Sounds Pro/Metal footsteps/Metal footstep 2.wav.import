@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cltsmvpi84fl7"
+path="res://.godot/imported/Metal footstep 2.wav-e17688eb23febeac38019cbb81b6b3e4.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Footstep Sounds Pro/Metal footsteps/Metal footstep 2.wav"
+dest_files=["res://.godot/imported/Metal footstep 2.wav-e17688eb23febeac38019cbb81b6b3e4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

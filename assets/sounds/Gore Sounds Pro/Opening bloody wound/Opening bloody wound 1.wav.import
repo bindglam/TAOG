@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cas8r87t65r12"
+path="res://.godot/imported/Opening bloody wound 1.wav-75e8b77ff6be9b1eea1148f4248b7db6.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Opening bloody wound/Opening bloody wound 1.wav"
+dest_files=["res://.godot/imported/Opening bloody wound 1.wav-75e8b77ff6be9b1eea1148f4248b7db6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

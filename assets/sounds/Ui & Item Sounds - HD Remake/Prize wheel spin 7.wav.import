@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqyrmleppo42v"
+path="res://.godot/imported/Prize wheel spin 7.wav-2c9626142bff1f9f37025fedae501b02.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Prize wheel spin 7.wav"
+dest_files=["res://.godot/imported/Prize wheel spin 7.wav-2c9626142bff1f9f37025fedae501b02.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

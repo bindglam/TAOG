@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cmkxn58dqro4w"
+path="res://.godot/imported/Eye pops 2.wav-5d4cf9741eb4989d5b535068006e3759.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Eye pops/Eye pops 2.wav"
+dest_files=["res://.godot/imported/Eye pops 2.wav-5d4cf9741eb4989d5b535068006e3759.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

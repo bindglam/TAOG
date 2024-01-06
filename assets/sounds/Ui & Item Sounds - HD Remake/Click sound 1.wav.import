@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d165mfv8y0bq7"
+path="res://.godot/imported/Click sound 1.wav-78133cd4b2e7cb7848bacef057c5b33e.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Click sound 1.wav"
+dest_files=["res://.godot/imported/Click sound 1.wav-78133cd4b2e7cb7848bacef057c5b33e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

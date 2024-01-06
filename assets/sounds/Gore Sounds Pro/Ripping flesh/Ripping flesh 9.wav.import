@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://0u2s4cb80dgw"
+path="res://.godot/imported/Ripping flesh 9.wav-d6afba0b9bcc1ebcfaf1b8172afb7090.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Ripping flesh/Ripping flesh 9.wav"
+dest_files=["res://.godot/imported/Ripping flesh 9.wav-d6afba0b9bcc1ebcfaf1b8172afb7090.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://coluwfti1rqas"
+path="res://.godot/imported/DOOR_CLOSE_12.wav-455a1e5561adccd7292a5565fb8b663b.sample"
+
+[deps]
+
+source_file="res://assets/sounds/SCI FI DOORS/DOOR_CLOSE_12.wav"
+dest_files=["res://.godot/imported/DOOR_CLOSE_12.wav-455a1e5561adccd7292a5565fb8b663b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

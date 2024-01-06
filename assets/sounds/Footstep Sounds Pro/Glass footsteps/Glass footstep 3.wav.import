@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://blfsicm5ycogd"
+path="res://.godot/imported/Glass footstep 3.wav-5816e5db7804fc5b3a6833a49d2755e0.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Footstep Sounds Pro/Glass footsteps/Glass footstep 3.wav"
+dest_files=["res://.godot/imported/Glass footstep 3.wav-5816e5db7804fc5b3a6833a49d2755e0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

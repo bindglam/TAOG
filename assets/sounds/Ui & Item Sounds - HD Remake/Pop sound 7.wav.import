@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://xp0a1ldn73ja"
+path="res://.godot/imported/Pop sound 7.wav-fc1b83f9152e2bbcc2869b3f113a4e9b.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Pop sound 7.wav"
+dest_files=["res://.godot/imported/Pop sound 7.wav-fc1b83f9152e2bbcc2869b3f113a4e9b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

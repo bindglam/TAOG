@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c7arfnf7vs32"
+path="res://.godot/imported/Assault Rifle Burst 6.wav-1310deb0b2ab5ac8f98e233dcde60b5e.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Assault Rifle Burst 6.wav"
+dest_files=["res://.godot/imported/Assault Rifle Burst 6.wav-1310deb0b2ab5ac8f98e233dcde60b5e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bdrglbq0y7naq"
+path="res://.godot/imported/Armor On.wav-66d4b0b279dc7d619fed698109320aad.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gun Sounds Pro - HD Remake/Armor On.wav"
+dest_files=["res://.godot/imported/Armor On.wav-66d4b0b279dc7d619fed698109320aad.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

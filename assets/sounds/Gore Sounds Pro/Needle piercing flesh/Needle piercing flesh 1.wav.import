@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqg3im8i8e5ot"
+path="res://.godot/imported/Needle piercing flesh 1.wav-04a9d1b141276177502695a2b571b021.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Gore Sounds Pro/Needle piercing flesh/Needle piercing flesh 1.wav"
+dest_files=["res://.godot/imported/Needle piercing flesh 1.wav-04a9d1b141276177502695a2b571b021.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

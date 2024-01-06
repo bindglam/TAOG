@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://qdlyq12jolqj"
+path="res://.godot/imported/Lost sound 3.wav-9f29d98e5f3349c8cf7a1b9f2f00569b.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Lost sound 3.wav"
+dest_files=["res://.godot/imported/Lost sound 3.wav-9f29d98e5f3349c8cf7a1b9f2f00569b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

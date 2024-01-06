@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b7aebewaa1u5n"
+path="res://.godot/imported/8 Bit click sound 3.wav-3ce0e77424145320c569b01caaf7e737.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/8 Bit click sound 3.wav"
+dest_files=["res://.godot/imported/8 Bit click sound 3.wav-3ce0e77424145320c569b01caaf7e737.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

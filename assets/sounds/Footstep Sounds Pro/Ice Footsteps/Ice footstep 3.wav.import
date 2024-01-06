@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bmqdtx6yo262f"
+path="res://.godot/imported/Ice footstep 3.wav-9206de36f139ce4c36a16029fe517026.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Footstep Sounds Pro/Ice Footsteps/Ice footstep 3.wav"
+dest_files=["res://.godot/imported/Ice footstep 3.wav-9206de36f139ce4c36a16029fe517026.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

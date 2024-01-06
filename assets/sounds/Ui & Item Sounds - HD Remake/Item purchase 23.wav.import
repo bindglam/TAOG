@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cl4skaep4f55n"
+path="res://.godot/imported/Item purchase 23.wav-480c49b43b2e12a1670e2b567eb1bdf5.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Item purchase 23.wav"
+dest_files=["res://.godot/imported/Item purchase 23.wav-480c49b43b2e12a1670e2b567eb1bdf5.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

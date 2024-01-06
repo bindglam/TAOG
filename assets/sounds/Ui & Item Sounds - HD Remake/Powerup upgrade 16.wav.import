@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b0jllaw8ad626"
+path="res://.godot/imported/Powerup upgrade 16.wav-458f42e985bb4dd0c3a3e9b7b5d2295c.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Powerup upgrade 16.wav"
+dest_files=["res://.godot/imported/Powerup upgrade 16.wav-458f42e985bb4dd0c3a3e9b7b5d2295c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

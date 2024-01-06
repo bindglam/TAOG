@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://kro20hp23gei"
+path="res://.godot/imported/Snow footstep 7.wav-ca1251b659a08fd988d8896908b3f7be.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Footstep Sounds Pro/Snow footsteps/Snow footstep 7.wav"
+dest_files=["res://.godot/imported/Snow footstep 7.wav-ca1251b659a08fd988d8896908b3f7be.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

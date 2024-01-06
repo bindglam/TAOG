@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://diyth4abm10wi"
+path="res://.godot/imported/Debuff Downgrade 14.wav-83d236c714938a42291354f21b09842f.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Debuff Downgrade 14.wav"
+dest_files=["res://.godot/imported/Debuff Downgrade 14.wav-83d236c714938a42291354f21b09842f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

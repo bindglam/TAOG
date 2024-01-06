@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://wqcgikfrorsp"
+path="res://.godot/imported/Error Sound 20.wav-ab331f47372958bbf008b2bb94216efa.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Error Sound 20.wav"
+dest_files=["res://.godot/imported/Error Sound 20.wav-ab331f47372958bbf008b2bb94216efa.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

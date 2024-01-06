@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dt53n1f2c8d3o"
+path="res://.godot/imported/Drum roll 8.wav-67a490068cf0cb4ddfbd38e3ffcf4ac1.sample"
+
+[deps]
+
+source_file="res://assets/sounds/Ui & Item Sounds - HD Remake/Drum roll 8.wav"
+dest_files=["res://.godot/imported/Drum roll 8.wav-67a490068cf0cb4ddfbd38e3ffcf4ac1.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
