@@ -1,0 +1,15 @@
+res://scenes/character/game.tscn
+res://scenes/map/test_map.tscn
+res://scenes/character/player.tscn
+res://scenes/ui/player_ui.tscn
+res://scenes/item/weapon/gun/YH-001.tscn
+res://scripts/character/player/EquipmentSlots.gd
+res://scripts/character/Character.gd
+res://scripts/character/player.gd
+res://scripts/item/Item.gd
+res://scripts/item/UsableItem.gd
+res://scripts/item/weapon/WeaponItem.gd
+res://scripts/item/weapon/gun/GunItem.gd
+res://scripts/autoload/ItemDB.gd
+res://scenes/item/error.tscn
+res://scripts/character/player/Inventory.gd

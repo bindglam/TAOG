@@ -1,0 +1,1130 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704525577
+icon.svg::CompressedTexture2D::1716297411008757711::1704411058::1704411065::1::::<><>::
+::res://assets/::1704411257
+::res://assets/arts/::1704460676
+::res://assets/arts/character/::1704411194
+Player.png::CompressedTexture2D::3375776751134830084::1704372483::1704411194::1::::<><>::
+Regressors_1.png::CompressedTexture2D::8795062862508667859::1704372483::1704411194::1::::<><>::
+::res://assets/arts/effect/::1704411434
+Effect1 Gameboy Spritesheet.png::CompressedTexture2D::7841260339876857933::1704372483::1704411434::1::::<><>::
+Effect3 Gameboy Spritesheet.png::CompressedTexture2D::5184842557164025548::1704372483::1704411434::1::::<><>::
+Effect4 Gameboy Spritesheet.png::CompressedTexture2D::1911375004671061041::1704372483::1704411434::1::::<><>::
+Effect 1 - Sprite Sheet.png::CompressedTexture2D::2973822373519913593::1704372483::1704411433::1::::<><>::
+Effect 2 - Sprite Sheet.png::CompressedTexture2D::3284141063652423151::1704372483::1704411433::1::::<><>::
+Effect 3 - Sprite Sheet.png::CompressedTexture2D::2991361269764024796::1704372483::1704411433::1::::<><>::
+Effect 4 - Sprite Sheet.png::CompressedTexture2D::4679519741087041161::1704372483::1704411433::1::::<><>::
+Effectst2 Gameboy Spritesheet.png::CompressedTexture2D::378476008369101350::1704372483::1704411433::1::::<><>::
+MuzzleLight.png::CompressedTexture2D::7691601389396727765::1704372483::1704411434::1::::<><>::
+::res://assets/arts/effect/thrust/::1704411434
+Thrust2 Gameboy Spritesheet.png::CompressedTexture2D::4861573034722996183::1704372483::1704411434::1::::<><>::
+Thrust 2 SpriteSheet.png::CompressedTexture2D::2338258626298987535::1704372483::1704411434::1::::<><>::
+Thrust Gameboy Spritesheet.png::CompressedTexture2D::1776846582815018810::1704372483::1704411434::1::::<><>::
+Thrusts 1 SpriteSheet.png::CompressedTexture2D::725120046113838670::1704372483::1704411434::1::::<><>::
+::res://assets/arts/icons/::1704460713
+::res://assets/arts/icons/item/::1704460732
+error.png::CompressedTexture2D::4571674046459993394::1704372484::1704460732::1::::<><>::
+::res://assets/arts/icons/item/weapon/::1704460700
+::res://assets/arts/icons/item/weapon/gun/::1704460732
+M23.png::CompressedTexture2D::4419963829098741500::1704372484::1704460732::1::::<><>::
+XMR-100.png::CompressedTexture2D::1763088694676485900::1704372484::1704460732::1::::<><>::
+YH-001.png::CompressedTexture2D::4675595112969332899::1704372484::1704460732::1::::<><>::
+::res://assets/arts/item/::1704411301
+::res://assets/arts/item/weapon/::1704411304
+::res://assets/arts/item/weapon/gun/::1704411433
+M23.png::CompressedTexture2D::176378387929506105::1704372483::1704411433::1::::<><>::
+XMR-100.png::CompressedTexture2D::692573330313039419::1704372483::1704411433::1::::<><>::
+YH-001.png::CompressedTexture2D::6912346867544871816::1704372483::1704411433::1::::<><>::
+::res://assets/arts/tileset/::1704411167
+::res://assets/arts/tileset/Cyberpunk Tileset/::1704411167
+::res://assets/arts/tileset/Cyberpunk Tileset/Animation/::1704411194
+box.png::CompressedTexture2D::1941973757347802116::1704372484::1704411194::1::::<><>::
+box_large.png::CompressedTexture2D::376405892418242988::1704372484::1704411194::1::::<><>::
+box_side.png::CompressedTexture2D::887958031471316738::1704372484::1704411194::1::::<><>::
+box_small.png::CompressedTexture2D::7229701311980516806::1704372484::1704411194::1::::<><>::
+cabinet_empty.png::CompressedTexture2D::617875917959588796::1704372484::1704411194::1::::<><>::
+cabinet_full.png::CompressedTexture2D::2801776074524783602::1704372484::1704411194::1::::<><>::
+capsule_blue.png::CompressedTexture2D::6029281953821297327::1704372484::1704411194::1::::<><>::
+capsule_green.png::CompressedTexture2D::6145075036473679622::1704372484::1704411194::1::::<><>::
+closet_big.png::CompressedTexture2D::2805526051237060534::1704372484::1704411194::1::::<><>::
+closet_empty.png::CompressedTexture2D::8790661887288745588::1704372484::1704411194::1::::<><>::
+closet_full.png::CompressedTexture2D::2898711082529956048::1704372484::1704411194::1::::<><>::
+desk.png::CompressedTexture2D::4566417891703266366::1704372484::1704411194::1::::<><>::
+door_1.png::CompressedTexture2D::4865455621664225064::1704372484::1704411194::1::::<><>::
+door_2.png::CompressedTexture2D::4332934795320338925::1704372484::1704411194::1::::<><>::
+door_3.png::CompressedTexture2D::4424286258574112186::1704372484::1704411194::1::::<><>::
+door_4.png::CompressedTexture2D::3262160809197962764::1704372484::1704411194::1::::<><>::
+locker_empty.png::CompressedTexture2D::5300948057416364043::1704372484::1704411194::1::::<><>::
+locker_full.png::CompressedTexture2D::4402020065645560215::1704372484::1704411194::1::::<><>::
+locker_side.png::CompressedTexture2D::5786607540130769260::1704372484::1704411194::1::::<><>::
+::res://assets/arts/tileset/Cyberpunk Tileset/Tileset/::1704411194
+Tileset.png::CompressedTexture2D::7574629459691358649::1704372484::1704411194::1::::<><>::
+::res://assets/arts/ui/::1704411434
+BloodOverlay.png::CompressedTexture2D::23318727747386808::1704372483::1704411434::1::::<><>::
+Crosshair.png::CompressedTexture2D::4723239260060681085::1704372483::1704411433::1::::<><>::
+EmptyItem.png::CompressedTexture2D::150664775751257300::1704372483::1704411433::1::::<><>::
+GunUI.png::CompressedTexture2D::5590361209510777584::1704372483::1704411433::1::::<><>::
+HealthBar.png::CompressedTexture2D::7564379688743123894::1704372483::1704411433::1::::<><>::
+HealthBarFill.png::CompressedTexture2D::5951982329131572::1704372483::1704411433::1::::<><>::
+InventoryGrid.png::CompressedTexture2D::6287144903640948815::1704372483::1704411433::1::::<><>::
+::res://assets/arts/util/::1704411433
+Box.png::CompressedTexture2D::6723229198111416796::1704372483::1704411433::1::::<><>::
+Circle.png::CompressedTexture2D::6491836459015826182::1704372483::1704411433::1::::<><>::
+DoubtPlayer.png::CompressedTexture2D::6470457052914182275::1704372483::1704411433::1::::<><>::
+FindPlayer.png::CompressedTexture2D::5224829114627687590::1704372483::1704411433::1::::<><>::
+Light.png::CompressedTexture2D::883078913953790468::1704372483::1704411433::1::::<><>::
+Rectangle.png::CompressedTexture2D::3075871979552294293::1704372483::1704411433::1::::<><>::
+::res://assets/arts/util/bullet/::1704411433
+Bullet.png::CompressedTexture2D::2206953939813238947::1704372483::1704411433::1::::<><>::
+::res://assets/fonts/::1704411433
+DungGeunMo.ttf::FontFile::4205084367590176897::1704372481::1704411433::1::::<><>::
+::res://assets/sounds/::1704411215
+::res://assets/sounds/Footstep Sounds Pro/::1704411214
+::res://assets/sounds/Footstep Sounds Pro/Concrete footsteps/::1704411232
+Concrete footstep 1.wav::AudioStreamWAV::5589714090818191732::1704372484::1704411232::1::::<><>::
+Concrete footstep 2.wav::AudioStreamWAV::712654376423673525::1704372484::1704411232::1::::<><>::
+Concrete footstep 3.wav::AudioStreamWAV::4598015840821960521::1704372484::1704411232::1::::<><>::
+Concrete footstep 4.wav::AudioStreamWAV::4498984126143531107::1704372484::1704411232::1::::<><>::
+Concrete footstep 5.wav::AudioStreamWAV::1482240731409994247::1704372484::1704411232::1::::<><>::
+Concrete footstep 6.wav::AudioStreamWAV::4723617756229211120::1704372484::1704411232::1::::<><>::
+Concrete footstep 7.wav::AudioStreamWAV::1800923266714983293::1704372484::1704411232::1::::<><>::
+Concrete footstep 8.wav::AudioStreamWAV::1552588704142879134::1704372484::1704411232::1::::<><>::
+Concrete footstep 9.wav::AudioStreamWAV::8143870006024619813::1704372484::1704411232::1::::<><>::
+Concrete footstep 10.wav::AudioStreamWAV::3778753764484831234::1704372484::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Dirt footsteps/::1704411232
+Dirt footstep 1.wav::AudioStreamWAV::1241500803727289042::1704372484::1704411232::1::::<><>::
+Dirt footstep 2.wav::AudioStreamWAV::2296330888385755649::1704372484::1704411232::1::::<><>::
+Dirt footstep 3.wav::AudioStreamWAV::2345661684517922839::1704372484::1704411232::1::::<><>::
+Dirt footstep 4.wav::AudioStreamWAV::4430933036049690775::1704372484::1704411232::1::::<><>::
+Dirt footstep 5.wav::AudioStreamWAV::4801530069936263055::1704372484::1704411232::1::::<><>::
+Dirt footstep 6.wav::AudioStreamWAV::3145574274454473955::1704372484::1704411232::1::::<><>::
+Dirt footstep 7.wav::AudioStreamWAV::7114550933073415119::1704372484::1704411232::1::::<><>::
+Dirt footstep 8.wav::AudioStreamWAV::1470640333510726946::1704372484::1704411232::1::::<><>::
+Dirt footstep 9.wav::AudioStreamWAV::2592190122136132485::1704372484::1704411232::1::::<><>::
+Dirt footstep 10.wav::AudioStreamWAV::6813262214651989911::1704372484::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Glass footsteps/::1704411232
+Glass footstep 1.wav::AudioStreamWAV::4875092850378645993::1704372484::1704411232::1::::<><>::
+Glass footstep 2.wav::AudioStreamWAV::5596320956403798458::1704372484::1704411232::1::::<><>::
+Glass footstep 3.wav::AudioStreamWAV::3169927169682374743::1704372484::1704411232::1::::<><>::
+Glass footstep 4.wav::AudioStreamWAV::2090334911840260078::1704372484::1704411232::1::::<><>::
+Glass footstep 5.wav::AudioStreamWAV::3741822348158798163::1704372484::1704411232::1::::<><>::
+Glass footstep 6.wav::AudioStreamWAV::4836054736753283695::1704372484::1704411232::1::::<><>::
+Glass footstep 7.wav::AudioStreamWAV::4992203719949496068::1704372484::1704411232::1::::<><>::
+Glass footstep 8.wav::AudioStreamWAV::7103100759017480424::1704372484::1704411232::1::::<><>::
+Glass footstep 9.wav::AudioStreamWAV::4786405993795378978::1704372484::1704411232::1::::<><>::
+Glass footstep 10.wav::AudioStreamWAV::149657408301470205::1704372484::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Grass footsteps/::1704411232
+Grass footstep 1.wav::AudioStreamWAV::4163031852721504230::1704372484::1704411232::1::::<><>::
+Grass footstep 2.wav::AudioStreamWAV::3900704245133067524::1704372484::1704411232::1::::<><>::
+Grass footstep 3.wav::AudioStreamWAV::7546440770118395114::1704372484::1704411232::1::::<><>::
+Grass footstep 4.wav::AudioStreamWAV::6962933877093917676::1704372484::1704411232::1::::<><>::
+Grass footstep 5.wav::AudioStreamWAV::3782627034909240097::1704372484::1704411232::1::::<><>::
+Grass footstep 6.wav::AudioStreamWAV::6062901404673037593::1704372485::1704411232::1::::<><>::
+Grass footstep 7.wav::AudioStreamWAV::518327140293316702::1704372485::1704411232::1::::<><>::
+Grass footstep 8.wav::AudioStreamWAV::6840216544558693838::1704372485::1704411232::1::::<><>::
+Grass footstep 9.wav::AudioStreamWAV::4394092120041649501::1704372485::1704411232::1::::<><>::
+Grass footstep 10.wav::AudioStreamWAV::4347601549485063302::1704372484::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Gravel Footsteps/::1704411232
+Gravel Footstep 1.wav::AudioStreamWAV::6665164792168634071::1704372485::1704411232::1::::<><>::
+Gravel Footstep 2.wav::AudioStreamWAV::6275378558222771605::1704372485::1704411232::1::::<><>::
+Gravel Footstep 3.wav::AudioStreamWAV::2213912028382494056::1704372485::1704411232::1::::<><>::
+Gravel Footstep 4.wav::AudioStreamWAV::3903368719403834987::1704372485::1704411232::1::::<><>::
+Gravel Footstep 5.wav::AudioStreamWAV::8363061831707418637::1704372485::1704411232::1::::<><>::
+Gravel Footstep 6.wav::AudioStreamWAV::3869516707099627836::1704372485::1704411232::1::::<><>::
+Gravel Footstep 7.wav::AudioStreamWAV::3530784195564577922::1704372485::1704411232::1::::<><>::
+Gravel Footstep 8.wav::AudioStreamWAV::3143593037576335110::1704372485::1704411232::1::::<><>::
+Gravel Footstep 9.wav::AudioStreamWAV::326316932856850887::1704372485::1704411232::1::::<><>::
+Gravel Footstep 10.wav::AudioStreamWAV::274387586623585277::1704372485::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Ice Footsteps/::1704411232
+Ice footstep 1.wav::AudioStreamWAV::6191204994311216094::1704372485::1704411232::1::::<><>::
+Ice footstep 2.wav::AudioStreamWAV::4254868518098083085::1704372485::1704411232::1::::<><>::
+Ice footstep 3.wav::AudioStreamWAV::3261934189513185551::1704372485::1704411232::1::::<><>::
+Ice footstep 4.wav::AudioStreamWAV::254089941862600238::1704372485::1704411232::1::::<><>::
+Ice footstep 5.wav::AudioStreamWAV::8729962612676135567::1704372485::1704411232::1::::<><>::
+Ice footstep 6.wav::AudioStreamWAV::4681242663182984776::1704372485::1704411232::1::::<><>::
+Ice footstep 7.wav::AudioStreamWAV::8485148197759081527::1704372485::1704411232::1::::<><>::
+Ice footstep 8.wav::AudioStreamWAV::1935925883700315775::1704372485::1704411232::1::::<><>::
+Ice footstep 9.wav::AudioStreamWAV::7015243937152474758::1704372485::1704411232::1::::<><>::
+Ice footstep 10.wav::AudioStreamWAV::3401543322718004909::1704372485::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Metal footsteps/::1704411232
+Metal footstep 1.wav::AudioStreamWAV::8786407238167169355::1704372485::1704411232::1::::<><>::
+Metal footstep 2.wav::AudioStreamWAV::5585257286699496930::1704372485::1704411232::1::::<><>::
+Metal footstep 3.wav::AudioStreamWAV::7083164213151425614::1704372485::1704411232::1::::<><>::
+Metal footstep 4.wav::AudioStreamWAV::6503077357204858319::1704372485::1704411232::1::::<><>::
+Metal footstep 5.wav::AudioStreamWAV::969418584164219478::1704372485::1704411232::1::::<><>::
+Metal footstep 6.wav::AudioStreamWAV::4838289279006597597::1704372485::1704411232::1::::<><>::
+Metal footstep 7.wav::AudioStreamWAV::3230033919654290936::1704372485::1704411232::1::::<><>::
+Metal footstep 8.wav::AudioStreamWAV::6715985249049657317::1704372485::1704411232::1::::<><>::
+Metal footstep 9.wav::AudioStreamWAV::4287232770325660240::1704372485::1704411232::1::::<><>::
+Metal footstep 10.wav::AudioStreamWAV::2794350921961698609::1704372485::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Mud footsteps/::1704411233
+Mud footstep 1.wav::AudioStreamWAV::1656810889299236255::1704372485::1704411232::1::::<><>::
+Mud footstep 2.wav::AudioStreamWAV::2031291742045236168::1704372485::1704411232::1::::<><>::
+Mud footstep 3.wav::AudioStreamWAV::1369328273949215221::1704372485::1704411232::1::::<><>::
+Mud footstep 4.wav::AudioStreamWAV::3370605252185001561::1704372485::1704411232::1::::<><>::
+Mud footstep 5.wav::AudioStreamWAV::3867487958471813315::1704372485::1704411232::1::::<><>::
+Mud footstep 6.wav::AudioStreamWAV::8865196335859519190::1704372485::1704411232::1::::<><>::
+Mud footstep 7.wav::AudioStreamWAV::5172669391699208961::1704372485::1704411232::1::::<><>::
+Mud footstep 8.wav::AudioStreamWAV::6286540501323307529::1704372485::1704411232::1::::<><>::
+Mud footstep 9.wav::AudioStreamWAV::144352356618358609::1704372485::1704411232::1::::<><>::
+Mud footstep 10.wav::AudioStreamWAV::3181233081542856909::1704372485::1704411233::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Sand footsteps/::1704411233
+Sand footstep 1.wav::AudioStreamWAV::7145170780644632175::1704372485::1704411233::1::::<><>::
+Sand footstep 2.wav::AudioStreamWAV::1904428953715790651::1704372485::1704411233::1::::<><>::
+Sand footstep 3.wav::AudioStreamWAV::8856307831615563662::1704372485::1704411233::1::::<><>::
+Sand footstep 4.wav::AudioStreamWAV::4634412621754144412::1704372485::1704411233::1::::<><>::
+Sand footstep 5.wav::AudioStreamWAV::85919516167666822::1704372485::1704411233::1::::<><>::
+Sand footstep 6.wav::AudioStreamWAV::7848799853481391500::1704372485::1704411233::1::::<><>::
+Sand footstep 7.wav::AudioStreamWAV::6571463787480142046::1704372485::1704411233::1::::<><>::
+Sand footstep 8.wav::AudioStreamWAV::3218658020594838058::1704372485::1704411233::1::::<><>::
+Sand footstep 9.wav::AudioStreamWAV::3199197053225279325::1704372485::1704411233::1::::<><>::
+Sand footstep 10.wav::AudioStreamWAV::7779872348562720984::1704372485::1704411233::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Snow footsteps/::1704411233
+Snow footstep 1.wav::AudioStreamWAV::4822114990082064086::1704372485::1704411233::1::::<><>::
+Snow footstep 2.wav::AudioStreamWAV::5203438470118208106::1704372485::1704411232::1::::<><>::
+Snow footstep 3.wav::AudioStreamWAV::6965559961348492531::1704372485::1704411232::1::::<><>::
+Snow footstep 4.wav::AudioStreamWAV::8779887028574520909::1704372485::1704411232::1::::<><>::
+Snow footstep 5.wav::AudioStreamWAV::6119728545113998418::1704372485::1704411232::1::::<><>::
+Snow footstep 6.wav::AudioStreamWAV::7808646943017238774::1704372486::1704411232::1::::<><>::
+Snow footstep 7.wav::AudioStreamWAV::737882437149607256::1704372486::1704411232::1::::<><>::
+Snow footstep 8.wav::AudioStreamWAV::6795636470676495083::1704372486::1704411232::1::::<><>::
+Snow footstep 9.wav::AudioStreamWAV::7515856919683415281::1704372486::1704411232::1::::<><>::
+Snow footstep 10.wav::AudioStreamWAV::6676260354370367159::1704372485::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Stone footsteps/::1704411232
+Stone footstep 1.wav::AudioStreamWAV::5444377388923021595::1704372486::1704411232::1::::<><>::
+Stone footstep 2.wav::AudioStreamWAV::928710084468183368::1704372486::1704411232::1::::<><>::
+Stone footstep 3.wav::AudioStreamWAV::2462457774060252863::1704372486::1704411232::1::::<><>::
+Stone footstep 4.wav::AudioStreamWAV::1664431483892185365::1704372486::1704411232::1::::<><>::
+Stone footstep 5.wav::AudioStreamWAV::7799140023477799427::1704372486::1704411232::1::::<><>::
+Stone footstep 6.wav::AudioStreamWAV::7445794624898956138::1704372486::1704411232::1::::<><>::
+Stone footstep 7.wav::AudioStreamWAV::2875199008191144787::1704372486::1704411232::1::::<><>::
+Stone footstep 8.wav::AudioStreamWAV::8139813794187874310::1704372486::1704411232::1::::<><>::
+Stone footstep 9.wav::AudioStreamWAV::620135002891843990::1704372486::1704411232::1::::<><>::
+Stone footstep 10.wav::AudioStreamWAV::2821856108690677791::1704372486::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Water footsteps/::1704411232
+Water footstep 1.wav::AudioStreamWAV::7653980710756757512::1704372486::1704411232::1::::<><>::
+Water footstep 2.wav::AudioStreamWAV::4871144130098810492::1704372486::1704411232::1::::<><>::
+Water footstep 3.wav::AudioStreamWAV::1994951254225565537::1704372486::1704411232::1::::<><>::
+Water footstep 4.wav::AudioStreamWAV::2982655473829002878::1704372486::1704411232::1::::<><>::
+Water footstep 5.wav::AudioStreamWAV::6981829330312100210::1704372486::1704411232::1::::<><>::
+Water footstep 6.wav::AudioStreamWAV::452375741651983952::1704372486::1704411232::1::::<><>::
+Water footstep 7.wav::AudioStreamWAV::6467072046964975571::1704372486::1704411232::1::::<><>::
+Water footstep 8.wav::AudioStreamWAV::5532474172143184057::1704372486::1704411232::1::::<><>::
+Water footstep 9.wav::AudioStreamWAV::43688956478989343::1704372486::1704411232::1::::<><>::
+Water footstep 10.wav::AudioStreamWAV::1545470778352599658::1704372486::1704411232::1::::<><>::
+::res://assets/sounds/Footstep Sounds Pro/Wood footsteps/::1704411232
+Wood footstep 1.wav::AudioStreamWAV::4183079656453547272::1704372486::1704411232::1::::<><>::
+Wood footstep 2.wav::AudioStreamWAV::3414592074385397691::1704372486::1704411231::1::::<><>::
+Wood footstep 3.wav::AudioStreamWAV::3782165202988265032::1704372486::1704411231::1::::<><>::
+Wood footstep 4.wav::AudioStreamWAV::617496651248919507::1704372486::1704411231::1::::<><>::
+Wood footstep 5.wav::AudioStreamWAV::2673220742814615424::1704372486::1704411231::1::::<><>::
+Wood footstep 6.wav::AudioStreamWAV::1979650512734185454::1704372486::1704411231::1::::<><>::
+Wood footstep 7.wav::AudioStreamWAV::3942237832504855866::1704372486::1704411231::1::::<><>::
+Wood footstep 8.wav::AudioStreamWAV::6144781738714111349::1704372486::1704411231::1::::<><>::
+Wood footstep 9.wav::AudioStreamWAV::2603745688945567061::1704372486::1704411231::1::::<><>::
+Wood footstep 10.wav::AudioStreamWAV::9154497084698223772::1704372486::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/::1704411214
+::res://assets/sounds/Gore Sounds Pro/Blood dripping/::1704411231
+Blood dripping 1.wav::AudioStreamWAV::5568776897688902607::1704372486::1704411231::1::::<><>::
+Blood dripping 2.wav::AudioStreamWAV::5996046779258106651::1704372486::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Bloody Axe Impact/::1704411231
+Bloody Axe Impact 1.wav::AudioStreamWAV::5906885067864741478::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 2.wav::AudioStreamWAV::5060548751246620539::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 3.wav::AudioStreamWAV::4468995103450292046::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 4.wav::AudioStreamWAV::5106743498683150753::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 5.wav::AudioStreamWAV::2333154940948106070::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 6.wav::AudioStreamWAV::4111801074799764962::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 7.wav::AudioStreamWAV::1209954087557898899::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 8.wav::AudioStreamWAV::139442296014900012::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 9.wav::AudioStreamWAV::166094782037216629::1704372486::1704411231::1::::<><>::
+Bloody Axe Impact 10.wav::AudioStreamWAV::5904032935287432024::1704372486::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Bloody punches/::1704411231
+Bloody punches 1.wav::AudioStreamWAV::664087140243632027::1704372486::1704411231::1::::<><>::
+Bloody punches 2.wav::AudioStreamWAV::1486330764610175581::1704372486::1704411231::1::::<><>::
+Bloody punches 3.wav::AudioStreamWAV::7881306857152867308::1704372486::1704411231::1::::<><>::
+Bloody punches 4.wav::AudioStreamWAV::50323963761391159::1704372486::1704411231::1::::<><>::
+Bloody punches 5.wav::AudioStreamWAV::7148566816429652497::1704372486::1704411231::1::::<><>::
+Bloody punches 6.wav::AudioStreamWAV::2704635030213839349::1704372486::1704411231::1::::<><>::
+Bloody punches 7.wav::AudioStreamWAV::3087502360484395516::1704372486::1704411231::1::::<><>::
+Bloody punches 8.wav::AudioStreamWAV::4604157999237269289::1704372486::1704411231::1::::<><>::
+Bloody punches 9.wav::AudioStreamWAV::4221061581557304952::1704372486::1704411231::1::::<><>::
+Bloody punches 10.wav::AudioStreamWAV::5691148891461564477::1704372486::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Bloody stabs/::1704411231
+Bloody stabs 1.wav::AudioStreamWAV::5115359112668300935::1704372486::1704411231::1::::<><>::
+Bloody stabs 2.wav::AudioStreamWAV::4400045109804356772::1704372486::1704411231::1::::<><>::
+Bloody stabs 3.wav::AudioStreamWAV::7319262681151840717::1704372486::1704411231::1::::<><>::
+Bloody stabs 4.wav::AudioStreamWAV::2797721905773855142::1704372487::1704411231::1::::<><>::
+Bloody stabs 5.wav::AudioStreamWAV::9203988281190121388::1704372487::1704411231::1::::<><>::
+Bloody stabs 6.wav::AudioStreamWAV::6950640420234881954::1704372487::1704411231::1::::<><>::
+Bloody stabs 7.wav::AudioStreamWAV::3170277584387394144::1704372487::1704411231::1::::<><>::
+Bloody stabs 8.wav::AudioStreamWAV::7573991207566115689::1704372487::1704411231::1::::<><>::
+Bloody stabs 9.wav::AudioStreamWAV::6234518140158130796::1704372487::1704411231::1::::<><>::
+Bloody stabs 10.wav::AudioStreamWAV::1619724679984744142::1704372486::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Bugs running around/::1704411231
+Bugs running around 1.wav::AudioStreamWAV::6228059663084927841::1704372487::1704411231::1::::<><>::
+Bugs running around 2.wav::AudioStreamWAV::9058569189891507568::1704372487::1704411231::1::::<><>::
+Bugs running around 3.wav::AudioStreamWAV::7456841737677707402::1704372487::1704411231::1::::<><>::
+Bugs running around 4.wav::AudioStreamWAV::8450618415899643969::1704372487::1704411231::1::::<><>::
+Bugs running around 5.wav::AudioStreamWAV::6617711778837997554::1704372487::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Creaking door/::1704411231
+Creaking door 1.wav::AudioStreamWAV::2038509822001830328::1704372487::1704411231::1::::<><>::
+Creaking door 2.wav::AudioStreamWAV::3405256010863610212::1704372487::1704411231::1::::<><>::
+Creaking door 3.wav::AudioStreamWAV::5227442679243890850::1704372487::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Eating Guts/::1704411231
+Eating Guts 1.wav::AudioStreamWAV::819050512107817598::1704372487::1704411231::1::::<><>::
+Eating Guts 2.wav::AudioStreamWAV::1492990304481196827::1704372487::1704411231::1::::<><>::
+Eating Guts 3.wav::AudioStreamWAV::4440578182973094908::1704372487::1704411231::1::::<><>::
+Eating Guts 4.wav::AudioStreamWAV::7403443308832957243::1704372487::1704411231::1::::<><>::
+Eating Guts 5.wav::AudioStreamWAV::2146708311834760480::1704372487::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Eye pops/::1704411231
+Eye pops 1.wav::AudioStreamWAV::1599432079539968711::1704372487::1704411231::1::::<><>::
+Eye pops 2.wav::AudioStreamWAV::5637172601575003856::1704372487::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Female screams/::1704411231
+Female screams 1.wav::AudioStreamWAV::905898153060767249::1704372487::1704411231::1::::<><>::
+Female screams 2.wav::AudioStreamWAV::1779494694347712111::1704372487::1704411231::1::::<><>::
+Female screams 3.wav::AudioStreamWAV::2094823786952692805::1704372487::1704411231::1::::<><>::
+Female screams 4.wav::AudioStreamWAV::7035542416008326784::1704372487::1704411231::1::::<><>::
+Female screams 5.wav::AudioStreamWAV::6032483424204649622::1704372487::1704411231::1::::<><>::
+Female screams 6.wav::AudioStreamWAV::154581642063819006::1704372487::1704411231::1::::<><>::
+Female screams 7.wav::AudioStreamWAV::7447751207428773572::1704372487::1704411231::1::::<><>::
+Female screams 8.wav::AudioStreamWAV::6515987692716937742::1704372487::1704411231::1::::<><>::
+Female screams 9.wav::AudioStreamWAV::4673468840854133561::1704372487::1704411231::1::::<><>::
+Female screams 10.wav::AudioStreamWAV::6058355636986418248::1704372487::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Head exploding/::1704411232
+Head exploding 1.wav::AudioStreamWAV::8512412859569849292::1704372487::1704411231::1::::<><>::
+Head exploding 2.wav::AudioStreamWAV::5150105737704836210::1704372487::1704411231::1::::<><>::
+Head exploding 3.wav::AudioStreamWAV::514833800737344218::1704372487::1704411231::1::::<><>::
+Head exploding 4.wav::AudioStreamWAV::501861501042196450::1704372487::1704411231::1::::<><>::
+Head exploding 5.wav::AudioStreamWAV::7470117979898049048::1704372487::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Male screams/::1704411232
+Male screams 1.wav::AudioStreamWAV::6362604670972047503::1704372487::1704411232::1::::<><>::
+Male screams 2.wav::AudioStreamWAV::1873456733344089071::1704372487::1704411232::1::::<><>::
+Male screams 3.wav::AudioStreamWAV::5939269313800651496::1704372487::1704411232::1::::<><>::
+Male screams 4.wav::AudioStreamWAV::8265858054286503995::1704372487::1704411232::1::::<><>::
+Male screams 5.wav::AudioStreamWAV::3577099494746381073::1704372487::1704411232::1::::<><>::
+Male screams 6.wav::AudioStreamWAV::924903641458477540::1704372487::1704411232::1::::<><>::
+Male screams 7.wav::AudioStreamWAV::5158217677020912447::1704372487::1704411232::1::::<><>::
+Male screams 8.wav::AudioStreamWAV::4097106006943723576::1704372487::1704411232::1::::<><>::
+Male screams 9.wav::AudioStreamWAV::4917985866999738558::1704372487::1704411232::1::::<><>::
+Male screams 10.wav::AudioStreamWAV::5314669037869359550::1704372487::1704411232::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Needle piercing flesh/::1704411232
+Needle piercing flesh 1.wav::AudioStreamWAV::3523543492241200343::1704372487::1704411232::1::::<><>::
+Needle piercing flesh 2.wav::AudioStreamWAV::7565796640607011487::1704372487::1704411232::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Opening bloody wound/::1704411232
+Opening bloody wound 1.wav::AudioStreamWAV::4812035969827149843::1704372487::1704411232::1::::<><>::
+Opening bloody wound 2.wav::AudioStreamWAV::6639550293338132527::1704372487::1704411232::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Popping bloody Sac/::1704411232
+Popping bloody Sac 1.wav::AudioStreamWAV::6204022052934091801::1704372487::1704411232::1::::<><>::
+Popping bloody Sac 2.wav::AudioStreamWAV::3080444343243634051::1704372487::1704411232::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Ripping flesh/::1704411232
+Ripping flesh 1.wav::AudioStreamWAV::4520303154711787714::1704372487::1704411232::1::::<><>::
+Ripping flesh 2.wav::AudioStreamWAV::7333378150993460910::1704372488::1704411232::1::::<><>::
+Ripping flesh 3.wav::AudioStreamWAV::7298641727774947847::1704372488::1704411232::1::::<><>::
+Ripping flesh 4.wav::AudioStreamWAV::5436786002046878373::1704372488::1704411232::1::::<><>::
+Ripping flesh 5.wav::AudioStreamWAV::7375308150923169848::1704372488::1704411231::1::::<><>::
+Ripping flesh 6.wav::AudioStreamWAV::1571895018222800666::1704372488::1704411231::1::::<><>::
+Ripping flesh 7.wav::AudioStreamWAV::3135699011238322958::1704372488::1704411231::1::::<><>::
+Ripping flesh 8.wav::AudioStreamWAV::3232895003681321637::1704372488::1704411231::1::::<><>::
+Ripping flesh 9.wav::AudioStreamWAV::1797681675484271590::1704372488::1704411231::1::::<><>::
+Ripping flesh 10.wav::AudioStreamWAV::6047040076447596272::1704372488::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Ripping guts out of body/::1704411231
+Ripping guts out of body 1.wav::AudioStreamWAV::6195414199929453776::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 2.wav::AudioStreamWAV::8291622564742201771::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 3.wav::AudioStreamWAV::2890670295849565856::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 4.wav::AudioStreamWAV::2960318981848863350::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 5.wav::AudioStreamWAV::6039664483118973352::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 6.wav::AudioStreamWAV::8535191957657665931::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 7.wav::AudioStreamWAV::5384108111712147000::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 8.wav::AudioStreamWAV::9044339841230602537::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 9.wav::AudioStreamWAV::3547586797730342399::1704372488::1704411231::1::::<><>::
+Ripping guts out of body 10.wav::AudioStreamWAV::5534489093293440609::1704372488::1704411231::1::::<><>::
+::res://assets/sounds/Gore Sounds Pro/Skull crashed/::1704411231
+Skull crashed 1.wav::AudioStreamWAV::4172570825608523938::1704372488::1704411231::1::::<><>::
+Skull crashed 2.wav::AudioStreamWAV::4608346282274291101::1704372488::1704411231::1::::<><>::
+::res://assets/sounds/Gun Sounds Pro - HD Remake/::1704411236
+Armor Break 1.wav::AudioStreamWAV::7850907369665347729::1704372488::1704411231::1::::<><>::
+Armor Break 2.wav::AudioStreamWAV::8745046376260844309::1704372488::1704411231::1::::<><>::
+Armor Break 3.wav::AudioStreamWAV::297324168357977549::1704372488::1704411231::1::::<><>::
+Armor Break 4.wav::AudioStreamWAV::3858264932399803828::1704372488::1704411231::1::::<><>::
+Armor Break 5.wav::AudioStreamWAV::2013354712337771883::1704372488::1704411231::1::::<><>::
+Armor Break 6.wav::AudioStreamWAV::535461360760851902::1704372488::1704411231::1::::<><>::
+Armor On 2.wav::AudioStreamWAV::691064710870734324::1704372488::1704411231::1::::<><>::
+Armor On.wav::AudioStreamWAV::2632465660525218276::1704372488::1704411231::1::::<><>::
+Assault Rifle Burst 2.wav::AudioStreamWAV::3730158518545570237::1704372488::1704411231::1::::<><>::
+Assault Rifle Burst 3.wav::AudioStreamWAV::6047614431169599469::1704372488::1704411231::1::::<><>::
+Assault Rifle Burst 4.wav::AudioStreamWAV::7352432779417831658::1704372488::1704411231::1::::<><>::
+Assault Rifle Burst 5.wav::AudioStreamWAV::146581100500801838::1704372488::1704411231::1::::<><>::
+Assault Rifle Burst 6.wav::AudioStreamWAV::206468416872356003::1704372488::1704411235::1::::<><>::
+Assault Rifle Burst.wav::AudioStreamWAV::9201830213232474787::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 1.wav::AudioStreamWAV::4664883613387403132::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 2.wav::AudioStreamWAV::2862307917664524438::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 3.wav::AudioStreamWAV::904374965739521051::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 4.wav::AudioStreamWAV::7718980333662202163::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 5.wav::AudioStreamWAV::2525186518491864337::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 6.wav::AudioStreamWAV::7913738027868017829::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 7.wav::AudioStreamWAV::3230352691514480854::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 8.wav::AudioStreamWAV::4806121829174069241::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 9.wav::AudioStreamWAV::5829751193443974516::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 10.wav::AudioStreamWAV::3996126337029293923::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 11.wav::AudioStreamWAV::5953103006840482652::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 12.wav::AudioStreamWAV::5681549363480878173::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 13.wav::AudioStreamWAV::6862573334680395096::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 14.wav::AudioStreamWAV::6545181864292698031::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 15.wav::AudioStreamWAV::7713867345483255253::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 17.wav::AudioStreamWAV::5091802083097926023::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 18.wav::AudioStreamWAV::8856408716986128821::1704372488::1704411235::1::::<><>::
+Assault Rifle Shot 19.wav::AudioStreamWAV::7705216376176024054::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot 20.wav::AudioStreamWAV::4835078525782409559::1704372489::1704411235::1::::<><>::
+Assault Rifle Shot.wav::AudioStreamWAV::3717356884847920776::1704372489::1704411235::1::::<><>::
+Bullet In 2.wav::AudioStreamWAV::6171919975016336800::1704372489::1704411235::1::::<><>::
+Bullet In 3.wav::AudioStreamWAV::473038878295053779::1704372489::1704411235::1::::<><>::
+Bullet In 4.wav::AudioStreamWAV::263226693198657437::1704372489::1704411235::1::::<><>::
+Bullet In 5.wav::AudioStreamWAV::640007899359862704::1704372489::1704411235::1::::<><>::
+Bullet In.wav::AudioStreamWAV::6592150263809478217::1704372489::1704411235::1::::<><>::
+Cock Revolver 2.wav::AudioStreamWAV::1158148004185393::1704372489::1704411235::1::::<><>::
+Cock Revolver.wav::AudioStreamWAV::7915954360031054789::1704372489::1704411235::1::::<><>::
+Cock Shotgun 2.wav::AudioStreamWAV::3007663960701760389::1704372489::1704411235::1::::<><>::
+Cock Shotgun 3.wav::AudioStreamWAV::7362703825142259286::1704372489::1704411235::1::::<><>::
+Cock Shotgun 4.wav::AudioStreamWAV::2687387007716371870::1704372489::1704411234::1::::<><>::
+Cock Shotgun 5.wav::AudioStreamWAV::7217918769592846256::1704372489::1704411234::1::::<><>::
+Cock Shotgun.wav::AudioStreamWAV::1691694713184277436::1704372489::1704411234::1::::<><>::
+Dry shot 1.wav::AudioStreamWAV::7350950886795263195::1704372489::1704411234::1::::<><>::
+Dry shot 2.wav::AudioStreamWAV::2910062139855539365::1704372489::1704411234::1::::<><>::
+Dry shot 3.wav::AudioStreamWAV::5780697349874966432::1704372489::1704411234::1::::<><>::
+Dry shot 4.wav::AudioStreamWAV::7782394843576451536::1704372489::1704411234::1::::<><>::
+Dry shot 5.wav::AudioStreamWAV::5378056946010549476::1704372489::1704411234::1::::<><>::
+Dry shot 6.wav::AudioStreamWAV::2675419938110995966::1704372489::1704411234::1::::<><>::
+Dry shot 7.wav::AudioStreamWAV::8472772020269671483::1704372489::1704411234::1::::<><>::
+Dry shot 8.wav::AudioStreamWAV::4059930939522881960::1704372489::1704411234::1::::<><>::
+Dry shot 9.wav::AudioStreamWAV::1109138213854674664::1704372489::1704411234::1::::<><>::
+Dry shot 10.wav::AudioStreamWAV::8785063470769749004::1704372489::1704411234::1::::<><>::
+Gun Pickup 2.wav::AudioStreamWAV::972913664604419533::1704372489::1704411234::1::::<><>::
+Gun Pickup 3.wav::AudioStreamWAV::6234738589218234552::1704372489::1704411234::1::::<><>::
+Gun Pickup 4.wav::AudioStreamWAV::1010165283517340562::1704372489::1704411234::1::::<><>::
+Gun Pickup 5.wav::AudioStreamWAV::4914080887176409051::1704372489::1704411234::1::::<><>::
+Gun Pickup 6.wav::AudioStreamWAV::3531937362564878659::1704372489::1704411234::1::::<><>::
+Gun Pickup 7.wav::AudioStreamWAV::3537761440177463125::1704372489::1704411234::1::::<><>::
+Gun Pickup.wav::AudioStreamWAV::2750319572753265936::1704372489::1704411234::1::::<><>::
+Infantry Rifle 2.wav::AudioStreamWAV::2055607640958443794::1704372489::1704411234::1::::<><>::
+Infantry Rifle.wav::AudioStreamWAV::4127743248980551327::1704372489::1704411235::1::::<><>::
+Machine Gun Shot 2.wav::AudioStreamWAV::4796799776782005448::1704372489::1704411235::1::::<><>::
+Machine Gun Shot 3.wav::AudioStreamWAV::277091523246065921::1704372489::1704411235::1::::<><>::
+Machine Gun Shot 4.wav::AudioStreamWAV::3082845302618509520::1704372489::1704411235::1::::<><>::
+Machine Gun Shot 5.wav::AudioStreamWAV::4647272481100987357::1704372489::1704411235::1::::<><>::
+Machine Gun Shot 6.wav::AudioStreamWAV::1272083581328899154::1704372490::1704411235::1::::<><>::
+Machine Gun Shot.wav::AudioStreamWAV::7879013527897883159::1704372490::1704411235::1::::<><>::
+Mag In 2.wav::AudioStreamWAV::4592305939942200130::1704372490::1704411235::1::::<><>::
+Mag In 3.wav::AudioStreamWAV::7382955178273574453::1704372490::1704411235::1::::<><>::
+Mag In 4.wav::AudioStreamWAV::3305964178437833728::1704372490::1704411235::1::::<><>::
+Mag In.wav::AudioStreamWAV::9055943409748994469::1704372490::1704411235::1::::<><>::
+Mag Out.wav::AudioStreamWAV::8518767964102901427::1704372490::1704411235::1::::<><>::
+Pistol Shot 2.wav::AudioStreamWAV::5365814034096187134::1704372490::1704411235::1::::<><>::
+Pistol Shot 3.wav::AudioStreamWAV::2213628425184765580::1704372490::1704411235::1::::<><>::
+Pistol Shot 4.wav::AudioStreamWAV::5720026954895773802::1704372490::1704411235::1::::<><>::
+Pistol Shot 5.wav::AudioStreamWAV::8097117876457704774::1704372490::1704411235::1::::<><>::
+Pistol Shot 6.wav::AudioStreamWAV::4305243374194948446::1704372490::1704411235::1::::<><>::
+Pistol Shot 7.wav::AudioStreamWAV::3375802598119463232::1704372490::1704411235::1::::<><>::
+Pistol Shot 8.wav::AudioStreamWAV::8034720215763011123::1704372490::1704411235::1::::<><>::
+Pistol Shot 9.wav::AudioStreamWAV::2057452743744539572::1704372490::1704411235::1::::<><>::
+Pistol Shot 10.wav::AudioStreamWAV::8807436886001751248::1704372490::1704411235::1::::<><>::
+Pistol Shot 11.wav::AudioStreamWAV::2783029611513130087::1704372490::1704411235::1::::<><>::
+Pistol Shot 12.wav::AudioStreamWAV::3869507221855914065::1704372490::1704411235::1::::<><>::
+Pistol Shot 13.wav::AudioStreamWAV::5599399910391387334::1704372490::1704411235::1::::<><>::
+Pistol Shot 14.wav::AudioStreamWAV::3292071943867131445::1704372490::1704411235::1::::<><>::
+Pistol Shot 15.wav::AudioStreamWAV::568660860496957354::1704372490::1704411235::1::::<><>::
+Pistol Shot 16.wav::AudioStreamWAV::698740510298171007::1704372490::1704411235::1::::<><>::
+Pistol Shot 17.wav::AudioStreamWAV::944656845702255562::1704372490::1704411235::1::::<><>::
+Pistol Shot 18.wav::AudioStreamWAV::5237408283075987657::1704372490::1704411235::1::::<><>::
+Pistol Shot 19.wav::AudioStreamWAV::6784649527532390718::1704372490::1704411235::1::::<><>::
+Pistol Shot 20.wav::AudioStreamWAV::467039750544943113::1704372490::1704411235::1::::<><>::
+Pistol Shot 21.wav::AudioStreamWAV::4625048228190572246::1704372490::1704411235::1::::<><>::
+Pistol Shot 22.wav::AudioStreamWAV::6363552580969922590::1704372490::1704411235::1::::<><>::
+Pistol Shot 23.wav::AudioStreamWAV::458099412933004440::1704372490::1704411235::1::::<><>::
+Pistol Shot 24.wav::AudioStreamWAV::1649617054260073502::1704372490::1704411235::1::::<><>::
+Pistol Shot 25.wav::AudioStreamWAV::8716765463932344660::1704372490::1704411235::1::::<><>::
+Pistol Shot 26.wav::AudioStreamWAV::5590698837688885788::1704372490::1704411235::1::::<><>::
+Pistol Shot 27.wav::AudioStreamWAV::8716829570666345986::1704372490::1704411235::1::::<><>::
+Pistol Shot 28.wav::AudioStreamWAV::5346675782563365765::1704372490::1704411235::1::::<><>::
+Pistol Shot 29.wav::AudioStreamWAV::6517785238150399042::1704372490::1704411235::1::::<><>::
+Pistol Shot 30.wav::AudioStreamWAV::5475667879987397372::1704372490::1704411235::1::::<><>::
+Pistol Shot.wav::AudioStreamWAV::8459834031630097475::1704372490::1704411235::1::::<><>::
+Reload 2.wav::AudioStreamWAV::3261867455808007348::1704372490::1704411235::1::::<><>::
+Reload 3.wav::AudioStreamWAV::7083324977075385115::1704372490::1704411235::1::::<><>::
+Reload 4.wav::AudioStreamWAV::1491158437618483709::1704372490::1704411235::1::::<><>::
+Reload 5.wav::AudioStreamWAV::3800490030783161659::1704372490::1704411235::1::::<><>::
+Reload 6.wav::AudioStreamWAV::8565298515212222501::1704372490::1704411235::1::::<><>::
+Reload.wav::AudioStreamWAV::3759197752207623516::1704372490::1704411235::1::::<><>::
+Revolver Reload.wav::AudioStreamWAV::8432435409320297403::1704372490::1704411235::1::::<><>::
+Revolver Shot 2.wav::AudioStreamWAV::2406490548272894899::1704372490::1704411235::1::::<><>::
+Revolver Shot 3.wav::AudioStreamWAV::8898578675846472381::1704372490::1704411235::1::::<><>::
+Revolver Shot 4.wav::AudioStreamWAV::837431866845928030::1704372490::1704411235::1::::<><>::
+Revolver Shot 5.wav::AudioStreamWAV::5021480057487447520::1704372490::1704411235::1::::<><>::
+Revolver Shot 6.wav::AudioStreamWAV::6602584120012490823::1704372491::1704411235::1::::<><>::
+Revolver Shot 7.wav::AudioStreamWAV::2072329501388539806::1704372491::1704411235::1::::<><>::
+Revolver Shot 8.wav::AudioStreamWAV::2307651404085066505::1704372491::1704411235::1::::<><>::
+Revolver Shot.wav::AudioStreamWAV::2859592826487249361::1704372491::1704411235::1::::<><>::
+Shotgun Shot 2.wav::AudioStreamWAV::6484076541306550632::1704372491::1704411235::1::::<><>::
+Shotgun Shot 3.wav::AudioStreamWAV::2794078003533393553::1704372491::1704411235::1::::<><>::
+Shotgun Shot 4.wav::AudioStreamWAV::1461002171854927146::1704372491::1704411235::1::::<><>::
+Shotgun Shot 5.wav::AudioStreamWAV::4812889249726080896::1704372491::1704411235::1::::<><>::
+Shotgun Shot.wav::AudioStreamWAV::5621426576886923532::1704372491::1704411235::1::::<><>::
+Silenced Burst.wav::AudioStreamWAV::7268418361129678233::1704372491::1704411235::1::::<><>::
+Silenced Pistol 2.wav::AudioStreamWAV::4078341597361231611::1704372491::1704411235::1::::<><>::
+Silenced Pistol 3.wav::AudioStreamWAV::6924639915955564211::1704372491::1704411235::1::::<><>::
+Silenced Pistol 4.wav::AudioStreamWAV::5098882296948838972::1704372491::1704411235::1::::<><>::
+Silenced Pistol 5.wav::AudioStreamWAV::3892759539328468074::1704372491::1704411235::1::::<><>::
+Silenced Pistol 6.wav::AudioStreamWAV::3592976235832735528::1704372491::1704411235::1::::<><>::
+Silenced Pistol.wav::AudioStreamWAV::7905589746271199486::1704372491::1704411235::1::::<><>::
+Silenced Rifle.wav::AudioStreamWAV::350912698644569573::1704372491::1704411235::1::::<><>::
+Silenced Sniper RIfle 2.wav::AudioStreamWAV::6508714014799137810::1704372491::1704411233::1::::<><>::
+Silenced Sniper RIfle 3.wav::AudioStreamWAV::3132525787422247487::1704372491::1704411233::1::::<><>::
+Silenced Sniper RIfle.wav::AudioStreamWAV::7544512546877796693::1704372491::1704411233::1::::<><>::
+Sniper Shot 2.wav::AudioStreamWAV::3798994216197675024::1704372491::1704411233::1::::<><>::
+Sniper Shot 3.wav::AudioStreamWAV::8566425791373464::1704372491::1704411233::1::::<><>::
+Sniper Shot 4.wav::AudioStreamWAV::4307638408267830120::1704372491::1704411233::1::::<><>::
+Sniper Shot 5.wav::AudioStreamWAV::2106181220670953843::1704372491::1704411233::1::::<><>::
+Sniper Shot 6.wav::AudioStreamWAV::3904537959855882488::1704372491::1704411233::1::::<><>::
+Sniper Shot 7.wav::AudioStreamWAV::5231521188492384118::1704372491::1704411233::1::::<><>::
+Sniper Shot 8.wav::AudioStreamWAV::2671689033120476746::1704372491::1704411233::1::::<><>::
+Sniper Shot (50 cal) - Barrett M82.wav::AudioStreamWAV::1629555952401977294::1704372491::1704411233::1::::<><>::
+Sniper Shot.wav::AudioStreamWAV::8735160639395661838::1704372491::1704411233::1::::<><>::
+Zipper 2.wav::AudioStreamWAV::2964997007539308923::1704372491::1704411233::1::::<><>::
+Zipper.wav::AudioStreamWAV::2403377590313467196::1704372491::1704411233::1::::<><>::
+::res://assets/sounds/SCI FI DOORS/::1704411234
+DOOR_CLOSE_1.wav::AudioStreamWAV::516784914315108662::1704372491::1704411233::1::::<><>::
+DOOR_CLOSE_2.wav::AudioStreamWAV::8559559196939439578::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_3.wav::AudioStreamWAV::922806599667215916::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_4.wav::AudioStreamWAV::7989395742481215219::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_5.wav::AudioStreamWAV::5748996812466115660::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_6.wav::AudioStreamWAV::7331039355770439233::1704372492::1704411234::1::::<><>::
+DOOR_CLOSE_7.wav::AudioStreamWAV::7647821326434728637::1704372492::1704411234::1::::<><>::
+DOOR_CLOSE_8.wav::AudioStreamWAV::7473830123824992158::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_9.wav::AudioStreamWAV::7813748160428307678::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_10.wav::AudioStreamWAV::3317377124492433333::1704372491::1704411233::1::::<><>::
+DOOR_CLOSE_11.wav::AudioStreamWAV::6439616744535590664::1704372491::1704411233::1::::<><>::
+DOOR_CLOSE_12.wav::AudioStreamWAV::5779447253301499450::1704372491::1704411234::1::::<><>::
+DOOR_CLOSE_13.wav::AudioStreamWAV::5598205945403593341::1704372491::1704411234::1::::<><>::
+DOOR_CLOSE_14.wav::AudioStreamWAV::8717872866173193678::1704372491::1704411234::1::::<><>::
+DOOR_CLOSE_15.wav::AudioStreamWAV::2667514375787138809::1704372491::1704411234::1::::<><>::
+DOOR_CLOSE_16.wav::AudioStreamWAV::2664304554636479712::1704372491::1704411234::1::::<><>::
+DOOR_CLOSE_17.wav::AudioStreamWAV::3895724823919115502::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_18.wav::AudioStreamWAV::6223277312124807415::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_19.wav::AudioStreamWAV::4946263872999277340::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_20.wav::AudioStreamWAV::6500856139865677676::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_21.wav::AudioStreamWAV::6214938248729395166::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_22.wav::AudioStreamWAV::5238397830272013204::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_23.wav::AudioStreamWAV::6020301831267029022::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_24.wav::AudioStreamWAV::5643229062573421318::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_25.wav::AudioStreamWAV::1035758462104330008::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_26.wav::AudioStreamWAV::8604708314214361201::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_27.wav::AudioStreamWAV::5613297403886952587::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_28.wav::AudioStreamWAV::4475697829176495665::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_29.wav::AudioStreamWAV::6172153482282274222::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_30.wav::AudioStreamWAV::6506723166228928982::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_31.wav::AudioStreamWAV::7620880133415590159::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_32.wav::AudioStreamWAV::7221770773626875210::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_33.wav::AudioStreamWAV::5534592974608407098::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_34.wav::AudioStreamWAV::2445606065067531500::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_35.wav::AudioStreamWAV::6248660361828924471::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_36.wav::AudioStreamWAV::5926069289768751037::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_37.wav::AudioStreamWAV::7351017736947179357::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_38.wav::AudioStreamWAV::5183935401259758863::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_39.wav::AudioStreamWAV::4307265802536845096::1704372492::1704411233::1::::<><>::
+DOOR_CLOSE_40.wav::AudioStreamWAV::8299952516743871299::1704372492::1704411233::1::::<><>::
+DOOR_OPEN_1.wav::AudioStreamWAV::3220642713326430150::1704372493::1704411233::1::::<><>::
+DOOR_OPEN_2.wav::AudioStreamWAV::612194490569796723::1704372493::1704411233::1::::<><>::
+DOOR_OPEN_3.wav::AudioStreamWAV::5554132221076980874::1704372493::1704411233::1::::<><>::
+DOOR_OPEN_4.wav::AudioStreamWAV::7069886542057696554::1704372494::1704411233::1::::<><>::
+DOOR_OPEN_5.wav::AudioStreamWAV::1231933622017101330::1704372494::1704411233::1::::<><>::
+DOOR_OPEN_6.wav::AudioStreamWAV::5031372335780390029::1704372494::1704411233::1::::<><>::
+DOOR_OPEN_7.wav::AudioStreamWAV::4982904439803208717::1704372494::1704411234::1::::<><>::
+DOOR_OPEN_8.wav::AudioStreamWAV::7698879988829635023::1704372494::1704411234::1::::<><>::
+DOOR_OPEN_9.wav::AudioStreamWAV::1178361138369959585::1704372494::1704411234::1::::<><>::
+DOOR_OPEN_10.wav::AudioStreamWAV::1258836069668401623::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_11.wav::AudioStreamWAV::4798938448012606959::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_12.wav::AudioStreamWAV::6559989730530994323::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_13.wav::AudioStreamWAV::7842824841147830249::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_14.wav::AudioStreamWAV::2727409799004967837::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_15.wav::AudioStreamWAV::6055046231585201638::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_16.wav::AudioStreamWAV::3138693615715204039::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_17.wav::AudioStreamWAV::7567148675237013970::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_18.wav::AudioStreamWAV::5851744318499158130::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_19.wav::AudioStreamWAV::8242980357592948512::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_20.wav::AudioStreamWAV::4296949175973023229::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_21.wav::AudioStreamWAV::6972799973941665849::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_22.wav::AudioStreamWAV::4308484182695550579::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_23.wav::AudioStreamWAV::1963606417742453043::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_24.wav::AudioStreamWAV::930066088252383051::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_25.wav::AudioStreamWAV::7846602334067805303::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_26.wav::AudioStreamWAV::1098688469342004394::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_27.wav::AudioStreamWAV::7650112401171534806::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_28.wav::AudioStreamWAV::1902459927262851135::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_29.wav::AudioStreamWAV::5029212687709550875::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_30.wav::AudioStreamWAV::664887672183674220::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_31.wav::AudioStreamWAV::6831169774620402474::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_32.wav::AudioStreamWAV::609205575168506954::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_33.wav::AudioStreamWAV::463106029070152126::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_34.wav::AudioStreamWAV::4821527861485649892::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_35.wav::AudioStreamWAV::5671585083665119466::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_36.wav::AudioStreamWAV::7080703758855381378::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_37.wav::AudioStreamWAV::7271593870611227881::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_38.wav::AudioStreamWAV::2994979286468361324::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_39.wav::AudioStreamWAV::327814961481974715::1704372493::1704411234::1::::<><>::
+DOOR_OPEN_40.wav::AudioStreamWAV::1349413934232238223::1704372494::1704411234::1::::<><>::
+::res://assets/sounds/Ui & Item Sounds - HD Remake/::1704411234
+8 Bit click sound 1.wav::AudioStreamWAV::6088311990466279446::1704372494::1704411234::1::::<><>::
+8 Bit click sound 2.wav::AudioStreamWAV::4960627920925168006::1704372494::1704411234::1::::<><>::
+8 Bit click sound 3.wav::AudioStreamWAV::4632708577955251881::1704372494::1704411234::1::::<><>::
+8 Bit click sound 4.wav::AudioStreamWAV::4185884496896941614::1704372494::1704411234::1::::<><>::
+8 Bit click sound 5.wav::AudioStreamWAV::7371960409239916276::1704372494::1704411234::1::::<><>::
+8 Bit click sound 6.wav::AudioStreamWAV::3418309290343277517::1704372494::1704411234::1::::<><>::
+8 Bit click sound 7.wav::AudioStreamWAV::8538190077616337149::1704372494::1704411234::1::::<><>::
+8 Bit click sound 8.wav::AudioStreamWAV::2874810160761757266::1704372494::1704411234::1::::<><>::
+8 Bit click sound 9.wav::AudioStreamWAV::8579706344714200763::1704372494::1704411234::1::::<><>::
+8 Bit click sound 10.wav::AudioStreamWAV::4008864160609404483::1704372494::1704411234::1::::<><>::
+Alert sound 1.wav::AudioStreamWAV::4886293103807071279::1704372494::1704411234::1::::<><>::
+Alert sound 2.wav::AudioStreamWAV::1923953877827668003::1704372494::1704411234::1::::<><>::
+Alert sound 3.wav::AudioStreamWAV::6398149653023172095::1704372494::1704411234::1::::<><>::
+Alert sound 4.wav::AudioStreamWAV::1821511078606366884::1704372494::1704411234::1::::<><>::
+Alert sound 5.wav::AudioStreamWAV::7301767314681711409::1704372494::1704411234::1::::<><>::
+Balloon sound (Balloon pop) 1.wav::AudioStreamWAV::5017182709177609147::1704372494::1704411234::1::::<><>::
+Balloon sound (Balloon pop) 2.wav::AudioStreamWAV::8263169120686264603::1704372494::1704411234::1::::<><>::
+Balloon sound (Balloon pop) 3.wav::AudioStreamWAV::3901430000832939487::1704372494::1704411234::1::::<><>::
+Balloon sound (Balloon pop) 4.wav::AudioStreamWAV::672908004665249056::1704372494::1704411234::1::::<><>::
+Balloon sound (Balloon pop) 5.wav::AudioStreamWAV::979470855790845156::1704372494::1704411234::1::::<><>::
+Boing sound 1.wav::AudioStreamWAV::3192366171748791000::1704372494::1704411234::1::::<><>::
+Boing sound 2.wav::AudioStreamWAV::295654201347731006::1704372494::1704411234::1::::<><>::
+Boing sound 3.wav::AudioStreamWAV::577812028559066923::1704372494::1704411234::1::::<><>::
+Boing sound 4.wav::AudioStreamWAV::5871744347809661905::1704372494::1704411234::1::::<><>::
+Boing sound 5.wav::AudioStreamWAV::7963413016904037137::1704372494::1704411234::1::::<><>::
+Book page flip 1.wav::AudioStreamWAV::3614863075446078330::1704372494::1704411234::1::::<><>::
+Book page flip 2.wav::AudioStreamWAV::4600533330917809925::1704372494::1704411234::1::::<><>::
+Book page flip 3.wav::AudioStreamWAV::3086776538543930969::1704372494::1704411227::1::::<><>::
+Book page flip 4.wav::AudioStreamWAV::5735161330055907987::1704372494::1704411228::1::::<><>::
+Book page flip 5.wav::AudioStreamWAV::6332877584564486306::1704372494::1704411228::1::::<><>::
+Cash register 1.wav::AudioStreamWAV::6019394413423049192::1704372494::1704411228::1::::<><>::
+Cash register 2.wav::AudioStreamWAV::9082225847367850787::1704372494::1704411228::1::::<><>::
+Cash register 3.wav::AudioStreamWAV::3596404152351439241::1704372494::1704411228::1::::<><>::
+Cash register 4.wav::AudioStreamWAV::3040551798358396347::1704372494::1704411228::1::::<><>::
+Cash register 5.wav::AudioStreamWAV::7930970763156815705::1704372494::1704411228::1::::<><>::
+Click back sound 1.wav::AudioStreamWAV::1661142791326984113::1704372494::1704411228::1::::<><>::
+Click back sound 2.wav::AudioStreamWAV::8395699240834007209::1704372495::1704411228::1::::<><>::
+Click back sound 3.wav::AudioStreamWAV::8961994658308729141::1704372495::1704411228::1::::<><>::
+Click back sound 4.wav::AudioStreamWAV::1027309070465495556::1704372495::1704411228::1::::<><>::
+Click back sound 5.wav::AudioStreamWAV::4692742184671519040::1704372495::1704411228::1::::<><>::
+Click back sound 6.wav::AudioStreamWAV::889197996940924259::1704372495::1704411228::1::::<><>::
+Click back sound 7.wav::AudioStreamWAV::8238704080297479863::1704372495::1704411228::1::::<><>::
+Click back sound 8.wav::AudioStreamWAV::8319621432943879395::1704372495::1704411228::1::::<><>::
+Click back sound 9.wav::AudioStreamWAV::3884122093158608351::1704372495::1704411228::1::::<><>::
+Click back sound 10.wav::AudioStreamWAV::3531653710861247434::1704372494::1704411228::1::::<><>::
+Click back sound 11.wav::AudioStreamWAV::4081629253263925222::1704372494::1704411228::1::::<><>::
+Click back sound 12.wav::AudioStreamWAV::6225654331124717418::1704372494::1704411228::1::::<><>::
+Click back sound 13.wav::AudioStreamWAV::5917132145767203051::1704372494::1704411228::1::::<><>::
+Click back sound 14.wav::AudioStreamWAV::2976047044445757863::1704372494::1704411228::1::::<><>::
+Click back sound 15.wav::AudioStreamWAV::9122804457029751592::1704372494::1704411228::1::::<><>::
+Click back sound 16.wav::AudioStreamWAV::5706850136917102115::1704372494::1704411228::1::::<><>::
+Click back sound 17.wav::AudioStreamWAV::9078726548098292017::1704372494::1704411228::1::::<><>::
+Click back sound 18.wav::AudioStreamWAV::4845500689337511450::1704372495::1704411228::1::::<><>::
+Click back sound 19.wav::AudioStreamWAV::5609018759069721198::1704372495::1704411228::1::::<><>::
+Click back sound 20.wav::AudioStreamWAV::4981286249799823101::1704372495::1704411228::1::::<><>::
+Click back sound 21.wav::AudioStreamWAV::7455279405543796693::1704372495::1704411228::1::::<><>::
+Click back sound 22.wav::AudioStreamWAV::2630006740310611404::1704372495::1704411228::1::::<><>::
+Click back sound 23.wav::AudioStreamWAV::8078550977645037118::1704372495::1704411227::1::::<><>::
+Click back sound 24.wav::AudioStreamWAV::7380163664170739953::1704372495::1704411227::1::::<><>::
+Click back sound 25.wav::AudioStreamWAV::7814134106181963696::1704372495::1704411227::1::::<><>::
+Click sound 1.wav::AudioStreamWAV::9050010931943919724::1704372495::1704411227::1::::<><>::
+Click sound 2.wav::AudioStreamWAV::1814390957791571696::1704372495::1704411227::1::::<><>::
+Click sound 3.wav::AudioStreamWAV::4771017606843966665::1704372495::1704411227::1::::<><>::
+Click sound 4.wav::AudioStreamWAV::3912672243239213248::1704372495::1704411227::1::::<><>::
+Click sound 5.wav::AudioStreamWAV::8223458231479606492::1704372495::1704411227::1::::<><>::
+Click sound 6.wav::AudioStreamWAV::875281023748087037::1704372495::1704411227::1::::<><>::
+Click sound 7.wav::AudioStreamWAV::2632401181756054734::1704372495::1704411227::1::::<><>::
+Click sound 8.wav::AudioStreamWAV::3686684750891916128::1704372495::1704411227::1::::<><>::
+Click sound 9.wav::AudioStreamWAV::1721594333116525544::1704372495::1704411227::1::::<><>::
+Click sound 10.wav::AudioStreamWAV::1120707819606472982::1704372495::1704411227::1::::<><>::
+Click sound 11.wav::AudioStreamWAV::5555729679880527992::1704372495::1704411227::1::::<><>::
+Click sound 12.wav::AudioStreamWAV::6438534208119605313::1704372495::1704411227::1::::<><>::
+Click sound 13.wav::AudioStreamWAV::3482015212933478134::1704372495::1704411227::1::::<><>::
+Click sound 14.wav::AudioStreamWAV::5436612861143176198::1704372495::1704411227::1::::<><>::
+Click sound 15.wav::AudioStreamWAV::8283676245719598697::1704372495::1704411227::1::::<><>::
+Click sound 16.wav::AudioStreamWAV::2255041867907479901::1704372495::1704411227::1::::<><>::
+Click sound 17.wav::AudioStreamWAV::5577698779328977756::1704372495::1704411227::1::::<><>::
+Click sound 18.wav::AudioStreamWAV::3672233177710527884::1704372495::1704411227::1::::<><>::
+Click sound 19.wav::AudioStreamWAV::4042231384187163631::1704372495::1704411227::1::::<><>::
+Click sound 20.wav::AudioStreamWAV::5153732504209145831::1704372495::1704411227::1::::<><>::
+Click sound 21.wav::AudioStreamWAV::5758001662492294611::1704372495::1704411227::1::::<><>::
+Click sound 22.wav::AudioStreamWAV::2134128619159143425::1704372495::1704411227::1::::<><>::
+Click sound 23.wav::AudioStreamWAV::4556815836970968419::1704372495::1704411227::1::::<><>::
+Click sound 24.wav::AudioStreamWAV::5261832052710316168::1704372495::1704411227::1::::<><>::
+Click sound 25.wav::AudioStreamWAV::4741436609827199543::1704372495::1704411227::1::::<><>::
+Click sound 26.wav::AudioStreamWAV::5168029487509488178::1704372495::1704411227::1::::<><>::
+Click sound 27.wav::AudioStreamWAV::1891644150340262081::1704372495::1704411227::1::::<><>::
+Click sound 28.wav::AudioStreamWAV::718824127059469737::1704372495::1704411228::1::::<><>::
+Click sound 29.wav::AudioStreamWAV::621394269446773390::1704372495::1704411228::1::::<><>::
+Click sound 30.wav::AudioStreamWAV::1137151055843432699::1704372495::1704411228::1::::<><>::
+Click sound 31.wav::AudioStreamWAV::2270222944074637611::1704372495::1704411228::1::::<><>::
+Click sound 32.wav::AudioStreamWAV::8527244202178241362::1704372495::1704411228::1::::<><>::
+Click sound 33.wav::AudioStreamWAV::3476959754720283835::1704372495::1704411228::1::::<><>::
+Click sound 34.wav::AudioStreamWAV::2694280532013226476::1704372495::1704411228::1::::<><>::
+Click sound 35.wav::AudioStreamWAV::6036667821252203235::1704372495::1704411228::1::::<><>::
+Click sound 36.wav::AudioStreamWAV::7718509939198769145::1704372495::1704411228::1::::<><>::
+Click sound 37.wav::AudioStreamWAV::1976968721678169250::1704372495::1704411228::1::::<><>::
+Click sound 38.wav::AudioStreamWAV::3366143927018504191::1704372495::1704411228::1::::<><>::
+Click sound 39.wav::AudioStreamWAV::519424705628350856::1704372495::1704411228::1::::<><>::
+Click sound 40.wav::AudioStreamWAV::5282782328148462006::1704372495::1704411228::1::::<><>::
+Coins 1.wav::AudioStreamWAV::6159620305478333657::1704372495::1704411228::1::::<><>::
+Coins 2.wav::AudioStreamWAV::7770678949042342569::1704372496::1704411228::1::::<><>::
+Coins 3.wav::AudioStreamWAV::5257099607370490582::1704372496::1704411228::1::::<><>::
+Coins 4.wav::AudioStreamWAV::6092122029562864854::1704372496::1704411228::1::::<><>::
+Coins 5.wav::AudioStreamWAV::3866438311312009777::1704372496::1704411228::1::::<><>::
+Coins 6.wav::AudioStreamWAV::4628191379048594229::1704372496::1704411228::1::::<><>::
+Coins 7.wav::AudioStreamWAV::7015176667140677481::1704372496::1704411228::1::::<><>::
+Coins 8.wav::AudioStreamWAV::8382998277675031142::1704372496::1704411228::1::::<><>::
+Coins 9.wav::AudioStreamWAV::5621559429924962939::1704372496::1704411228::1::::<><>::
+Coins 10.wav::AudioStreamWAV::6819153797786407589::1704372496::1704411228::1::::<><>::
+Coins 11.wav::AudioStreamWAV::6622286580135658219::1704372496::1704411228::1::::<><>::
+Coins 12.wav::AudioStreamWAV::835844504758308842::1704372496::1704411228::1::::<><>::
+Coins 13.wav::AudioStreamWAV::6133696465997954356::1704372496::1704411228::1::::<><>::
+Coins 14.wav::AudioStreamWAV::8549377730189359251::1704372496::1704411228::1::::<><>::
+Coins 15.wav::AudioStreamWAV::4322945705185573033::1704372496::1704411228::1::::<><>::
+Coins 16.wav::AudioStreamWAV::1757975675268665530::1704372496::1704411228::1::::<><>::
+Coins 17.wav::AudioStreamWAV::2945167569417745229::1704372496::1704411228::1::::<><>::
+Coins 18.wav::AudioStreamWAV::1265044244058482827::1704372496::1704411228::1::::<><>::
+Coins 19.wav::AudioStreamWAV::1565668416042461999::1704372496::1704411228::1::::<><>::
+Coins 20.wav::AudioStreamWAV::3205209719144336622::1704372496::1704411228::1::::<><>::
+Coins 21.wav::AudioStreamWAV::3938460258841198818::1704372496::1704411228::1::::<><>::
+Coins 22.wav::AudioStreamWAV::8178629305958215867::1704372496::1704411228::1::::<><>::
+Coins 23.wav::AudioStreamWAV::6294177981771086907::1704372496::1704411228::1::::<><>::
+Coins 24.wav::AudioStreamWAV::6798998143932517859::1704372496::1704411228::1::::<><>::
+Coins 25.wav::AudioStreamWAV::8878468655221807851::1704372496::1704411228::1::::<><>::
+Collect star 1.wav::AudioStreamWAV::5590221058221237103::1704372496::1704411228::1::::<><>::
+Collect star 2.wav::AudioStreamWAV::1372177648193369030::1704372496::1704411228::1::::<><>::
+Collect star 3.wav::AudioStreamWAV::5118026566240951331::1704372496::1704411228::1::::<><>::
+Collect star 4.wav::AudioStreamWAV::2300477793445701162::1704372496::1704411228::1::::<><>::
+Collect star 5.wav::AudioStreamWAV::8994388965862694078::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 1.wav::AudioStreamWAV::7983843566544813765::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 2.wav::AudioStreamWAV::633140210162592857::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 3.wav::AudioStreamWAV::7696880988598760242::1704372497::1704411228::1::::<><>::
+Debuff Downgrade 4.wav::AudioStreamWAV::7623629902872018653::1704372497::1704411228::1::::<><>::
+Debuff Downgrade 5.wav::AudioStreamWAV::5276235721658908894::1704372497::1704411228::1::::<><>::
+Debuff Downgrade 6.wav::AudioStreamWAV::8241819825862154121::1704372497::1704411228::1::::<><>::
+Debuff Downgrade 7.wav::AudioStreamWAV::7660474066464387891::1704372497::1704411228::1::::<><>::
+Debuff Downgrade 8.wav::AudioStreamWAV::5027130312945462822::1704372497::1704411228::1::::<><>::
+Debuff Downgrade 9.wav::AudioStreamWAV::2567632991166245089::1704372497::1704411228::1::::<><>::
+Debuff Downgrade 10.wav::AudioStreamWAV::1884912474755898928::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 11.wav::AudioStreamWAV::6097948414212684873::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 12.wav::AudioStreamWAV::8680873078776395415::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 13.wav::AudioStreamWAV::5388292322673715235::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 14.wav::AudioStreamWAV::7771485512940571144::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 15.wav::AudioStreamWAV::1784090060674120277::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 16.wav::AudioStreamWAV::693549602037568530::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 17.wav::AudioStreamWAV::8268943511894289232::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 18.wav::AudioStreamWAV::6931410004793675410::1704372496::1704411228::1::::<><>::
+Debuff Downgrade 19.wav::AudioStreamWAV::2271537257598792601::1704372496::1704411226::1::::<><>::
+Debuff Downgrade 20.wav::AudioStreamWAV::8628506810466262687::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 21.wav::AudioStreamWAV::6006102249507259067::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 22.wav::AudioStreamWAV::2678997694523350723::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 23.wav::AudioStreamWAV::6380950585459911792::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 24.wav::AudioStreamWAV::1051332181345215178::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 25.wav::AudioStreamWAV::7214900532660833501::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 26.wav::AudioStreamWAV::4154732175883796205::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 27.wav::AudioStreamWAV::426698339236209800::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 28.wav::AudioStreamWAV::3706264136164418967::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 29.wav::AudioStreamWAV::351693765913823343::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 30.wav::AudioStreamWAV::1192701602721068720::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 31.wav::AudioStreamWAV::8245264388952027541::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 32.wav::AudioStreamWAV::1953730254510059177::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 33.wav::AudioStreamWAV::3501004335296261958::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 34.wav::AudioStreamWAV::6092868810665750810::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 35.wav::AudioStreamWAV::8295895619731582164::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 36.wav::AudioStreamWAV::3624736496281129415::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 37.wav::AudioStreamWAV::9124177186814357536::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 38.wav::AudioStreamWAV::5246290873332556816::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 39.wav::AudioStreamWAV::2211695094642889038::1704372497::1704411226::1::::<><>::
+Debuff Downgrade 40.wav::AudioStreamWAV::2096599905012632052::1704372497::1704411226::1::::<><>::
+Drink potion 1.wav::AudioStreamWAV::185562124823492215::1704372497::1704411226::1::::<><>::
+Drink potion 2.wav::AudioStreamWAV::8246503112086225757::1704372498::1704411226::1::::<><>::
+Drink potion 3.wav::AudioStreamWAV::9009057338815212285::1704372498::1704411226::1::::<><>::
+Drink potion 4.wav::AudioStreamWAV::2241419437026384914::1704372498::1704411227::1::::<><>::
+Drink potion 5.wav::AudioStreamWAV::7941082456982495128::1704372498::1704411226::1::::<><>::
+Drum roll 1.wav::AudioStreamWAV::575483380127244659::1704372498::1704411227::1::::<><>::
+Drum roll 2.wav::AudioStreamWAV::6047012769221616398::1704372498::1704411227::1::::<><>::
+Drum roll 3.wav::AudioStreamWAV::4380723701153719607::1704372498::1704411227::1::::<><>::
+Drum roll 4.wav::AudioStreamWAV::4524965005528357386::1704372498::1704411226::1::::<><>::
+Drum roll 5.wav::AudioStreamWAV::1026733263692535112::1704372498::1704411226::1::::<><>::
+Drum roll 6.wav::AudioStreamWAV::2080070825865721186::1704372498::1704411226::1::::<><>::
+Drum roll 7.wav::AudioStreamWAV::9172146248826511594::1704372498::1704411226::1::::<><>::
+Drum roll 8.wav::AudioStreamWAV::8556506078503792794::1704372498::1704411226::1::::<><>::
+Drum roll 9.wav::AudioStreamWAV::4107458370544246670::1704372498::1704411226::1::::<><>::
+Drum roll 10.wav::AudioStreamWAV::2386818570931694699::1704372498::1704411226::1::::<><>::
+Error Sound 1.wav::AudioStreamWAV::1268302354864763965::1704372498::1704411226::1::::<><>::
+Error Sound 2.wav::AudioStreamWAV::1542995696035274261::1704372498::1704411226::1::::<><>::
+Error Sound 3.wav::AudioStreamWAV::3344159124703551240::1704372498::1704411226::1::::<><>::
+Error Sound 4.wav::AudioStreamWAV::5585012556276323509::1704372498::1704411226::1::::<><>::
+Error Sound 5.wav::AudioStreamWAV::4931407703265370116::1704372498::1704411226::1::::<><>::
+Error Sound 6.wav::AudioStreamWAV::2092807401085048700::1704372498::1704411226::1::::<><>::
+Error Sound 7.wav::AudioStreamWAV::4878780592263216208::1704372499::1704411226::1::::<><>::
+Error Sound 8.wav::AudioStreamWAV::5241400392664433263::1704372499::1704411226::1::::<><>::
+Error Sound 9.wav::AudioStreamWAV::998619772312801587::1704372499::1704411226::1::::<><>::
+Error Sound 10.wav::AudioStreamWAV::3852576771584434848::1704372498::1704411226::1::::<><>::
+Error Sound 11.wav::AudioStreamWAV::5808756412661634635::1704372498::1704411226::1::::<><>::
+Error Sound 12.wav::AudioStreamWAV::7760410135021647870::1704372498::1704411226::1::::<><>::
+Error Sound 13.wav::AudioStreamWAV::8195382468200859704::1704372498::1704411226::1::::<><>::
+Error Sound 14.wav::AudioStreamWAV::173091420401961743::1704372498::1704411226::1::::<><>::
+Error Sound 15.wav::AudioStreamWAV::7235863841316934595::1704372498::1704411226::1::::<><>::
+Error Sound 16.wav::AudioStreamWAV::4098436715070706910::1704372498::1704411226::1::::<><>::
+Error Sound 17.wav::AudioStreamWAV::3681860060521055983::1704372498::1704411226::1::::<><>::
+Error Sound 18.wav::AudioStreamWAV::3706657488217466602::1704372498::1704411226::1::::<><>::
+Error Sound 19.wav::AudioStreamWAV::8105031488329468126::1704372498::1704411226::1::::<><>::
+Error Sound 20.wav::AudioStreamWAV::1577317188735941847::1704372498::1704411226::1::::<><>::
+Error Sound 21.wav::AudioStreamWAV::4621138937327144285::1704372498::1704411226::1::::<><>::
+Error Sound 22.wav::AudioStreamWAV::5470342208437888515::1704372498::1704411226::1::::<><>::
+Error Sound 23.wav::AudioStreamWAV::1725558254097864693::1704372498::1704411226::1::::<><>::
+Error Sound 24.wav::AudioStreamWAV::1045871082819302769::1704372498::1704411227::1::::<><>::
+Error Sound 25.wav::AudioStreamWAV::3531911085871533715::1704372498::1704411227::1::::<><>::
+Fantasy click sound 1.wav::AudioStreamWAV::1988843309877105076::1704372499::1704411227::1::::<><>::
+Fantasy click sound 2.wav::AudioStreamWAV::5403247688883111407::1704372499::1704411227::1::::<><>::
+Fantasy click sound 3.wav::AudioStreamWAV::1385964351505185691::1704372499::1704411227::1::::<><>::
+Fantasy click sound 4.wav::AudioStreamWAV::1849342987851563711::1704372499::1704411227::1::::<><>::
+Fantasy click sound 5.wav::AudioStreamWAV::8778790978291556001::1704372499::1704411227::1::::<><>::
+Fantasy click sound 6.wav::AudioStreamWAV::8381814651781667029::1704372499::1704411227::1::::<><>::
+Fantasy click sound 7.wav::AudioStreamWAV::5115109627079975044::1704372499::1704411227::1::::<><>::
+Fantasy click sound 8.wav::AudioStreamWAV::1101064113791529384::1704372499::1704411227::1::::<><>::
+Fantasy click sound 9.wav::AudioStreamWAV::6970511331390552305::1704372499::1704411227::1::::<><>::
+Fantasy click sound 10.wav::AudioStreamWAV::3269946744250551040::1704372499::1704411227::1::::<><>::
+Fantasy click sound 11.wav::AudioStreamWAV::1258574286367130960::1704372499::1704411227::1::::<><>::
+Fantasy click sound 12.wav::AudioStreamWAV::7573608571639716114::1704372499::1704411227::1::::<><>::
+Gong1.wav::AudioStreamWAV::3155754530571293498::1704372499::1704411227::1::::<><>::
+Gong2.wav::AudioStreamWAV::1810224100215297080::1704372499::1704411227::1::::<><>::
+Gong3.wav::AudioStreamWAV::3636984525899669722::1704372499::1704411227::1::::<><>::
+Gong4.wav::AudioStreamWAV::1416054655529816017::1704372500::1704411227::1::::<><>::
+Gong5.wav::AudioStreamWAV::5534172573033757244::1704372500::1704411227::1::::<><>::
+Gong6.wav::AudioStreamWAV::3702010405545942991::1704372500::1704411227::1::::<><>::
+Gong7.wav::AudioStreamWAV::8735673019644296645::1704372500::1704411227::1::::<><>::
+Gong8.wav::AudioStreamWAV::7680843616073359328::1704372500::1704411227::1::::<><>::
+Gong9.wav::AudioStreamWAV::8719764209816570745::1704372500::1704411227::1::::<><>::
+Gong10.wav::AudioStreamWAV::371050429982995663::1704372499::1704411227::1::::<><>::
+Hover over button sound 1.wav::AudioStreamWAV::8039203492528458681::1704372500::1704411227::1::::<><>::
+Hover over button sound 2.wav::AudioStreamWAV::4127897059456389960::1704372501::1704411227::1::::<><>::
+Hover over button sound 3.wav::AudioStreamWAV::3450212245514974664::1704372501::1704411227::1::::<><>::
+Hover over button sound 4.wav::AudioStreamWAV::3831604177209937008::1704372501::1704411227::1::::<><>::
+Hover over button sound 5.wav::AudioStreamWAV::5570618750495264562::1704372501::1704411227::1::::<><>::
+Hover over button sound 6.wav::AudioStreamWAV::3376033124282147062::1704372501::1704411227::1::::<><>::
+Hover over button sound 7.wav::AudioStreamWAV::5114678052506882405::1704372501::1704411227::1::::<><>::
+Hover over button sound 8.wav::AudioStreamWAV::2312605718794007962::1704372501::1704411227::1::::<><>::
+Hover over button sound 9.wav::AudioStreamWAV::4662634920590537408::1704372501::1704411227::1::::<><>::
+Hover over button sound 10.wav::AudioStreamWAV::5398397792303718964::1704372500::1704411227::1::::<><>::
+Hover over button sound 11.wav::AudioStreamWAV::7776967317702756064::1704372500::1704411227::1::::<><>::
+Hover over button sound 12.wav::AudioStreamWAV::4179663910461862671::1704372500::1704411227::1::::<><>::
+Hover over button sound 13.wav::AudioStreamWAV::3117821141163948867::1704372500::1704411227::1::::<><>::
+Hover over button sound 14.wav::AudioStreamWAV::4002179487104468271::1704372500::1704411227::1::::<><>::
+Hover over button sound 15.wav::AudioStreamWAV::945696938680183520::1704372500::1704411227::1::::<><>::
+Hover over button sound 16.wav::AudioStreamWAV::7557104546771359412::1704372500::1704411227::1::::<><>::
+Hover over button sound 17.wav::AudioStreamWAV::8525532850234732948::1704372500::1704411227::1::::<><>::
+Hover over button sound 18.wav::AudioStreamWAV::2607639396361801799::1704372501::1704411227::1::::<><>::
+Hover over button sound 19.wav::AudioStreamWAV::7956568889951972748::1704372501::1704411227::1::::<><>::
+Hover over button sound 20.wav::AudioStreamWAV::6051570491863879374::1704372501::1704411227::1::::<><>::
+Hover over button sound 21.wav::AudioStreamWAV::8365256376593896815::1704372501::1704411227::1::::<><>::
+Hover over button sound 22.wav::AudioStreamWAV::899334084567771564::1704372501::1704411227::1::::<><>::
+Hover over button sound 23.wav::AudioStreamWAV::1243995668089020851::1704372501::1704411227::1::::<><>::
+Hover over button sound 24.wav::AudioStreamWAV::357622964460648917::1704372501::1704411227::1::::<><>::
+Hover over button sound 25.wav::AudioStreamWAV::7870388618069743294::1704372501::1704411227::1::::<><>::
+Hover over button sound 26.wav::AudioStreamWAV::9020812384229976227::1704372501::1704411227::1::::<><>::
+Hover over button sound 27.wav::AudioStreamWAV::2964228408823580962::1704372501::1704411227::1::::<><>::
+Hover over button sound 28.wav::AudioStreamWAV::4427532476824692141::1704372501::1704411227::1::::<><>::
+Hover over button sound 29.wav::AudioStreamWAV::6764826417065196392::1704372501::1704411227::1::::<><>::
+Hover over button sound 30.wav::AudioStreamWAV::8445037745845832494::1704372501::1704411227::1::::<><>::
+Hover over button sound 31.wav::AudioStreamWAV::4487338967678667638::1704372501::1704411227::1::::<><>::
+Hover over button sound 32.wav::AudioStreamWAV::1447504032192486098::1704372501::1704411227::1::::<><>::
+Hover over button sound 33.wav::AudioStreamWAV::9068547774509433924::1704372501::1704411227::1::::<><>::
+Hover over button sound 34.wav::AudioStreamWAV::892252256866614869::1704372501::1704411227::1::::<><>::
+Hover over button sound 35.wav::AudioStreamWAV::2846595944880682711::1704372501::1704411227::1::::<><>::
+Hover over button sound 36.wav::AudioStreamWAV::4827838453196554332::1704372501::1704411227::1::::<><>::
+Hover over button sound 37.wav::AudioStreamWAV::7727827673770201856::1704372501::1704411227::1::::<><>::
+Hover over button sound 38.wav::AudioStreamWAV::8782617420211268938::1704372501::1704411230::1::::<><>::
+Hover over button sound 39.wav::AudioStreamWAV::3142864196550744415::1704372501::1704411230::1::::<><>::
+Hover over button sound 40.wav::AudioStreamWAV::5515585622713870443::1704372501::1704411230::1::::<><>::
+Hover over button sound 41.wav::AudioStreamWAV::8379188087689665213::1704372501::1704411230::1::::<><>::
+Hover over button sound 42.wav::AudioStreamWAV::9212007102786940006::1704372501::1704411230::1::::<><>::
+Hover over button sound 43.wav::AudioStreamWAV::3790844990356667967::1704372501::1704411230::1::::<><>::
+Hover over button sound 44.wav::AudioStreamWAV::7368151384041422096::1704372501::1704411230::1::::<><>::
+Hover over button sound 45.wav::AudioStreamWAV::5718968325698889447::1704372501::1704411230::1::::<><>::
+Hover over button sound 46.wav::AudioStreamWAV::2521919077300402601::1704372501::1704411230::1::::<><>::
+Hover over button sound 47.wav::AudioStreamWAV::2861469714424243628::1704372501::1704411230::1::::<><>::
+Hover over button sound 48.wav::AudioStreamWAV::3683077281102041908::1704372501::1704411230::1::::<><>::
+Hover over button sound 49.wav::AudioStreamWAV::6942981746583344164::1704372501::1704411230::1::::<><>::
+Hover over button sound 50.wav::AudioStreamWAV::3238032917113393699::1704372501::1704411230::1::::<><>::
+Hover over button sound 51.wav::AudioStreamWAV::8619562601824376090::1704372501::1704411230::1::::<><>::
+Item purchase 1.wav::AudioStreamWAV::3871258604347133965::1704372501::1704411230::1::::<><>::
+Item purchase 2.wav::AudioStreamWAV::3526615446470308207::1704372502::1704411230::1::::<><>::
+Item purchase 3.wav::AudioStreamWAV::6023830823104543098::1704372502::1704411230::1::::<><>::
+Item purchase 4.wav::AudioStreamWAV::9113994099183241539::1704372502::1704411230::1::::<><>::
+Item purchase 5.wav::AudioStreamWAV::3570453717950043700::1704372502::1704411230::1::::<><>::
+Item purchase 6.wav::AudioStreamWAV::7561963446257007166::1704372502::1704411230::1::::<><>::
+Item purchase 7.wav::AudioStreamWAV::9137981604234858603::1704372502::1704411230::1::::<><>::
+Item purchase 8.wav::AudioStreamWAV::5146461341491127107::1704372502::1704411230::1::::<><>::
+Item purchase 9.wav::AudioStreamWAV::5200673939298787668::1704372502::1704411230::1::::<><>::
+Item purchase 10.wav::AudioStreamWAV::8250511696994003098::1704372501::1704411230::1::::<><>::
+Item purchase 11.wav::AudioStreamWAV::4753563670134252913::1704372501::1704411230::1::::<><>::
+Item purchase 12.wav::AudioStreamWAV::5038658568650962680::1704372501::1704411230::1::::<><>::
+Item purchase 13.wav::AudioStreamWAV::2059390524177651198::1704372501::1704411230::1::::<><>::
+Item purchase 14.wav::AudioStreamWAV::8082680450515488660::1704372501::1704411230::1::::<><>::
+Item purchase 15.wav::AudioStreamWAV::1588445349603309089::1704372501::1704411230::1::::<><>::
+Item purchase 16.wav::AudioStreamWAV::3672435541083127860::1704372502::1704411230::1::::<><>::
+Item purchase 17.wav::AudioStreamWAV::5023804257244429747::1704372502::1704411230::1::::<><>::
+Item purchase 18.wav::AudioStreamWAV::6529996761966309311::1704372502::1704411230::1::::<><>::
+Item purchase 19.wav::AudioStreamWAV::1424351650995609299::1704372502::1704411230::1::::<><>::
+Item purchase 20.wav::AudioStreamWAV::4728149280807278224::1704372502::1704411230::1::::<><>::
+Item purchase 21.wav::AudioStreamWAV::6564293268147963322::1704372502::1704411230::1::::<><>::
+Item purchase 22.wav::AudioStreamWAV::1393544855245476034::1704372502::1704411230::1::::<><>::
+Item purchase 23.wav::AudioStreamWAV::5605896372980872153::1704372502::1704411230::1::::<><>::
+Item purchase 24.wav::AudioStreamWAV::1836788034167743810::1704372502::1704411230::1::::<><>::
+Item purchase 25.wav::AudioStreamWAV::994317228407305347::1704372502::1704411230::1::::<><>::
+Item purchase 26.wav::AudioStreamWAV::3897334649094841183::1704372502::1704411230::1::::<><>::
+Item purchase 27.wav::AudioStreamWAV::7146321232846604356::1704372502::1704411230::1::::<><>::
+Item purchase 28.wav::AudioStreamWAV::6480143198373393670::1704372502::1704411230::1::::<><>::
+Item purchase 29.wav::AudioStreamWAV::3118814622806526138::1704372502::1704411230::1::::<><>::
+Item purchase 30.wav::AudioStreamWAV::1032301561738723826::1704372502::1704411230::1::::<><>::
+Lost sound 1.wav::AudioStreamWAV::3151356725169966840::1704372502::1704411230::1::::<><>::
+Lost sound 2.wav::AudioStreamWAV::7558018099999839405::1704372503::1704411230::1::::<><>::
+Lost sound 3.wav::AudioStreamWAV::1129926259222710197::1704372503::1704411230::1::::<><>::
+Lost sound 4.wav::AudioStreamWAV::4347924534119345124::1704372503::1704411230::1::::<><>::
+Lost sound 5.wav::AudioStreamWAV::878869283005656217::1704372503::1704411230::1::::<><>::
+Lost sound 6.wav::AudioStreamWAV::7945328155996336232::1704372503::1704411230::1::::<><>::
+Lost sound 7.wav::AudioStreamWAV::3979347390071479087::1704372503::1704411230::1::::<><>::
+Lost sound 8.wav::AudioStreamWAV::8364751478963971464::1704372503::1704411230::1::::<><>::
+Lost sound 9.wav::AudioStreamWAV::6287327932243279225::1704372503::1704411230::1::::<><>::
+Lost sound 10.wav::AudioStreamWAV::662839371900370471::1704372502::1704411230::1::::<><>::
+Lost sound 11.wav::AudioStreamWAV::4209077627277104180::1704372502::1704411230::1::::<><>::
+Lost sound 12.wav::AudioStreamWAV::3810480358351399741::1704372502::1704411230::1::::<><>::
+Lost sound 13.wav::AudioStreamWAV::5265099132145292866::1704372502::1704411230::1::::<><>::
+Lost sound 14.wav::AudioStreamWAV::1208926762288476032::1704372502::1704411230::1::::<><>::
+Lost sound 15.wav::AudioStreamWAV::1715526193118892623::1704372502::1704411230::1::::<><>::
+Lost sound 16.wav::AudioStreamWAV::4445579569184685517::1704372502::1704411230::1::::<><>::
+Lost sound 17.wav::AudioStreamWAV::5654651295946573125::1704372502::1704411230::1::::<><>::
+Lost sound 18.wav::AudioStreamWAV::3735304356936040175::1704372502::1704411230::1::::<><>::
+Lost sound 19.wav::AudioStreamWAV::5049447269516274717::1704372503::1704411230::1::::<><>::
+Lost sound 20.wav::AudioStreamWAV::6121672951508702508::1704372503::1704411231::1::::<><>::
+Lost sound 21.wav::AudioStreamWAV::7992160825546689539::1704372503::1704411230::1::::<><>::
+Lost sound 22.wav::AudioStreamWAV::5251666603250383535::1704372503::1704411230::1::::<><>::
+Lost sound 23.wav::AudioStreamWAV::2308188962419605487::1704372503::1704411230::1::::<><>::
+Lost sound 24.wav::AudioStreamWAV::5781429107748813543::1704372503::1704411230::1::::<><>::
+Lost sound 25.wav::AudioStreamWAV::165690580888896975::1704372503::1704411230::1::::<><>::
+Notification sound 1.wav::AudioStreamWAV::8512152961720889915::1704372503::1704411230::1::::<><>::
+Notification sound 2.wav::AudioStreamWAV::5791866112222748012::1704372504::1704411230::1::::<><>::
+Notification sound 3.wav::AudioStreamWAV::1249487050287141955::1704372504::1704411230::1::::<><>::
+Notification sound 4.wav::AudioStreamWAV::8147205162340683427::1704372504::1704411231::1::::<><>::
+Notification sound 5.wav::AudioStreamWAV::3475688523334374869::1704372504::1704411231::1::::<><>::
+Notification sound 6.wav::AudioStreamWAV::3919434403803994003::1704372504::1704411231::1::::<><>::
+Notification sound 7.wav::AudioStreamWAV::4509339980760234255::1704372504::1704411231::1::::<><>::
+Notification sound 8.wav::AudioStreamWAV::7172019924692899953::1704372504::1704411231::1::::<><>::
+Notification sound 9.wav::AudioStreamWAV::7904349708089390016::1704372504::1704411231::1::::<><>::
+Notification sound 10.wav::AudioStreamWAV::6344892212223952702::1704372503::1704411231::1::::<><>::
+Notification sound 11.wav::AudioStreamWAV::4005257067228037719::1704372503::1704411231::1::::<><>::
+Notification sound 12.wav::AudioStreamWAV::7095759132170069322::1704372503::1704411231::1::::<><>::
+Notification sound 13.wav::AudioStreamWAV::5867092595919077268::1704372503::1704411231::1::::<><>::
+Notification sound 14.wav::AudioStreamWAV::2478968230900712459::1704372503::1704411231::1::::<><>::
+Notification sound 15.wav::AudioStreamWAV::2752116091849704481::1704372503::1704411231::1::::<><>::
+Notification sound 16.wav::AudioStreamWAV::7579100745720349697::1704372503::1704411231::1::::<><>::
+Notification sound 17.wav::AudioStreamWAV::3053317330873379670::1704372503::1704411231::1::::<><>::
+Notification sound 18.wav::AudioStreamWAV::5982467414533277413::1704372504::1704411231::1::::<><>::
+Notification sound 19.wav::AudioStreamWAV::3244989732399997985::1704372504::1704411231::1::::<><>::
+Notification sound 20.wav::AudioStreamWAV::2722397485665185880::1704372504::1704411231::1::::<><>::
+Open map 1.wav::AudioStreamWAV::3482662973391937289::1704372504::1704411231::1::::<><>::
+Open map 2.wav::AudioStreamWAV::7310339411142807984::1704372504::1704411231::1::::<><>::
+Open map 3.wav::AudioStreamWAV::8567244082891604108::1704372504::1704411231::1::::<><>::
+Open map 4.wav::AudioStreamWAV::1081480854611411679::1704372504::1704411230::1::::<><>::
+Open map 5.wav::AudioStreamWAV::3502682323500220350::1704372504::1704411230::1::::<><>::
+Open map 6.wav::AudioStreamWAV::2520777150467632810::1704372504::1704411230::1::::<><>::
+Open map 7.wav::AudioStreamWAV::8241180563056333725::1704372504::1704411230::1::::<><>::
+Pop sound 1.wav::AudioStreamWAV::8477058323798970352::1704372504::1704411230::1::::<><>::
+Pop sound 2.wav::AudioStreamWAV::4089266392781326469::1704372504::1704411230::1::::<><>::
+Pop sound 3.wav::AudioStreamWAV::4511403571162549796::1704372504::1704411230::1::::<><>::
+Pop sound 4.wav::AudioStreamWAV::8313142567465512999::1704372504::1704411230::1::::<><>::
+Pop sound 5.wav::AudioStreamWAV::4829123678490260174::1704372504::1704411230::1::::<><>::
+Pop sound 6.wav::AudioStreamWAV::162447771102911142::1704372504::1704411230::1::::<><>::
+Pop sound 7.wav::AudioStreamWAV::1646828377559724434::1704372504::1704411230::1::::<><>::
+Pop sound 8.wav::AudioStreamWAV::1293981674930865616::1704372505::1704411230::1::::<><>::
+Pop sound 9.wav::AudioStreamWAV::8409742241247121061::1704372505::1704411230::1::::<><>::
+Pop sound 10.wav::AudioStreamWAV::2067312855181548467::1704372504::1704411230::1::::<><>::
+Pop sound 11.wav::AudioStreamWAV::6561903367077611139::1704372504::1704411230::1::::<><>::
+Pop sound 12.wav::AudioStreamWAV::3662644537702067434::1704372504::1704411230::1::::<><>::
+Pop sound 13.wav::AudioStreamWAV::8149917734137793668::1704372504::1704411230::1::::<><>::
+Pop sound 14.wav::AudioStreamWAV::6413135844688930655::1704372504::1704411230::1::::<><>::
+Pop sound 15.wav::AudioStreamWAV::669749229964242372::1704372504::1704411230::1::::<><>::
+Pop sound 16.wav::AudioStreamWAV::3380242610488089185::1704372504::1704411230::1::::<><>::
+Pop sound 17.wav::AudioStreamWAV::3682546101444844083::1704372504::1704411230::1::::<><>::
+Pop sound 18.wav::AudioStreamWAV::5532083900486110413::1704372504::1704411230::1::::<><>::
+Pop sound 19.wav::AudioStreamWAV::6131324309220014624::1704372504::1704411230::1::::<><>::
+Pop sound 20.wav::AudioStreamWAV::6314441977895172643::1704372504::1704411230::1::::<><>::
+Powerup upgrade 1.wav::AudioStreamWAV::3228766870735434438::1704372505::1704411230::1::::<><>::
+Powerup upgrade 2.wav::AudioStreamWAV::8328214409300745377::1704372505::1704411230::1::::<><>::
+Powerup upgrade 3.wav::AudioStreamWAV::4689150479498498495::1704372505::1704411230::1::::<><>::
+Powerup upgrade 4.wav::AudioStreamWAV::904622209340690075::1704372506::1704411230::1::::<><>::
+Powerup upgrade 5.wav::AudioStreamWAV::5328690828925254840::1704372506::1704411230::1::::<><>::
+Powerup upgrade 6.wav::AudioStreamWAV::376531459093895576::1704372506::1704411230::1::::<><>::
+Powerup upgrade 7.wav::AudioStreamWAV::1699953023402272899::1704372506::1704411229::1::::<><>::
+Powerup upgrade 8.wav::AudioStreamWAV::900827079844649042::1704372506::1704411229::1::::<><>::
+Powerup upgrade 9.wav::AudioStreamWAV::5144489359154294626::1704372506::1704411229::1::::<><>::
+Powerup upgrade 10.wav::AudioStreamWAV::2066063926058681612::1704372505::1704411229::1::::<><>::
+Powerup upgrade 11.wav::AudioStreamWAV::7753216889532864552::1704372505::1704411229::1::::<><>::
+Powerup upgrade 12.wav::AudioStreamWAV::5380363252493251186::1704372505::1704411229::1::::<><>::
+Powerup upgrade 13.wav::AudioStreamWAV::8867231197379718522::1704372505::1704411229::1::::<><>::
+Powerup upgrade 14.wav::AudioStreamWAV::7089650299565977000::1704372505::1704411229::1::::<><>::
+Powerup upgrade 15.wav::AudioStreamWAV::8169584859632688798::1704372505::1704411229::1::::<><>::
+Powerup upgrade 16.wav::AudioStreamWAV::4160408740569054441::1704372505::1704411229::1::::<><>::
+Powerup upgrade 17.wav::AudioStreamWAV::8310189642661989706::1704372505::1704411229::1::::<><>::
+Powerup upgrade 18.wav::AudioStreamWAV::1917619673733602530::1704372505::1704411229::1::::<><>::
+Powerup upgrade 19.wav::AudioStreamWAV::4715387180484918147::1704372505::1704411229::1::::<><>::
+Powerup upgrade 20.wav::AudioStreamWAV::703728817563510869::1704372505::1704411229::1::::<><>::
+Powerup upgrade 21.wav::AudioStreamWAV::8730719758044149103::1704372505::1704411229::1::::<><>::
+Powerup upgrade 22.wav::AudioStreamWAV::6264302979773192171::1704372505::1704411229::1::::<><>::
+Powerup upgrade 23.wav::AudioStreamWAV::4456878941821475495::1704372505::1704411229::1::::<><>::
+Powerup upgrade 24.wav::AudioStreamWAV::5002081601832152692::1704372505::1704411229::1::::<><>::
+Powerup upgrade 25.wav::AudioStreamWAV::8459732546295803525::1704372505::1704411229::1::::<><>::
+Powerup upgrade 26.wav::AudioStreamWAV::2454741996015547349::1704372505::1704411229::1::::<><>::
+Powerup upgrade 27.wav::AudioStreamWAV::1901494542854544954::1704372505::1704411229::1::::<><>::
+Powerup upgrade 28.wav::AudioStreamWAV::1198436773950452970::1704372505::1704411229::1::::<><>::
+Powerup upgrade 29.wav::AudioStreamWAV::1231394195072770940::1704372505::1704411229::1::::<><>::
+Powerup upgrade 30.wav::AudioStreamWAV::3366578937743333175::1704372505::1704411229::1::::<><>::
+Powerup upgrade 31.wav::AudioStreamWAV::4304271138567983461::1704372505::1704411229::1::::<><>::
+Powerup upgrade 32.wav::AudioStreamWAV::4246564719691659906::1704372505::1704411229::1::::<><>::
+Powerup upgrade 33.wav::AudioStreamWAV::7162786758036795719::1704372506::1704411229::1::::<><>::
+Powerup upgrade 34.wav::AudioStreamWAV::6229031790392547448::1704372506::1704411229::1::::<><>::
+Powerup upgrade 35.wav::AudioStreamWAV::3533627599854052491::1704372506::1704411229::1::::<><>::
+Powerup upgrade 36.wav::AudioStreamWAV::8418172979291098822::1704372506::1704411229::1::::<><>::
+Powerup upgrade 37.wav::AudioStreamWAV::3504985549320110700::1704372506::1704411228::1::::<><>::
+Powerup upgrade 38.wav::AudioStreamWAV::2783733896562773510::1704372506::1704411228::1::::<><>::
+Powerup upgrade 39.wav::AudioStreamWAV::5206336678746132947::1704372506::1704411228::1::::<><>::
+Powerup upgrade 40.wav::AudioStreamWAV::6226558561094919094::1704372506::1704411228::1::::<><>::
+Prize wheel spin 1.wav::AudioStreamWAV::8261061254614944550::1704372506::1704411228::1::::<><>::
+Prize wheel spin 2.wav::AudioStreamWAV::19415532761728105::1704372506::1704411228::1::::<><>::
+Prize wheel spin 3.wav::AudioStreamWAV::7852036558313142671::1704372506::1704411228::1::::<><>::
+Prize wheel spin 4.wav::AudioStreamWAV::8980971731130532515::1704372506::1704411228::1::::<><>::
+Prize wheel spin 5.wav::AudioStreamWAV::4168741776427048015::1704372506::1704411228::1::::<><>::
+Prize wheel spin 6.wav::AudioStreamWAV::688884152805455957::1704372506::1704411229::1::::<><>::
+Prize wheel spin 7.wav::AudioStreamWAV::3560041451041172831::1704372506::1704411228::1::::<><>::
+Prize wheel spin 8.wav::AudioStreamWAV::8782703610980087936::1704372507::1704411228::1::::<><>::
+Prize wheel spin 9.wav::AudioStreamWAV::4668430798307230272::1704372507::1704411228::1::::<><>::
+Prize wheel spin 10.wav::AudioStreamWAV::1489562986478843819::1704372506::1704411228::1::::<><>::
+Revive heal 1.wav::AudioStreamWAV::2574940431168851002::1704372507::1704411228::1::::<><>::
+Revive heal 2.wav::AudioStreamWAV::8317050848386369351::1704372507::1704411229::1::::<><>::
+Revive heal 3.wav::AudioStreamWAV::7361376503646471996::1704372507::1704411229::1::::<><>::
+Revive heal 4.wav::AudioStreamWAV::6840231214939978744::1704372507::1704411228::1::::<><>::
+Revive heal 5.wav::AudioStreamWAV::7424679419919028380::1704372507::1704411229::1::::<><>::
+Sci fi click sound 1.wav::AudioStreamWAV::6340708740686026552::1704372507::1704411228::1::::<><>::
+Sci fi click sound 2.wav::AudioStreamWAV::665233009718346315::1704372507::1704411229::1::::<><>::
+Sci fi click sound 3.wav::AudioStreamWAV::6050350228690450418::1704372507::1704411229::1::::<><>::
+Sci fi click sound 4.wav::AudioStreamWAV::6206853991589807139::1704372507::1704411229::1::::<><>::
+Sci fi click sound 5.wav::AudioStreamWAV::1880283160956543556::1704372507::1704411229::1::::<><>::
+Sci fi click sound 6.wav::AudioStreamWAV::8643875660359470723::1704372507::1704411229::1::::<><>::
+Sci fi click sound 7.wav::AudioStreamWAV::3073900020135692856::1704372507::1704411229::1::::<><>::
+Sci fi click sound 8.wav::AudioStreamWAV::6589233356587713210::1704372507::1704411229::1::::<><>::
+Sci fi click sound 9.wav::AudioStreamWAV::4263774289622085589::1704372507::1704411229::1::::<><>::
+Sci fi click sound 10.wav::AudioStreamWAV::1663265923625848323::1704372507::1704411229::1::::<><>::
+Sci fi click sound 11.wav::AudioStreamWAV::1198299083035670735::1704372507::1704411229::1::::<><>::
+Sci fi click sound 12.wav::AudioStreamWAV::5233966586247368350::1704372507::1704411229::1::::<><>::
+Sci fi click sound 13.wav::AudioStreamWAV::7093701341759874515::1704372507::1704411229::1::::<><>::
+Sci fi click sound 14.wav::AudioStreamWAV::2703324881069098343::1704372507::1704411229::1::::<><>::
+Sci fi click sound 15.wav::AudioStreamWAV::8552717574379247552::1704372507::1704411229::1::::<><>::
+Sci fi click sound 16.wav::AudioStreamWAV::2357603609657013550::1704372507::1704411229::1::::<><>::
+Sci fi click sound 17.wav::AudioStreamWAV::4236603826363324040::1704372507::1704411229::1::::<><>::
+Sci fi click sound 18.wav::AudioStreamWAV::9015254604021433513::1704372507::1704411229::1::::<><>::
+Sci fi click sound 19.wav::AudioStreamWAV::4376032316726353904::1704372507::1704411229::1::::<><>::
+Sci fi click sound 20.wav::AudioStreamWAV::2007073766401335385::1704372507::1704411229::1::::<><>::
+Sci fi click sound 21.wav::AudioStreamWAV::5601403479212997634::1704372507::1704411229::1::::<><>::
+Switch sounds 1.wav::AudioStreamWAV::4720992803706906714::1704372507::1704411229::1::::<><>::
+Switch sounds 2.wav::AudioStreamWAV::2571897562759046640::1704372507::1704411229::1::::<><>::
+Switch sounds 3.wav::AudioStreamWAV::8543309576996710733::1704372508::1704411229::1::::<><>::
+Switch sounds 4.wav::AudioStreamWAV::2881184743743901747::1704372508::1704411229::1::::<><>::
+Switch sounds 5.wav::AudioStreamWAV::4968966233219110217::1704372508::1704411229::1::::<><>::
+Switch sounds 6.wav::AudioStreamWAV::2976985582091712964::1704372508::1704411229::1::::<><>::
+Switch sounds 7.wav::AudioStreamWAV::247003736628985800::1704372508::1704411229::1::::<><>::
+Switch sounds 8.wav::AudioStreamWAV::7477738697157254306::1704372508::1704411229::1::::<><>::
+Switch sounds 9.wav::AudioStreamWAV::7166680033947301497::1704372508::1704411229::1::::<><>::
+Switch sounds 10.wav::AudioStreamWAV::6174308658348307318::1704372507::1704411229::1::::<><>::
+Switch sounds 11.wav::AudioStreamWAV::7934373321780616636::1704372507::1704411229::1::::<><>::
+Switch sounds 12.wav::AudioStreamWAV::1300913843057675204::1704372507::1704411229::1::::<><>::
+Switch sounds 13.wav::AudioStreamWAV::313446511524526278::1704372507::1704411230::1::::<><>::
+Switch sounds 14.wav::AudioStreamWAV::5678976807679405619::1704372507::1704411230::1::::<><>::
+Switch sounds 15.wav::AudioStreamWAV::7093599256857582326::1704372507::1704411230::1::::<><>::
+Switch sounds 16.wav::AudioStreamWAV::7331469051577313025::1704372507::1704411230::1::::<><>::
+Switch sounds 17.wav::AudioStreamWAV::7597187589031680620::1704372507::1704411230::1::::<><>::
+Switch sounds 18.wav::AudioStreamWAV::5479762506594611834::1704372507::1704411230::1::::<><>::
+Switch sounds 19.wav::AudioStreamWAV::59956142599256790::1704372507::1704411230::1::::<><>::
+Switch sounds 20.wav::AudioStreamWAV::1321001392526013585::1704372508::1704411230::1::::<><>::
+Switch sounds 21.wav::AudioStreamWAV::3458553949766644075::1704372508::1704411230::1::::<><>::
+Win sound 1.wav::AudioStreamWAV::6605069516844071497::1704372508::1704411229::1::::<><>::
+Win sound 2.wav::AudioStreamWAV::8063591143967239934::1704372508::1704411229::1::::<><>::
+Win sound 3.wav::AudioStreamWAV::6985349997924245903::1704372508::1704411229::1::::<><>::
+Win sound 4.wav::AudioStreamWAV::1004892701207255661::1704372508::1704411229::1::::<><>::
+Win sound 5.wav::AudioStreamWAV::5371859191424295407::1704372508::1704411229::1::::<><>::
+Win sound 6.wav::AudioStreamWAV::7029180787096882059::1704372509::1704411229::1::::<><>::
+Win sound 7.wav::AudioStreamWAV::3861889638911329459::1704372509::1704411229::1::::<><>::
+Win sound 8.wav::AudioStreamWAV::8405234936808403076::1704372509::1704411229::1::::<><>::
+Win sound 9.wav::AudioStreamWAV::1324679338437016062::1704372509::1704411229::1::::<><>::
+Win sound 10.wav::AudioStreamWAV::4991222511613765640::1704372508::1704411229::1::::<><>::
+Win sound 11.wav::AudioStreamWAV::2846318077137542869::1704372508::1704411229::1::::<><>::
+Win sound 12.wav::AudioStreamWAV::612160777292779376::1704372508::1704411229::1::::<><>::
+Win sound 13.wav::AudioStreamWAV::203049899784664984::1704372508::1704411229::1::::<><>::
+Win sound 14.wav::AudioStreamWAV::369545231662603451::1704372508::1704411229::1::::<><>::
+Win sound 15.wav::AudioStreamWAV::185771005694173098::1704372508::1704411229::1::::<><>::
+Win sound 16.wav::AudioStreamWAV::7216211477678784560::1704372508::1704411229::1::::<><>::
+Win sound 17.wav::AudioStreamWAV::1476084549750980879::1704372508::1704411229::1::::<><>::
+Win sound 18.wav::AudioStreamWAV::7627541709617888130::1704372508::1704411229::1::::<><>::
+Win sound 19.wav::AudioStreamWAV::7583251074776053515::1704372508::1704411229::1::::<><>::
+Win sound 20.wav::AudioStreamWAV::2778233247863704459::1704372508::1704411229::1::::<><>::
+Win sound 21.wav::AudioStreamWAV::792324968603342909::1704372508::1704411229::1::::<><>::
+Win sound 22.wav::AudioStreamWAV::7940840070927095454::1704372508::1704411229::1::::<><>::
+Win sound 23.wav::AudioStreamWAV::1961621759346386995::1704372508::1704411229::1::::<><>::
+Win sound 24.wav::AudioStreamWAV::9078414341184185757::1704372508::1704411229::1::::<><>::
+Win sound 25.wav::AudioStreamWAV::1231193985266748282::1704372508::1704411229::1::::<><>::
+Writing 1.wav::AudioStreamWAV::5692273428470152982::1704372509::1704411229::1::::<><>::
+Writing 2.wav::AudioStreamWAV::7589926611022829833::1704372509::1704411229::1::::<><>::
+Writing 3.wav::AudioStreamWAV::220621017639504641::1704372509::1704411229::1::::<><>::
+Writing 4.wav::AudioStreamWAV::9103965236290275814::1704372509::1704411229::1::::<><>::
+Writing 5.wav::AudioStreamWAV::7558361373469439178::1704372509::1704411229::1::::<><>::
+::res://resources/::1704427686
+::res://resources/item/::1704460956
+error.tres::Resource/ItemResource::2953066629577551664::1704460956::0::1::::<><>::uid://b6es2k8kaaq07::::res://assets/arts/icons/item/error.png<>res://scripts/item/ItemResource.gd
+::res://resources/item/weapon/::1704427698
+::res://resources/item/weapon/gun/::1704515296
+YH-001.tres::Resource/GunResource::7762915863099709208::1704515296::0::1::::<><>::uid://b7u5mr4q8um5h::::res://assets/arts/icons/item/weapon/gun/YH-001.png<>res://scripts/item/weapon/gun/GunResource.gd<>uid://dgjjgxivd30ua::::res://scenes/item/weapon/gun/YH-001.tscn
+::res://scenes/::1704445430
+::res://scenes/character/::1704517482
+game.tscn::PackedScene::5687706632649075393::1704517482::0::1::::<><>::res://scripts/game.gd<>uid://cyso0cwsortss::::res://scenes/map/test_map.tscn<>uid://d4cvahlopgf0p::::res://scenes/character/player.tscn
+player.tscn::PackedScene::9200142714251140629::1704517482::0::1::::<><>::uid://bodisxwv3jjqy::::res://assets/arts/character/Player.png<>res://scripts/character/player.gd<>res://scripts/character/player/camera.gd<>uid://cwwa8ce1va3g8::::res://scenes/ui/player_ui.tscn
+::res://scenes/item/::1704445434
+::res://scenes/item/weapon/::1704445438
+::res://scenes/item/weapon/gun/::1704517483
+YH-001.tscn::PackedScene::7599532901747134652::1704517483::0::1::::<><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://c5qnlwrl36roq::::res://assets/arts/item/weapon/gun/YH-001.png
+::res://scenes/map/::1704517482
+test_map.tscn::PackedScene::6495427236888042730::1704517482::0::1::::<><>::uid://bjt4bep2wgoxp::::res://scenes/map/tile_map.tscn
+tile_map.tscn::PackedScene::3059106266868536069::1704426902::0::1::::<><>::uid://df6hbm4e6b3xd::::res://assets/arts/tileset/Cyberpunk Tileset/Tileset/Tileset.png
+::res://scenes/ui/::1704517483
+InventoryItem.tscn::PackedScene::360759264966976409::1704461543::0::1::::<><>::
+player_ui.tscn::PackedScene::6362471281646425837::1704517483::0::1::::<><>::uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/character/player/EquipmentSlots.gd<>res://scripts/character/player/Inventory.gd<>uid://cvtsmf320vjxf::::res://assets/arts/ui/InventoryGrid.png<>res://scripts/character/player/GridBackPack.gd
+::res://scripts/::1704426992
+game.gd::GDScript::-1::1704426089::0::1::::<>Node2D<>::
+::res://scripts/autoload/::1704460981
+Global.gd::GDScript::-1::1704421997::0::1::::<>Node<>::
+ItemDB.gd::GDScript::-1::1704460981::0::1::::<>Node<>::
+::res://scripts/character/::1704516695
+Character.gd::GDScript::-1::1704516695::0::1::::Character<>CharacterBody2D<>::
+player.gd::GDScript::-1::1704497957::0::1::::<>Character<>::
+::res://scripts/character/player/::1704517481
+camera.gd::GDScript::-1::1704422050::0::1::::<>Camera2D<>::
+EquipmentSlots.gd::GDScript::-1::1704517481::0::1::::<>Panel<>::
+GridBackPack.gd::GDScript::-1::1704497615::0::1::::<>TextureRect<>::
+Inventory.gd::GDScript::-1::1704516798::0::1::::<>Control<>::
+::res://scripts/item/::1704515285
+Item.gd::GDScript::-1::1704515276::0::1::::Item<>Node2D<>::
+ItemResource.gd::GDScript::-1::1704515285::0::1::::ItemResource<>Resource<>::
+UsableItem.gd::GDScript::-1::1704428247::0::1::::UsableItem<>Item<>::
+UsableItemResource.gd::GDScript::-1::1704460880::0::1::::UsableItemResource<>ItemResource<>::
+::res://scripts/item/weapon/::1704497628
+WeaponItem.gd::GDScript::-1::1704497628::0::1::::WeaponItem<>UsableItem<>::
+WeaponResource.gd::GDScript::-1::1704427608::0::1::::WeaponResource<>UsableItemResource<>::
+::res://scripts/item/weapon/gun/::1704445884
+GunItem.gd::GDScript::-1::1704445884::0::1::::GunItem<>WeaponItem<>::
+GunResource.gd::GDScript::-1::1704427714::0::1::::GunResource<>WeaponResource<>::

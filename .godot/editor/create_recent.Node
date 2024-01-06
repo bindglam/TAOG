@@ -1,0 +1,14 @@
+Sprite2D
+Panel
+TextureRect
+ColorRect
+Control
+Node2D
+AnimationPlayer
+Timer
+TileMap
+Label
+CanvasLayer
+Camera2D
+CollisionShape2D
+CharacterBody2D
