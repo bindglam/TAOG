@@ -1,0 +1,170 @@
+[gd_scene load_steps=9 format=3 uid="uid://dl5bog675stap"]
+
+[ext_resource type="Script" path="res://scripts/ui/MainMenu.gd" id="1_qxpm2"]
+[ext_resource type="FontFile" uid="uid://b058eixo0tfnl" path="res://assets/fonts/DungGeunMo.ttf" id="2_20ok3"]
+[ext_resource type="Script" path="res://scripts/ui/SettingsPanel.gd" id="3_b637x"]
+[ext_resource type="Script" path="res://scripts/translation/TranslationControl.gd" id="4_ysanl"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_q6kkw"]
+font = ExtResource("2_20ok3")
+font_size = 64
+
+[sub_resource type="LabelSettings" id="LabelSettings_u6n5f"]
+font = ExtResource("2_20ok3")
+
+[sub_resource type="LabelSettings" id="LabelSettings_wtlc8"]
+font = ExtResource("2_20ok3")
+font_size = 50
+
+[sub_resource type="LabelSettings" id="LabelSettings_xua7t"]
+font = ExtResource("2_20ok3")
+font_size = 24
+font_color = Color(0.917647, 0.917647, 0, 1)
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_qxpm2")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -108.0
+offset_right = 184.0
+grow_vertical = 0
+
+[node name="PlayBtn" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_20ok3")
+theme_override_font_sizes/font_size = 25
+text = "Play"
+script = ExtResource("4_ysanl")
+language_file = "play_btn"
+translation_property = "text"
+
+[node name="SettingsBtn" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_20ok3")
+theme_override_font_sizes/font_size = 25
+text = "Settings"
+script = ExtResource("4_ysanl")
+language_file = "settings_btn"
+translation_property = "text"
+
+[node name="QuitBtn" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_20ok3")
+theme_override_font_sizes/font_size = 25
+text = "Quit"
+script = ExtResource("4_ysanl")
+language_file = "quit_btn"
+translation_property = "text"
+
+[node name="SettingsPanel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.155382
+anchor_top = 0.154321
+anchor_right = 0.844618
+anchor_bottom = 0.845679
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("3_b637x")
+metadata/_edit_use_anchors_ = true
+
+[node name="ScrollContainer" type="ScrollContainer" parent="SettingsPanel"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="Options" type="VBoxContainer" parent="SettingsPanel/ScrollContainer"]
+layout_mode = 2
+
+[node name="GraphicsSettings" type="VBoxContainer" parent="SettingsPanel/ScrollContainer/Options"]
+layout_mode = 2
+
+[node name="Title" type="Label" parent="SettingsPanel/ScrollContainer/Options/GraphicsSettings"]
+layout_mode = 2
+text = "Graphics:"
+label_settings = SubResource("LabelSettings_q6kkw")
+script = ExtResource("4_ysanl")
+language_file = "graphics_settings_title"
+translation_property = "text"
+
+[node name="UsePP" type="CheckBox" parent="SettingsPanel/ScrollContainer/Options/GraphicsSettings"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_20ok3")
+theme_override_font_sizes/font_size = 15
+text = "Use Post Processing"
+script = ExtResource("4_ysanl")
+language_file = "use_pp_btn"
+translation_property = "text"
+
+[node name="TargetFPS" type="Label" parent="SettingsPanel/ScrollContainer/Options/GraphicsSettings"]
+layout_mode = 2
+text = "Target FPS: "
+label_settings = SubResource("LabelSettings_u6n5f")
+script = ExtResource("4_ysanl")
+language_file = "target_fps_label"
+translation_property = "text"
+
+[node name="LineEdit" type="LineEdit" parent="SettingsPanel/ScrollContainer/Options/GraphicsSettings/TargetFPS"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.319
+anchor_top = 1.0
+anchor_right = 0.319
+anchor_bottom = 1.0
+offset_left = 0.127998
+offset_top = -18.0
+offset_right = 196.128
+offset_bottom = 6.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("2_20ok3")
+theme_override_font_sizes/font_size = 15
+placeholder_text = "60"
+virtual_keyboard_type = 2
+
+[node name="LanguageSettings" type="VBoxContainer" parent="SettingsPanel/ScrollContainer/Options"]
+layout_mode = 2
+
+[node name="Title" type="Label" parent="SettingsPanel/ScrollContainer/Options/LanguageSettings"]
+layout_mode = 2
+text = "Languages:"
+label_settings = SubResource("LabelSettings_wtlc8")
+script = ExtResource("4_ysanl")
+language_file = "lang_settings_title"
+translation_property = "text"
+
+[node name="English" type="CheckBox" parent="SettingsPanel/ScrollContainer/Options/LanguageSettings"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_20ok3")
+theme_override_font_sizes/font_size = 15
+button_pressed = true
+text = "English"
+
+[node name="Korean" type="CheckBox" parent="SettingsPanel/ScrollContainer/Options/LanguageSettings"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("2_20ok3")
+theme_override_font_sizes/font_size = 15
+text = "한국어"
+
+[node name="RestartWarning" type="Label" parent="SettingsPanel/ScrollContainer/Options/LanguageSettings"]
+visible = false
+layout_mode = 2
+text = "You need to restart game!"
+label_settings = SubResource("LabelSettings_xua7t")
+script = ExtResource("4_ysanl")
+language_file = "restart_warning"
+translation_property = "text"

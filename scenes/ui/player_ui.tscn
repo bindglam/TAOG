@@ -64,7 +64,7 @@ script = ExtResource("1_tc0tr")
 layout_mode = 1
 offset_right = 120.0
 offset_bottom = 16.0
-text = "Version: dev0.6"
+text = "Version: dev0.7"
 label_settings = SubResource("LabelSettings_3jbuy")
 
 [node name="Inventory" type="Control" parent="."]

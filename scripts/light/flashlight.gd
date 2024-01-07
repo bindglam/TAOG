@@ -2,7 +2,7 @@ extends PointLight2D
 
 @export var target: Node2D = get_parent()
 
-func _process(delta: float) -> void:
+func _process(_delta: float) -> void:
 	if target == null: return
 	global_position = target.global_position
 	global_rotation = target.global_rotation
