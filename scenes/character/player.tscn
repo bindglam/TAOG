@@ -170,6 +170,8 @@ target = NodePath("..")
 
 [node name="PlayerUI" parent="Camera2D/CanvasLayer" instance=ExtResource("4_20gch")]
 
+[node name="Timer" type="Timer" parent="Camera2D"]
+
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
 "": SubResource("AnimationLibrary_qj6sy")

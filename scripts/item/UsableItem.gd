@@ -26,3 +26,6 @@ func use():
 	if not timer.is_stopped(): return
 	on_use()
 	timer.start()
+
+func input(_type):
+	pass

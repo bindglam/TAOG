@@ -1,3 +1,7 @@
+res://scripts/character/player
+res://scripts/effect
+res://scenes/effect
+res://assets/arts/effect
 res://scripts/ai
 res://scripts/character
 res://scenes/ai
@@ -7,7 +11,6 @@ res://scenes/bullet
 res://scenes/item/weapon/gun
 res://scenes/item
 res://scenes/ui
-res://scripts/character/player
 res://scripts/autoload
 res://scenes/map
 res://scripts

@@ -10,11 +10,13 @@ extends CharacterBody2D
 @onready var animation_player: AnimationPlayer = $AnimationPlayer
 @onready var sprite: Sprite2D = $Sprite2D
 @onready var hand: Node2D = $Hand
+@onready var collision: CollisionShape2D = $CollisionShape2D
 
 var speed: float = walk_speed
 var direction: Vector2 = Vector2()
 var anim_direction: String = "down"
 var selected_hand: String = "primary"
+var last_selected_hand: String = "primary"
 var selected_item: Node2D
 var attacker: Character
 var is_dead: bool = false
@@ -95,16 +97,40 @@ func update_hand(is_swap):
 	if is_swap:
 		if selected_hand == "primary":
 			if primary_item != null:
-				if hand.get_child_count() > 0: hand.remove_child(hand.get_child(0))
+				if hand.get_child_count() > 0:
+					if hand.get_child(0) is UsableItem:
+						if not hand.get_child(0).timer.is_stopped(): return
+						
+					if last_selected_hand != selected_hand:
+						secondary_item = PackedScene.new()
+						secondary_item.pack(hand.get_child(0))
+					else:
+						primary_item = PackedScene.new()
+						primary_item.pack(hand.get_child(0))
+					hand.remove_child(hand.get_child(0))
+					
 				var item_clone = primary_item.instantiate()
 				hand.add_child.call_deferred(item_clone)
 				selected_item = item_clone
 		elif selected_hand == "secondary":
 			if secondary_item != null:
-				if hand.get_child_count() > 0: hand.remove_child(hand.get_child(0))
+				if hand.get_child_count() > 0:
+					if hand.get_child(0) is UsableItem:
+						if not hand.get_child(0).timer.is_stopped(): return
+						
+					if last_selected_hand != selected_hand:
+						primary_item = PackedScene.new()
+						primary_item.pack(hand.get_child(0))
+					else:
+						secondary_item = PackedScene.new()
+						secondary_item.pack(hand.get_child(0))
+					hand.remove_child(hand.get_child(0))
+					
 				var item_clone = secondary_item.instantiate()
 				hand.add_child.call_deferred(item_clone)
 				selected_item = item_clone
+		
+		last_selected_hand = selected_hand
 	else:
 		if primary_item == null and selected_hand == "primary" and hand.get_child_count() > 0:
 			hand.remove_child(hand.get_child(0))
@@ -127,5 +153,12 @@ func on_damage(damage, damager):
 	if health <= 0 and not is_dead:
 		health = 0
 		is_dead = true
+		collision.queue_free()
+		velocity = Vector2()
 		
 		animation_player.play("death")
+
+func input_item(type):
+	if is_dead: return
+	if selected_item != null:
+		selected_item.input(type)

@@ -1,0 +1,58 @@
+[gd_scene load_steps=9 format=3 uid="uid://cawanlybg61bf"]
+
+[ext_resource type="Texture2D" uid="uid://bivbjvh1geqeu" path="res://assets/arts/effect/Effect 3 - Sprite Sheet.png" id="1_jdhiy"]
+[ext_resource type="Script" path="res://scripts/effect/muzzle_effect.gd" id="1_s5nyk"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_i8oj4"]
+atlas = ExtResource("1_jdhiy")
+region = Rect2(0, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_35f43"]
+atlas = ExtResource("1_jdhiy")
+region = Rect2(0, 32, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ihna6"]
+atlas = ExtResource("1_jdhiy")
+region = Rect2(0, 64, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1suq1"]
+atlas = ExtResource("1_jdhiy")
+region = Rect2(0, 96, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_huob4"]
+atlas = ExtResource("1_jdhiy")
+region = Rect2(0, 128, 32, 32)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_w2js8"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_i8oj4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_35f43")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ihna6")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1suq1")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_huob4")
+}],
+"loop": false,
+"name": &"default",
+"speed": 20.0
+}]
+
+[node name="MuzzleEffect" type="Node2D"]
+script = ExtResource("1_s5nyk")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+sprite_frames = SubResource("SpriteFrames_w2js8")
+offset = Vector2(4, 0)
+
+[node name="Timer" type="Timer" parent="."]
+one_shot = true

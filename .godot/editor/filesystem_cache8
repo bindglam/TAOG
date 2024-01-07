@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1704584105
+::res://::1704603324
 icon.svg::CompressedTexture2D::1716297411008757711::1704411058::1704411065::1::::<><>::
 README.md::TextFile::-1::1704533143::0::1::::<><>::
 ::res://addons/::1704584104
@@ -16,14 +16,14 @@ global_debugger.gd::GDScript::-1::1704584104::0::1::::<>Node<>::
 graph_edit.gd::GDScript::-1::1704584104::0::1::::<>GraphEdit<>::
 graph_node.gd::GDScript::-1::1704584104::0::1::::<>GraphNode<>::
 tree_node.gd::GDScript::-1::1704584104::0::1::::TreeNode<>RefCounted<>::
-::res://addons/beehave/debug/icons/::1704584104
+::res://addons/beehave/debug/icons/::1704584108
 horizontal_layout.svg::CompressedTexture2D::2402871655411330131::1704584104::1704584108::1::::<><>::
 port_bottom.svg::CompressedTexture2D::7217175080948403972::1704584104::1704584108::1::::<><>::
 port_left.svg::CompressedTexture2D::3340472120496126551::1704584104::1704584108::1::::<><>::
 port_right.svg::CompressedTexture2D::2481620690672730650::1704584104::1704584108::1::::<><>::
 port_top.svg::CompressedTexture2D::4000058125899369395::1704584104::1704584108::1::::<><>::
 vertical_layout.svg::CompressedTexture2D::3490232252841307079::1704584104::1704584108::1::::<><>::
-::res://addons/beehave/icons/::1704584105
+::res://addons/beehave/icons/::1704584108
 action.svg::CompressedTexture2D::3756133786918721016::1704584104::1704584108::1::::<><>::
 blackboard.svg::CompressedTexture2D::8770534558466881020::1704584104::1704584108::1::::<><>::
 category_bt.svg::CompressedTexture2D::1154176332224819161::1704584104::1704584108::1::::<><>::
@@ -1163,44 +1163,56 @@ Writing 2.wav::AudioStreamWAV::7589926611022829833::1704372509::1704411229::1:::
 Writing 3.wav::AudioStreamWAV::220621017639504641::1704372509::1704411229::1::::<><>::
 Writing 4.wav::AudioStreamWAV::9103965236290275814::1704372509::1704411229::1::::<><>::
 Writing 5.wav::AudioStreamWAV::7558361373469439178::1704372509::1704411229::1::::<><>::
-::res://scenes/::1704537814
-::res://scenes/bullet/::1704543093
-normal_bullet.tscn::PackedScene::5686815003045630384::1704543093::0::1::::<><>::uid://6pchdsrxuo64::::res://assets/arts/util/bullet/Bullet.png<>res://scripts/bullet/normal_bullet.gd
-::res://scenes/character/::1704543183
-game.tscn::PackedScene::5687706632649075393::1704543183::0::1::::<><>::res://scripts/game.gd<>uid://cyso0cwsortss::::res://scenes/map/test_map.tscn<>uid://d4cvahlopgf0p::::res://scenes/character/player.tscn
-player.tscn::PackedScene::9200142714251140629::1704543093::0::1::::<><>::uid://bodisxwv3jjqy::::res://assets/arts/character/Player.png<>res://scripts/character/player.gd<>res://scripts/character/player/camera.gd<>uid://cwwa8ce1va3g8::::res://scenes/ui/player_ui.tscn
-regressors_1.tscn::PackedScene::728198902883123744::1704584318::0::1::::<><>::res://scripts/character/Character.gd<>uid://dxknnu3f344ax::::res://assets/arts/character/Regressors_1.png
+::res://scenes/::1704602575
+game.tscn::PackedScene::5687706632649075393::1704602575::0::1::::<><>::res://scripts/game.gd<>uid://cyso0cwsortss::::res://scenes/map/test_map.tscn<>uid://d4cvahlopgf0p::::res://scenes/character/player.tscn<>uid://km0lg7hhsnee::::res://scenes/character/regressors_1.tscn
+::res://scenes/ai/::1704596896
+enemy_ai.tscn::PackedScene::7103493669447502275::1704596896::0::1::::<><>::res://scripts/ai/enemy_ai.gd<>res://addons/beehave/nodes/composites/selector.gd<>res://addons/beehave/nodes/composites/sequence.gd<>res://scripts/ai/HasEnemyInDistance.gd<>res://scripts/ai/MoveToEnemy.gd<>res://scripts/ai/AttackEnemy.gd
+::res://scenes/bullet/::1704602546
+normal_bullet.tscn::PackedScene::5686815003045630384::1704602546::0::1::::<><>::uid://6pchdsrxuo64::::res://assets/arts/util/bullet/Bullet.png<>res://scripts/bullet/normal_bullet.gd
+::res://scenes/character/::1704602546
+player.tscn::PackedScene::9200142714251140629::1704602546::0::1::::<><>::uid://bodisxwv3jjqy::::res://assets/arts/character/Player.png<>res://scripts/character/player.gd<>res://scripts/character/player/camera.gd<>uid://cwwa8ce1va3g8::::res://scenes/ui/player_ui.tscn
+regressors_1.tscn::PackedScene::728198902883123744::1704602546::0::1::::<><>::res://scripts/character/enemy.gd<>uid://b7wjbsp018vl7::::res://scenes/item/weapon/gun/M23.tscn<>uid://dxknnu3f344ax::::res://assets/arts/character/Regressors_1.png<>uid://c8g8rdmctf5m2::::res://scenes/ai/enemy_ai.tscn
+::res://scenes/effect/::1704595522
+muzzle_effect.tscn::PackedScene::4818281508183140359::1704595522::0::1::::<><>::uid://bivbjvh1geqeu::::res://assets/arts/effect/Effect 3 - Sprite Sheet.png<>res://scripts/effect/muzzle_effect.gd
 ::res://scenes/item/::1704531058
 error.tscn::PackedScene::7067774169864710309::1704531058::0::1::::<><>::res://scripts/item/Item.gd<>uid://b6es2k8kaaq07::::res://assets/arts/icons/item/error.png
 ::res://scenes/item/weapon/::1704445438
-::res://scenes/item/weapon/gun/::1704543093
-M23.tscn::PackedScene::4678429199192576370::1704543093::0::1::::<><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://cro6q1rkjftx::::res://assets/arts/item/weapon/gun/M23.png<>uid://b38cfnhx4te4k::::res://assets/arts/icons/item/weapon/gun/M23.png
-YH-001.tscn::PackedScene::7599532901747134652::1704543093::0::1::::<><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://b7u5mr4q8um5h::::res://assets/arts/icons/item/weapon/gun/YH-001.png<>uid://c5qnlwrl36roq::::res://assets/arts/item/weapon/gun/YH-001.png
-::res://scenes/map/::1704543093
-test_map.tscn::PackedScene::6495427236888042730::1704543093::0::1::::<><>::uid://bjt4bep2wgoxp::::res://scenes/map/tile_map.tscn
-tile_map.tscn::PackedScene::3059106266868536069::1704426902::0::1::::<><>::uid://df6hbm4e6b3xd::::res://assets/arts/tileset/Cyberpunk Tileset/Tileset/Tileset.png
-::res://scenes/ui/::1704543093
+::res://scenes/item/weapon/gun/::1704602546
+M23.tscn::PackedScene::4678429199192576370::1704602546::0::1::::<><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://cro6q1rkjftx::::res://assets/arts/item/weapon/gun/M23.png<>uid://b38cfnhx4te4k::::res://assets/arts/icons/item/weapon/gun/M23.png<>uid://cipif5g6d878e::::res://assets/sounds/Gun Sounds Pro - HD Remake/Pistol Shot 2.wav<>uid://bndo0nsskn6jk::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In 4.wav
+YH-001.tscn::PackedScene::7599532901747134652::1704602546::0::1::::<><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://b7u5mr4q8um5h::::res://assets/arts/icons/item/weapon/gun/YH-001.png<>uid://c5qnlwrl36roq::::res://assets/arts/item/weapon/gun/YH-001.png<>uid://b7px7maj36xyy::::res://assets/sounds/Gun Sounds Pro - HD Remake/Assault Rifle Shot 1.wav<>uid://d2a1cg8ul1cc0::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In.wav
+::res://scenes/map/::1704602546
+test_map.tscn::PackedScene::6495427236888042730::1704602546::0::1::::<><>::uid://bjt4bep2wgoxp::::res://scenes/map/tile_map.tscn
+tile_map.tscn::PackedScene::3059106266868536069::1704589559::0::1::::<><>::uid://df6hbm4e6b3xd::::res://assets/arts/tileset/Cyberpunk Tileset/Tileset/Tileset.png
+::res://scenes/ui/::1704602546
 InventoryItem.tscn::PackedScene::360759264966976409::1704461543::0::1::::<><>::
-player_ui.tscn::PackedScene::6362471281646425837::1704543093::0::1::::<><>::uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/character/player/EquipmentSlots.gd<>res://scripts/character/player/Inventory.gd<>uid://cvtsmf320vjxf::::res://assets/arts/ui/InventoryGrid.png<>res://scripts/character/player/GridBackPack.gd
-::res://scripts/::1704537948
-game.gd::GDScript::-1::1704426089::0::1::::<>Node2D<>::
+player_ui.tscn::PackedScene::6362471281646425837::1704602546::0::1::::<><>::uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/character/player/EquipmentSlots.gd<>res://scripts/character/player/Inventory.gd<>uid://cvtsmf320vjxf::::res://assets/arts/ui/InventoryGrid.png<>res://scripts/character/player/GridBackPack.gd
+::res://scripts/::1704595235
+game.gd::GDScript::-1::1704590784::0::1::::<>Node2D<>::
+::res://scripts/ai/::1704594127
+AttackEnemy.gd::GDScript::-1::1704594127::0::1::::<>ActionLeaf<>::
+enemy_ai.gd::GDScript::-1::1704590956::0::1::::<>BeehaveTree<>::
+HasEnemyInDistance.gd::GDScript::-1::1704591254::0::1::::<>ConditionLeaf<>::
+MoveToEnemy.gd::GDScript::-1::1704591110::0::1::::<>ActionLeaf<>::
 ::res://scripts/autoload/::1704534256
 Global.gd::GDScript::-1::1704421997::0::1::::<>Node<>::
 ItemDB.gd::GDScript::-1::1704534256::0::1::::<>Node<>::
-::res://scripts/bullet/::1704543091
-normal_bullet.gd::GDScript::-1::1704543091::0::1::::<>CharacterBody2D<>::
-::res://scripts/character/::1704540800
-Character.gd::GDScript::-1::1704540800::0::1::::Character<>CharacterBody2D<>::
-player.gd::GDScript::-1::1704540306::0::1::::<>Character<>::
-::res://scripts/character/player/::1704534606
-camera.gd::GDScript::-1::1704422050::0::1::::<>Camera2D<>::
-EquipmentSlots.gd::GDScript::-1::1704533517::0::1::::<>Panel<>::
+::res://scripts/bullet/::1704591357
+normal_bullet.gd::GDScript::-1::1704591357::0::1::::<>CharacterBody2D<>::
+::res://scripts/character/::1704596894
+Character.gd::GDScript::-1::1704593708::0::1::::Character<>CharacterBody2D<>::
+enemy.gd::GDScript::-1::1704596894::0::1::::<>Character<>::
+player.gd::GDScript::-1::1704595843::0::1::::Player<>Character<>::
+::res://scripts/character/player/::1704602544
+camera.gd::GDScript::-1::1704595784::0::1::::<>Camera2D<>::
+EquipmentSlots.gd::GDScript::-1::1704602544::0::1::::<>Panel<>::
 GridBackPack.gd::GDScript::-1::1704497615::0::1::::<>TextureRect<>::
 Inventory.gd::GDScript::-1::1704534606::0::1::::<>Control<>::
-::res://scripts/item/::1704536555
+::res://scripts/effect/::1704595479
+muzzle_effect.gd::GDScript::-1::1704595479::0::1::::<>Node2D<>::
+::res://scripts/item/::1704597128
 Item.gd::GDScript::-1::1704530816::0::1::::Item<>Node2D<>::
-UsableItem.gd::GDScript::-1::1704536555::0::1::::UsableItem<>Item<>::
+UsableItem.gd::GDScript::-1::1704597128::0::1::::UsableItem<>Item<>::
 ::res://scripts/item/weapon/::1704530859
 WeaponItem.gd::GDScript::-1::1704530859::0::1::::WeaponItem<>UsableItem<>::
-::res://scripts/item/weapon/gun/::1704539862
-GunItem.gd::GDScript::-1::1704539862::0::1::::GunItem<>WeaponItem<>::
+::res://scripts/item/weapon/gun/::1704596314
+GunItem.gd::GDScript::-1::1704596314::0::1::::GunItem<>WeaponItem<>::

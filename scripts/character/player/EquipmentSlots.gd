@@ -52,6 +52,13 @@ func grab_item(pos):
 	if item == null:
 		return null
 	
+	var player: Character = get_parent().get_parent().get_parent().get_parent().get_parent()
+	var item_data = item.get_meta("item_data").instantiate()
+	if item_data is UsableItem:
+		if player.selected_item != null:
+			if item_data.name == player.selected_item.name:
+				if not player.selected_item.timer.is_stopped(): return null
+	
 	var item_slot = ItemDB.get_item(item.get_meta("item_name")).instantiate().use_slot
 	if item_slot == 0: item_slot = "HAND_1"
 	elif item_slot == 1: item_slot = "HAND_2"

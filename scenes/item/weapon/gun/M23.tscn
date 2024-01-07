@@ -1,8 +1,10 @@
-[gd_scene load_steps=9 format=3 uid="uid://b7wjbsp018vl7"]
+[gd_scene load_steps=11 format=3 uid="uid://b7wjbsp018vl7"]
 
 [ext_resource type="Script" path="res://scripts/item/weapon/gun/GunItem.gd" id="1_d35gu"]
 [ext_resource type="Texture2D" uid="uid://cro6q1rkjftx" path="res://assets/arts/item/weapon/gun/M23.png" id="1_yisb3"]
 [ext_resource type="Texture2D" uid="uid://b38cfnhx4te4k" path="res://assets/arts/icons/item/weapon/gun/M23.png" id="2_s0hud"]
+[ext_resource type="AudioStream" uid="uid://cipif5g6d878e" path="res://assets/sounds/Gun Sounds Pro - HD Remake/Pistol Shot 2.wav" id="4_guivc"]
+[ext_resource type="AudioStream" uid="uid://bndo0nsskn6jk" path="res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In 4.wav" id="5_e7y3r"]
 
 [sub_resource type="Animation" id="Animation_y08rj"]
 length = 0.001
@@ -130,6 +132,7 @@ ammo = 8
 max_ammo = 8
 reload_time = 2.5
 shoot_type = 1
+camera_shake_amount = 1.0
 damage = 12.0
 cooldown = 325.0
 use_slot = 1
@@ -149,4 +152,11 @@ libraries = {
 }
 
 [node name="MuzzlePos" type="Node2D" parent="."]
-position = Vector2(23.333, -8)
+position = Vector2(17, -8)
+
+[node name="MuzzleSound" type="AudioStreamPlayer2D" parent="MuzzlePos"]
+stream = ExtResource("4_guivc")
+volume_db = 10.0
+
+[node name="ReloadSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("5_e7y3r")
