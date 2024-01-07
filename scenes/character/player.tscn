@@ -185,10 +185,10 @@ libraries = {
 [node name="Hand" type="Node2D" parent="."]
 position = Vector2(-6, -5)
 
-[node name="Flashlight" parent="Hand" node_paths=PackedStringArray("target") instance=ExtResource("5_boql3")]
-position = Vector2(0, 0)
-target = NodePath("..")
-
 [node name="LightOccluder2D" type="LightOccluder2D" parent="."]
 occluder = SubResource("OccluderPolygon2D_bjuj1")
-occluder_light_mask = 6
+occluder_light_mask = 7
+
+[node name="Flashlight" parent="." node_paths=PackedStringArray("target") instance=ExtResource("5_boql3")]
+position = Vector2(-6, -5)
+target = NodePath("../Hand")

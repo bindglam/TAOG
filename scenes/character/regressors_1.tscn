@@ -1,9 +1,10 @@
-[gd_scene load_steps=17 format=3 uid="uid://km0lg7hhsnee"]
+[gd_scene load_steps=18 format=3 uid="uid://km0lg7hhsnee"]
 
 [ext_resource type="Script" path="res://scripts/character/enemy.gd" id="1_x6u6d"]
 [ext_resource type="PackedScene" uid="uid://b7wjbsp018vl7" path="res://scenes/item/weapon/gun/M23.tscn" id="2_6t1fo"]
 [ext_resource type="Texture2D" uid="uid://dxknnu3f344ax" path="res://assets/arts/character/Regressors_1.png" id="2_mrpej"]
 [ext_resource type="PackedScene" uid="uid://c8g8rdmctf5m2" path="res://scenes/ai/enemy_ai.tscn" id="3_phs04"]
+[ext_resource type="PackedScene" uid="uid://cj1ny1kge8m7" path="res://scenes/light/flashlight.tscn" id="5_6x0p6"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_e262c"]
 radius = 3.0
@@ -191,3 +192,7 @@ libraries = {
 
 [node name="LightOccluder2D" type="LightOccluder2D" parent="."]
 occluder = SubResource("OccluderPolygon2D_vw2cg")
+
+[node name="Flashlight" parent="." node_paths=PackedStringArray("target") instance=ExtResource("5_6x0p6")]
+position = Vector2(4, -2)
+target = NodePath("../Hand")

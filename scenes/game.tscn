@@ -30,7 +30,6 @@ position = Vector2(91, 42)
 
 [node name="Bullets" type="Node" parent="."]
 
-[node name="Lights" type="Node" parent="."]
-
 [node name="CanvasModulate" type="CanvasModulate" parent="."]
+visible = false
 color = Color(0.145098, 0.145098, 0.145098, 1)
