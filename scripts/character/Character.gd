@@ -2,6 +2,7 @@ class_name Character
 extends CharacterBody2D
 
 @export var walk_speed: float = 3000.0
+@export var sprint_speed: float = 4000.0
 @export var health: float = 100.0
 @export var max_health: float = 100.0
 @export var primary_item: PackedScene
@@ -20,6 +21,7 @@ var last_selected_hand: String = "primary"
 var selected_item: Node2D
 var attacker: Character
 var is_dead: bool = false
+var is_sprinting: bool = false
 
 func _ready() -> void:
 	update_hand(true)
@@ -28,6 +30,12 @@ func movement(delta: float):
 	if is_dead:
 		velocity = velocity.lerp(Vector2(), 0.1)
 		return
+	
+	if is_sprinting:
+		speed = sprint_speed
+	else:
+		speed = walk_speed
+		
 	if direction:
 		velocity = velocity.lerp(direction * speed * delta, 0.1)
 	else:

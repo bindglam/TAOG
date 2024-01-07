@@ -1,4 +1,4 @@
-[gd_scene load_steps=16 format=3 uid="uid://km0lg7hhsnee"]
+[gd_scene load_steps=17 format=3 uid="uid://km0lg7hhsnee"]
 
 [ext_resource type="Script" path="res://scripts/character/enemy.gd" id="1_x6u6d"]
 [ext_resource type="PackedScene" uid="uid://b7wjbsp018vl7" path="res://scenes/item/weapon/gun/M23.tscn" id="2_6t1fo"]
@@ -150,7 +150,11 @@ _data = {
 "walk_up": SubResource("Animation_opido")
 }
 
+[sub_resource type="OccluderPolygon2D" id="OccluderPolygon2D_vw2cg"]
+polygon = PackedVector2Array(-4, 0, -4, -1, 4, -1, 4, 0)
+
 [node name="Regressors_1" type="CharacterBody2D"]
+light_mask = 4
 script = ExtResource("1_x6u6d")
 primary_item = ExtResource("2_6t1fo")
 
@@ -184,3 +188,6 @@ position = Vector2(4, -2)
 libraries = {
 "": SubResource("AnimationLibrary_udn4v")
 }
+
+[node name="LightOccluder2D" type="LightOccluder2D" parent="."]
+occluder = SubResource("OccluderPolygon2D_vw2cg")

@@ -1,11 +1,13 @@
+res://scenes/character/player.tscn
 res://scenes/game.tscn
 res://scenes/map/test_map.tscn
-res://scenes/character/player.tscn
 res://scenes/ui/player_ui.tscn
 res://scenes/item/weapon/gun/YH-001.tscn
 res://scenes/item/weapon/gun/M23.tscn
 res://scenes/bullet/normal_bullet.tscn
 res://scenes/character/regressors_1.tscn
-res://scripts/character/player.gd
 res://scripts/character/Character.gd
-res://scripts/character/player/player_ui.gd
+res://scenes/map/tile_map.tscn
+res://scenes/light/flashlight.tscn
+res://scripts/light/flashlight.gd
+res://scripts/character/player.gd

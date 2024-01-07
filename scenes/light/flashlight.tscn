@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://cj1ny1kge8m7"]
+
+[ext_resource type="Texture2D" uid="uid://mt1ge48cdrx1" path="res://assets/arts/util/Light.png" id="1_okoee"]
+[ext_resource type="Script" path="res://scripts/light/flashlight.gd" id="2_wrwiw"]
+
+[node name="Flashlight" type="PointLight2D"]
+position = Vector2(-32, 0)
+energy = 1.5
+shadow_enabled = true
+texture = ExtResource("1_okoee")
+offset = Vector2(40, -1)
+texture_scale = 0.1
+script = ExtResource("2_wrwiw")

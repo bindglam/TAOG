@@ -1,20 +1,36 @@
-[gd_scene load_steps=5 format=3 uid="uid://cnbfxya6ql258"]
+[gd_scene load_steps=6 format=3 uid="uid://cnbfxya6ql258"]
 
 [ext_resource type="Script" path="res://scripts/game.gd" id="1_cwqwv"]
 [ext_resource type="PackedScene" uid="uid://cyso0cwsortss" path="res://scenes/map/test_map.tscn" id="2_0x05y"]
 [ext_resource type="PackedScene" uid="uid://d4cvahlopgf0p" path="res://scenes/character/player.tscn" id="3_aekqw"]
 [ext_resource type="PackedScene" uid="uid://km0lg7hhsnee" path="res://scenes/character/regressors_1.tscn" id="4_0hwuc"]
 
+[sub_resource type="Environment" id="Environment_a78gl"]
+background_mode = 3
+ambient_light_source = 2
+glow_enabled = true
+glow_bloom = 0.05
+glow_blend_mode = 0
+
 [node name="Game" type="Node2D"]
 z_as_relative = false
 y_sort_enabled = true
 script = ExtResource("1_cwqwv")
 
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_a78gl")
+
 [node name="TestMap" parent="." instance=ExtResource("2_0x05y")]
 
 [node name="Player" parent="." instance=ExtResource("3_aekqw")]
+position = Vector2(-36, 2)
 
 [node name="Regressors_1" parent="." instance=ExtResource("4_0hwuc")]
 position = Vector2(91, 42)
 
 [node name="Bullets" type="Node" parent="."]
+
+[node name="Lights" type="Node" parent="."]
+
+[node name="CanvasModulate" type="CanvasModulate" parent="."]
+color = Color(0.145098, 0.145098, 0.145098, 1)

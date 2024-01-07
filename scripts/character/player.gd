@@ -5,6 +5,7 @@ class_name Player
 
 @onready var player_ui: Control = $Camera2D/CanvasLayer/PlayerUI
 @onready var inventory: Control = $Camera2D/CanvasLayer/PlayerUI/Inventory
+@onready var flashlight: PointLight2D = $Hand/Flashlight
 
 func _init() -> void:
 	Global.player = self
@@ -31,6 +32,11 @@ func _process(_delta: float) -> void:
 		elif Input.is_action_pressed("use") and selected_item.shoot_type == 0:
 			use_item()
 	
+	if Input.is_action_pressed("sprint"):
+		is_sprinting = true
+	elif Input.is_action_just_released("sprint"):
+		is_sprinting = false
+	
 	player_ui.health = health
 	player_ui.max_health = max_health
 
@@ -47,6 +53,9 @@ func _input(event: InputEvent) -> void:
 	
 	if event.is_action_pressed("reload"):
 		input_item("reload")
+	
+	if event.is_action_pressed("toggle_flashlight") and not is_dead:
+		flashlight.enabled = !flashlight.enabled
 
 func on_damage(damage, damager):
 	super.on_damage(damage, damager)
