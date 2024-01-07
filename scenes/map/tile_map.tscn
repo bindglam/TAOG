@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=3 uid="uid://bjt4bep2wgoxp"]
+[gd_scene load_steps=17 format=3 uid="uid://bjt4bep2wgoxp"]
 
 [ext_resource type="Texture2D" uid="uid://df6hbm4e6b3xd" path="res://assets/arts/tileset/Cyberpunk Tileset/Tileset/Tileset.png" id="1_gmm26"]
 
@@ -28,6 +28,34 @@ tile_data = PackedInt32Array(65536, 917504, 27, 1, 983040, 26, 65537, 983040, 27
 
 [sub_resource type="TileMapPattern" id="TileMapPattern_0j4ht"]
 tile_data = PackedInt32Array(0, 851968, 26, 65536, 851968, 27, 65537, 917504, 27)
+
+[sub_resource type="NavigationPolygon" id="NavigationPolygon_wrnje"]
+vertices = PackedVector2Array(8, 8, -8, 8, -8, -8, 8, -8)
+polygons = Array[PackedInt32Array]([PackedInt32Array(0, 1, 2, 3)])
+outlines = Array[PackedVector2Array]([PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)])
+source_geometry_group_name = &"navigation_polygon_source_group"
+agent_radius = 0.0
+
+[sub_resource type="NavigationPolygon" id="NavigationPolygon_pkkur"]
+vertices = PackedVector2Array(8, 8, -8, 8, -8, -8, 8, -8)
+polygons = Array[PackedInt32Array]([PackedInt32Array(0, 1, 2, 3)])
+outlines = Array[PackedVector2Array]([PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)])
+source_geometry_group_name = &"navigation_polygon_source_group"
+agent_radius = 0.0
+
+[sub_resource type="NavigationPolygon" id="NavigationPolygon_t8n8u"]
+vertices = PackedVector2Array(8, 8, -8, 8, -8, -8, 8, -8)
+polygons = Array[PackedInt32Array]([PackedInt32Array(0, 1, 2, 3)])
+outlines = Array[PackedVector2Array]([PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)])
+source_geometry_group_name = &"navigation_polygon_source_group"
+agent_radius = 0.0
+
+[sub_resource type="NavigationPolygon" id="NavigationPolygon_b2608"]
+vertices = PackedVector2Array(8, 8, -8, 8, -8, -8, 8, -8)
+polygons = Array[PackedInt32Array]([PackedInt32Array(0, 1, 2, 3)])
+outlines = Array[PackedVector2Array]([PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)])
+source_geometry_group_name = &"navigation_polygon_source_group"
+agent_radius = 0.0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_c32pu"]
 texture = ExtResource("1_gmm26")
@@ -399,12 +427,15 @@ texture = ExtResource("1_gmm26")
 0:26/0 = 0
 0:26/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:26/0/physics_layer_0/angular_velocity = 0.0
+0:26/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_wrnje")
 1:26/0 = 0
 1:26/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 1:26/0/physics_layer_0/angular_velocity = 0.0
+1:26/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_wrnje")
 2:26/0 = 0
 2:26/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 2:26/0/physics_layer_0/angular_velocity = 0.0
+2:26/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_wrnje")
 6:26/0 = 0
 6:26/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 6:26/0/physics_layer_0/angular_velocity = 0.0
@@ -439,12 +470,15 @@ texture = ExtResource("1_gmm26")
 0:27/0 = 0
 0:27/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:27/0/physics_layer_0/angular_velocity = 0.0
+0:27/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_wrnje")
 1:27/0 = 0
 1:27/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 1:27/0/physics_layer_0/angular_velocity = 0.0
+1:27/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_wrnje")
 2:27/0 = 0
 2:27/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 2:27/0/physics_layer_0/angular_velocity = 0.0
+2:27/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_wrnje")
 11:27/0 = 0
 11:27/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 11:27/0/physics_layer_0/angular_velocity = 0.0
@@ -468,24 +502,30 @@ texture = ExtResource("1_gmm26")
 0:28/0 = 0
 0:28/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:28/0/physics_layer_0/angular_velocity = 0.0
+0:28/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_pkkur")
 1:28/0 = 0
 1:28/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 1:28/0/physics_layer_0/angular_velocity = 0.0
+1:28/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_b2608")
 2:28/0 = 0
 2:28/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 2:28/0/physics_layer_0/angular_velocity = 0.0
+2:28/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_b2608")
 4:28/0 = 0
 4:28/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 4:28/0/physics_layer_0/angular_velocity = 0.0
 0:29/0 = 0
 0:29/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 0:29/0/physics_layer_0/angular_velocity = 0.0
+0:29/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_t8n8u")
 1:29/0 = 0
 1:29/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 1:29/0/physics_layer_0/angular_velocity = 0.0
+1:29/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_t8n8u")
 2:29/0 = 0
 2:29/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 2:29/0/physics_layer_0/angular_velocity = 0.0
+2:29/0/navigation_layer_0/polygon = SubResource("NavigationPolygon_t8n8u")
 3:29/0 = 0
 3:29/0/physics_layer_0/linear_velocity = Vector2(0, 0)
 3:29/0/physics_layer_0/angular_velocity = 0.0
@@ -715,6 +755,7 @@ texture = ExtResource("1_gmm26")
 
 [sub_resource type="TileSet" id="TileSet_feb4t"]
 physics_layer_0/collision_layer = 1
+navigation_layer_0/layers = 1
 sources/0 = SubResource("TileSetAtlasSource_c32pu")
 pattern_0 = SubResource("TileMapPattern_8ph56")
 pattern_1 = SubResource("TileMapPattern_vsuv1")

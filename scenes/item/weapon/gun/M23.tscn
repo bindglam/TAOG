@@ -4,22 +4,6 @@
 [ext_resource type="Texture2D" uid="uid://cro6q1rkjftx" path="res://assets/arts/item/weapon/gun/M23.png" id="1_yisb3"]
 [ext_resource type="Texture2D" uid="uid://b38cfnhx4te4k" path="res://assets/arts/icons/item/weapon/gun/M23.png" id="2_s0hud"]
 
-[sub_resource type="Animation" id="Animation_8dafy"]
-resource_name = "idle"
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 1,
-"values": [0]
-}
-
 [sub_resource type="Animation" id="Animation_y08rj"]
 length = 0.001
 tracks/0/type = "value"
@@ -97,6 +81,22 @@ tracks/2/keys = {
 "transitions": PackedFloat32Array(1, 1, 1),
 "update": 0,
 "values": [0.0, -0.261799, 0.0]
+}
+
+[sub_resource type="Animation" id="Animation_8dafy"]
+resource_name = "idle"
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
 }
 
 [sub_resource type="Animation" id="Animation_k12jl"]

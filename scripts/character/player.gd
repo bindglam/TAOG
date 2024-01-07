@@ -15,7 +15,7 @@ func movement(delta: float):
 func _physics_process(delta: float) -> void:
 	movement(delta)
 	animation()
-	update_direction()
+	update_direction(get_global_mouse_position())
 	update_hand(false)
 
 	move_and_slide()

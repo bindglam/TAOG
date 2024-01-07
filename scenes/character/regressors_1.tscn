@@ -1,0 +1,186 @@
+[gd_scene load_steps=16 format=3 uid="uid://km0lg7hhsnee"]
+
+[ext_resource type="Script" path="res://scripts/character/enemy.gd" id="1_x6u6d"]
+[ext_resource type="PackedScene" uid="uid://b7wjbsp018vl7" path="res://scenes/item/weapon/gun/M23.tscn" id="2_6t1fo"]
+[ext_resource type="Texture2D" uid="uid://dxknnu3f344ax" path="res://assets/arts/character/Regressors_1.png" id="2_mrpej"]
+[ext_resource type="PackedScene" uid="uid://c8g8rdmctf5m2" path="res://scenes/ai/enemy_ai.tscn" id="3_phs04"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_e262c"]
+radius = 3.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_shxei"]
+radius = 86.0058
+
+[sub_resource type="Animation" id="Animation_aey5s"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
+}
+
+[sub_resource type="Animation" id="Animation_gvesy"]
+resource_name = "idle_down"
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
+}
+
+[sub_resource type="Animation" id="Animation_38k3q"]
+resource_name = "idle_side"
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [4]
+}
+
+[sub_resource type="Animation" id="Animation_nutl8"]
+resource_name = "idle_up"
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [8]
+}
+
+[sub_resource type="Animation" id="Animation_c1rva"]
+resource_name = "walk_down"
+length = 0.8
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2, 0.4, 0.6, 0.8),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1),
+"update": 1,
+"values": [1, 2, 3, 2, 2]
+}
+
+[sub_resource type="Animation" id="Animation_7ycgq"]
+resource_name = "walk_side"
+length = 0.8
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2, 0.4, 0.6, 0.8),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1),
+"update": 1,
+"values": [5, 6, 7, 6, 6]
+}
+
+[sub_resource type="Animation" id="Animation_opido"]
+resource_name = "walk_up"
+length = 0.8
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2, 0.4, 0.6, 0.8),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1),
+"update": 1,
+"values": [9, 10, 11, 10, 10]
+}
+
+[sub_resource type="Animation" id="Animation_61i6u"]
+resource_name = "death"
+length = 1.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.3, 0.7, 1.1),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 1,
+"values": [12, 13, 14, 15]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_udn4v"]
+_data = {
+"RESET": SubResource("Animation_aey5s"),
+"death": SubResource("Animation_61i6u"),
+"idle_down": SubResource("Animation_gvesy"),
+"idle_side": SubResource("Animation_38k3q"),
+"idle_up": SubResource("Animation_nutl8"),
+"walk_down": SubResource("Animation_c1rva"),
+"walk_side": SubResource("Animation_7ycgq"),
+"walk_up": SubResource("Animation_opido")
+}
+
+[node name="Regressors_1" type="CharacterBody2D"]
+script = ExtResource("1_x6u6d")
+primary_item = ExtResource("2_6t1fo")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("2_mrpej")
+offset = Vector2(0, -7)
+hframes = 4
+vframes = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -3)
+shape = SubResource("CircleShape2D_e262c")
+
+[node name="EnemyAI" parent="." node_paths=PackedStringArray("actor") instance=ExtResource("3_phs04")]
+distance_area_path = NodePath("../Area2D")
+actor_node_path = NodePath("..")
+actor = NodePath("..")
+
+[node name="NavigationAgent2D" type="NavigationAgent2D" parent="."]
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("CircleShape2D_shxei")
+
+[node name="Hand" type="Node2D" parent="."]
+position = Vector2(4, -2)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_udn4v")
+}

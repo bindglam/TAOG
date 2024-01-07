@@ -37,6 +37,7 @@ func on_aim():
 	pass
 
 func use():
+	if timer == null: return
 	if not timer.is_stopped(): return
 	if action_states["shooting"]: return
 	action_states["shooting"] = true
@@ -46,6 +47,7 @@ func use():
 	bullet.global_position = muzzle_pos.global_position
 	bullet.rotation = attacker.hand.rotation
 	bullet.attacker = attacker
+	bullet.damage = damage
 	
 	animation_player.stop()
 	animation_player.play("fire")

@@ -23,7 +23,9 @@ func _ready() -> void:
 	update_hand(true)
 
 func movement(delta: float):
-	if is_dead: return
+	if is_dead:
+		velocity = velocity.lerp(Vector2(), 0.1)
+		return
 	if direction:
 		velocity = velocity.lerp(direction * speed * delta, 0.1)
 	else:
@@ -59,9 +61,9 @@ func animation():
 	elif anim_direction == "side" and sprite.flip_h:
 		hand.position = Vector2(-4, -3)
 
-func update_direction():
+func update_direction(pos):
 	if is_dead: return
-	var mouse_position = get_global_mouse_position()
+	var mouse_position = pos
 	
 	hand.rotation = (mouse_position - position).angle()
 	
@@ -118,9 +120,9 @@ func use_item():
 			selected_item.attacker = self
 		selected_item.use()
 
-func on_damage(damage, attacker):
+func on_damage(damage, damager):
 	health -= damage
-	self.attacker = attacker
+	attacker = damager
 	
 	if health <= 0 and not is_dead:
 		health = 0

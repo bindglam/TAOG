@@ -1,0 +1,27 @@
+[gd_scene load_steps=7 format=3 uid="uid://c8g8rdmctf5m2"]
+
+[ext_resource type="Script" path="res://scripts/ai/enemy_ai.gd" id="1_i7nw2"]
+[ext_resource type="Script" path="res://addons/beehave/nodes/composites/selector.gd" id="2_304s8"]
+[ext_resource type="Script" path="res://addons/beehave/nodes/composites/sequence.gd" id="3_y5g2i"]
+[ext_resource type="Script" path="res://scripts/ai/HasEnemyInDistance.gd" id="4_8x7hp"]
+[ext_resource type="Script" path="res://scripts/ai/MoveToEnemy.gd" id="5_et3kq"]
+[ext_resource type="Script" path="res://scripts/ai/AttackEnemy.gd" id="6_pwdo0"]
+
+[node name="EnemyAI" type="Node"]
+script = ExtResource("1_i7nw2")
+detect_enemies_name = PackedStringArray("Player")
+
+[node name="SelectorComposite" type="Node" parent="."]
+script = ExtResource("2_304s8")
+
+[node name="MoveToEnemy" type="Node" parent="SelectorComposite"]
+script = ExtResource("3_y5g2i")
+
+[node name="HasEnemyInDistance" type="Node" parent="SelectorComposite/MoveToEnemy"]
+script = ExtResource("4_8x7hp")
+
+[node name="MoveToEnemy" type="Node" parent="SelectorComposite/MoveToEnemy"]
+script = ExtResource("5_et3kq")
+
+[node name="AttackEnemy" type="Node" parent="SelectorComposite"]
+script = ExtResource("6_pwdo0")

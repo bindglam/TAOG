@@ -21,10 +21,11 @@ grow_vertical = 2
 layout_mode = 1
 offset_right = 120.0
 offset_bottom = 16.0
-text = "Version: dev0.2"
+text = "Version: dev0.3"
 label_settings = SubResource("LabelSettings_3jbuy")
 
 [node name="Inventory" type="Control" parent="."]
+visible = false
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
