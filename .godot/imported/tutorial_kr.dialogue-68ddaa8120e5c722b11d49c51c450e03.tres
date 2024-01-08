@@ -1,0 +1,389 @@
+[gd_resource type="Resource" script_class="DialogueResource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/dialogue_manager/dialogue_resource.gd" id="1_b15g6"]
+
+[resource]
+script = ExtResource("1_b15g6")
+using_states = PackedStringArray()
+titles = {
+"start_1": "3",
+"start_2": "16",
+"start_3": "26",
+"start_4": "41"
+}
+character_names = PackedStringArray("사령관", "튜토리얼", "시스템")
+first_title = "3"
+lines = {
+"1": {
+"id": "1",
+"next_id": "3",
+"text": "start_1",
+"type": "title"
+},
+"10": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "10",
+"next_id": "end",
+"next_id_after": "12",
+"tags": PackedStringArray(),
+"text": "...",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "...",
+"type": "response"
+},
+"12": {
+"id": "12",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"14": {
+"id": "14",
+"next_id": "16",
+"text": "start_2",
+"type": "title"
+},
+"16": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "16",
+"next_id": "17",
+"tags": PackedStringArray(),
+"text": "잘했어!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "잘했어!",
+"type": "dialogue"
+},
+"17": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "17",
+"next_id": "18",
+"tags": PackedStringArray(),
+"text": "이제 총 사격법만 알면 되겠네.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "이제 총 사격법만 알면 되겠네.",
+"type": "dialogue"
+},
+"18": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "18",
+"next_id": "19",
+"tags": PackedStringArray(),
+"text": "가방에서 총을 꺼내서 앞에 있는 적한테 쏴봐!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "가방에서 총을 꺼내서 앞에 있는 적한테 쏴봐!",
+"type": "dialogue"
+},
+"19": {
+"character": "튜토리얼",
+"character_replacements": Array[Dictionary]([]),
+"id": "19",
+"next_id": "20",
+"tags": PackedStringArray(),
+"text": "( Tab 키를 눌러 가방을 열고, 총을 장착하고 1번키를 누르고 )",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "( Tab 키를 눌러 가방을 열고, 총을 장착하고 1번키를 누르고 )",
+"type": "dialogue"
+},
+"20": {
+"character": "튜토리얼",
+"character_replacements": Array[Dictionary]([]),
+"id": "20",
+"next_id": "22",
+"tags": PackedStringArray(),
+"text": "( 적한테 쏘세요. )",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "( 적한테 쏘세요. )",
+"type": "dialogue"
+},
+"22": {
+"id": "22",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"24": {
+"id": "24",
+"next_id": "26",
+"text": "start_3",
+"type": "title"
+},
+"26": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "26",
+"next_id": "27",
+"tags": PackedStringArray(),
+"text": "잘했어!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "잘했어!",
+"type": "dialogue"
+},
+"27": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "27",
+"next_id": "28",
+"tags": PackedStringArray(),
+"text": "총 사격법도 기억하고 있구나!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "총 사격법도 기억하고 있구나!",
+"type": "dialogue"
+},
+"28": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "28",
+"next_id": "29",
+"tags": PackedStringArray(),
+"text": "다행이다...",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "다행이다...",
+"type": "dialogue"
+},
+"29": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "29",
+"next_id": "30",
+"tags": PackedStringArray(),
+"text": "이제 복귀 기념 첫번째 임무를 줄게",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "이제 복귀 기념 첫번째 임무를 줄게",
+"type": "dialogue"
+},
+"3": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "3",
+"next_id": "4",
+"tags": PackedStringArray(),
+"text": "안녕, 친구!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "안녕, 친구!",
+"type": "dialogue"
+},
+"30": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "30",
+"next_id": "31",
+"tags": PackedStringArray(),
+"text": "이 방의 끝에 가서",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "이 방의 끝에 가서",
+"type": "dialogue"
+},
+"31": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "31",
+"next_id": "32",
+"tags": PackedStringArray(),
+"text": "발전기를 과부화 시키고,",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "발전기를 과부화 시키고,",
+"type": "dialogue"
+},
+"32": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "32",
+"next_id": "33",
+"tags": PackedStringArray(),
+"text": "출구로 나가.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "출구로 나가.",
+"type": "dialogue"
+},
+"33": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "33",
+"next_id": "34",
+"tags": PackedStringArray(),
+"text": "그게 첫 임무야",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "그게 첫 임무야",
+"type": "dialogue"
+},
+"34": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "34",
+"next_id": "35",
+"tags": PackedStringArray(),
+"text": "...",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "...",
+"type": "dialogue"
+},
+"35": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "35",
+"next_id": "37",
+"tags": PackedStringArray(),
+"text": "행운을 빌게!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "행운을 빌게!",
+"type": "dialogue"
+},
+"37": {
+"id": "37",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"39": {
+"id": "39",
+"next_id": "41",
+"text": "start_4",
+"type": "title"
+},
+"4": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "4",
+"next_id": "5",
+"tags": PackedStringArray(),
+"text": "지금 너는 오랜만에 휴가 갔다와서",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "지금 너는 오랜만에 휴가 갔다와서",
+"type": "dialogue"
+},
+"41": {
+"character": "시스템",
+"character_replacements": Array[Dictionary]([]),
+"id": "41",
+"next_id": "42",
+"tags": PackedStringArray(),
+"text": "경고",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "경고",
+"type": "dialogue"
+},
+"42": {
+"character": "시스템",
+"character_replacements": Array[Dictionary]([]),
+"id": "42",
+"next_id": "43",
+"tags": PackedStringArray(),
+"text": "경고",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "경고",
+"type": "dialogue"
+},
+"43": {
+"character": "시스템",
+"character_replacements": Array[Dictionary]([]),
+"id": "43",
+"next_id": "44",
+"tags": PackedStringArray(),
+"text": "발전기가 과부화되어 화재가 감지되었습니다.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "발전기가 과부화되어 화재가 감지되었습니다.",
+"type": "dialogue"
+},
+"44": {
+"character": "시스템",
+"character_replacements": Array[Dictionary]([]),
+"id": "44",
+"next_id": "45",
+"tags": PackedStringArray(),
+"text": "빠르게 대피해주시기 바랍니다.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "빠르게 대피해주시기 바랍니다.",
+"type": "dialogue"
+},
+"45": {
+"character": "시스템",
+"character_replacements": Array[Dictionary]([]),
+"id": "45",
+"next_id": "46",
+"tags": PackedStringArray(),
+"text": "경고",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "경고",
+"type": "dialogue"
+},
+"46": {
+"character": "시스템",
+"character_replacements": Array[Dictionary]([]),
+"id": "46",
+"next_id": "48",
+"tags": PackedStringArray(),
+"text": "경고",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "경고",
+"type": "dialogue"
+},
+"48": {
+"id": "48",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"5": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "5",
+"next_id": "6",
+"tags": PackedStringArray(),
+"text": "다시 기본 교육 프로그램을 시청중이야.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "다시 기본 교육 프로그램을 시청중이야.",
+"type": "dialogue"
+},
+"6": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "6",
+"next_id": "7",
+"tags": PackedStringArray(),
+"text": "일단 너가 잘 움직일 수 있는지 테스트를 해볼게",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "일단 너가 잘 움직일 수 있는지 테스트를 해볼게",
+"type": "dialogue"
+},
+"7": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "7",
+"next_id": "8",
+"tags": PackedStringArray(),
+"text": "한번 주변으로 움직여볼래?",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "한번 주변으로 움직여볼래?",
+"type": "dialogue"
+},
+"8": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "8",
+"next_id": "9",
+"next_id_after": "12",
+"responses": PackedStringArray("8", "10"),
+"tags": PackedStringArray(),
+"text": "응",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "응",
+"type": "response"
+},
+"9": {
+"character": "튜토리얼",
+"character_replacements": Array[Dictionary]([]),
+"id": "9",
+"next_id": "12",
+"parent_id": "8",
+"tags": PackedStringArray(),
+"text": "( WASD로 움직여보세요. )",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "( WASD로 움직여보세요. )",
+"type": "dialogue"
+}
+}
+metadata/dialogue_manager_version = "2.32.1"

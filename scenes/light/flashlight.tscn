@@ -11,3 +11,9 @@ texture = ExtResource("1_okoee")
 offset = Vector2(40, -1)
 texture_scale = 0.1
 script = ExtResource("2_wrwiw")
+
+[node name="PointLight2D" type="PointLight2D" parent="."]
+color = Color(1, 1, 1, 0.427451)
+texture = ExtResource("1_okoee")
+offset = Vector2(40, -1)
+texture_scale = 0.11

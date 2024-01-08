@@ -1,6 +1,9 @@
 class_name Character
 extends CharacterBody2D
 
+signal on_move(dir)
+signal on_death()
+
 @export var walk_speed: float = 3000.0
 @export var sprint_speed: float = 4000.0
 @export var health: float = 100.0
@@ -37,6 +40,8 @@ func movement(delta: float):
 		speed = walk_speed
 		
 	if direction:
+		on_move.emit(direction)
+		
 		velocity = velocity.lerp(direction * speed * delta, 0.1)
 	else:
 		velocity = velocity.lerp(Vector2(), 0.1)
@@ -163,6 +168,8 @@ func on_damage(damage, damager):
 		is_dead = true
 		collision.queue_free()
 		velocity = Vector2()
+		
+		on_death.emit()
 		
 		animation_player.play("death")
 

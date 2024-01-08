@@ -1,5 +1,9 @@
 res://scripts/ui
 res://scenes/ui
+res://scripts/util
+res://assets/arts/tileset/Cyberpunk Tileset/Animation
+res://scripts/map
+res://scenes/map
 res://scripts/light
 res://scenes/light
 res://scripts/character/player
@@ -15,5 +19,4 @@ res://scenes/bullet
 res://scenes/item/weapon/gun
 res://scenes/item
 res://scripts/autoload
-res://scenes/map
 res://scripts

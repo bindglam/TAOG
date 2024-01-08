@@ -1,0 +1,48 @@
+~ start_1
+
+Commander: Hey, friend!
+Commander: Now that you haven't had a vacation in a long time,
+Commander: you're watching the basic education program again.
+Commander: First, I'll test if you can move well.
+Commander: Would you like to move around?
+- Ok
+	Tutorial: ( Move to WASD. )
+- ... => END
+
+=> END
+
+~ start_2
+
+Commander: Great!
+Commander: All you need to know is how to shoot now.
+Commander: Take the gun out of your bag and shoot the enemy in front of you!
+Tutorial: ( Press the Tab key to open the bag, mount the gun, press the 1 key, )
+Tutorial: ( and shoot the enemy. )
+
+=> END
+
+~ start_3
+
+Commander: Perfect!
+Commander: You remember how to shoot!
+Commander: That's a relief...
+Commander: Now I'll give you my first mission to celebrate your return.
+Commander: Go to the end of this room,
+Commander: widow the generator,
+Commander: go out the exit.
+Commander: That's the first mission.
+Commander: ...
+Commander: Good luck!
+
+=> END
+
+~ start_4
+
+System: Warning!
+System: Warning!
+System: The generator was overridden and a fire was detected.
+System: Please evacuate quickly.
+System: Warning!
+System: Warning!
+
+=> END

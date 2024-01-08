@@ -6,24 +6,28 @@ class_name Player
 @onready var player_ui: Control = $Camera2D/CanvasLayer/PlayerUI
 @onready var inventory: Control = $Camera2D/CanvasLayer/PlayerUI/Inventory
 
+var is_talking: bool = false
+
 func _init() -> void:
 	Global.player = self
 
 func movement(delta: float):
-	if not inventory.visible: direction = Vector2(Input.get_axis("left", "right"), Input.get_axis("forward", "backward"))
+	if not inventory.visible and not is_talking:
+		direction = Vector2(Input.get_axis("left", "right"), Input.get_axis("forward", "backward"))
+	else: direction = Vector2()
 	super.movement(delta)
 
 func _physics_process(delta: float) -> void:
 	movement(delta)
 	animation()
-	if not inventory.visible:
+	if not inventory.visible and not is_talking:
 		update_direction(get_global_mouse_position())
 	update_hand(false)
 
 	move_and_slide()
 
 func _process(_delta: float) -> void:
-	if selected_item != null and not inventory.visible:
+	if selected_item != null and not inventory.visible and not is_talking:
 		if Input.is_action_just_pressed("use") and not selected_item is GunItem:
 			use_item()
 		elif Input.is_action_just_pressed("use") and selected_item.shoot_type == 1:
@@ -43,14 +47,14 @@ func _input(event: InputEvent) -> void:
 	if event.is_action_pressed("inv_toggle"):
 		inventory.visible = not inventory.visible
 	
-	if event.is_action_pressed("select_primary") and not inventory.visible:
+	if event.is_action_pressed("select_primary") and not inventory.visible and not is_talking:
 		selected_hand = "primary"
 		update_hand(true)
-	elif event.is_action_pressed("select_secondary") and not inventory.visible:
+	elif event.is_action_pressed("select_secondary") and not inventory.visible and not is_talking:
 		selected_hand = "secondary"
 		update_hand(true)
 	
-	if event.is_action_pressed("reload"):
+	if event.is_action_pressed("reload") and not inventory.visible and not is_talking:
 		input_item("reload")
 
 func on_damage(damage, damager):

@@ -1,0 +1,119 @@
+[gd_resource type="Resource" script_class="DialogueResource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/dialogue_manager/dialogue_resource.gd" id="1_a3lyg"]
+
+[resource]
+script = ExtResource("1_a3lyg")
+using_states = PackedStringArray()
+titles = {
+"start": "3"
+}
+character_names = PackedStringArray("사령관", "튜토리얼")
+first_title = "3"
+lines = {
+"1": {
+"id": "1",
+"next_id": "3",
+"text": "start",
+"type": "title"
+},
+"10": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "10",
+"next_id": "end",
+"next_id_after": "12",
+"tags": PackedStringArray(),
+"text": "...",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "...",
+"type": "response"
+},
+"12": {
+"id": "12",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"3": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "3",
+"next_id": "4",
+"tags": PackedStringArray(),
+"text": "안녕, 친구!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "안녕, 친구!",
+"type": "dialogue"
+},
+"4": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "4",
+"next_id": "5",
+"tags": PackedStringArray(),
+"text": "지금 너는 오랜만에 휴가 갔다와서",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "지금 너는 오랜만에 휴가 갔다와서",
+"type": "dialogue"
+},
+"5": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "5",
+"next_id": "6",
+"tags": PackedStringArray(),
+"text": "다시 기본 교육 프로그램을 시청중이야.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "다시 기본 교육 프로그램을 시청중이야.",
+"type": "dialogue"
+},
+"6": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "6",
+"next_id": "7",
+"tags": PackedStringArray(),
+"text": "일단 너가 잘 움직일 수 있는지 테스트를 해볼게",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "일단 너가 잘 움직일 수 있는지 테스트를 해볼게",
+"type": "dialogue"
+},
+"7": {
+"character": "사령관",
+"character_replacements": Array[Dictionary]([]),
+"id": "7",
+"next_id": "8",
+"tags": PackedStringArray(),
+"text": "한번 주변으로 움직여볼래?",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "한번 주변으로 움직여볼래?",
+"type": "dialogue"
+},
+"8": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "8",
+"next_id": "9",
+"next_id_after": "12",
+"responses": PackedStringArray("8", "10"),
+"tags": PackedStringArray(),
+"text": "응",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "응",
+"type": "response"
+},
+"9": {
+"character": "튜토리얼",
+"character_replacements": Array[Dictionary]([]),
+"id": "9",
+"next_id": "12",
+"parent_id": "8",
+"tags": PackedStringArray(),
+"text": "( WASD로 움직여보세요. )",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "( WASD로 움직여보세요. )",
+"type": "dialogue"
+}
+}
+metadata/dialogue_manager_version = "2.32.1"

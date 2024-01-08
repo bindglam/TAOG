@@ -1,0 +1,389 @@
+[gd_resource type="Resource" script_class="DialogueResource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/dialogue_manager/dialogue_resource.gd" id="1_121tc"]
+
+[resource]
+script = ExtResource("1_121tc")
+using_states = PackedStringArray()
+titles = {
+"start_1": "3",
+"start_2": "16",
+"start_3": "26",
+"start_4": "41"
+}
+character_names = PackedStringArray("Commander", "Tutorial", "System")
+first_title = "3"
+lines = {
+"1": {
+"id": "1",
+"next_id": "3",
+"text": "start_1",
+"type": "title"
+},
+"10": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "10",
+"next_id": "end",
+"next_id_after": "12",
+"tags": PackedStringArray(),
+"text": "...",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "...",
+"type": "response"
+},
+"12": {
+"id": "12",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"14": {
+"id": "14",
+"next_id": "16",
+"text": "start_2",
+"type": "title"
+},
+"16": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "16",
+"next_id": "17",
+"tags": PackedStringArray(),
+"text": "Great!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Great!",
+"type": "dialogue"
+},
+"17": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "17",
+"next_id": "18",
+"tags": PackedStringArray(),
+"text": "All you need to know is how to shoot now.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "All you need to know is how to shoot now.",
+"type": "dialogue"
+},
+"18": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "18",
+"next_id": "19",
+"tags": PackedStringArray(),
+"text": "Take the gun out of your bag and shoot the enemy in front of you!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Take the gun out of your bag and shoot the enemy in front of you!",
+"type": "dialogue"
+},
+"19": {
+"character": "Tutorial",
+"character_replacements": Array[Dictionary]([]),
+"id": "19",
+"next_id": "20",
+"tags": PackedStringArray(),
+"text": "( Press the Tab key to open the bag, mount the gun, press the 1 key, )",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "( Press the Tab key to open the bag, mount the gun, press the 1 key, )",
+"type": "dialogue"
+},
+"20": {
+"character": "Tutorial",
+"character_replacements": Array[Dictionary]([]),
+"id": "20",
+"next_id": "22",
+"tags": PackedStringArray(),
+"text": "( and shoot the enemy. )",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "( and shoot the enemy. )",
+"type": "dialogue"
+},
+"22": {
+"id": "22",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"24": {
+"id": "24",
+"next_id": "26",
+"text": "start_3",
+"type": "title"
+},
+"26": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "26",
+"next_id": "27",
+"tags": PackedStringArray(),
+"text": "Perfect!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Perfect!",
+"type": "dialogue"
+},
+"27": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "27",
+"next_id": "28",
+"tags": PackedStringArray(),
+"text": "You remember how to shoot!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "You remember how to shoot!",
+"type": "dialogue"
+},
+"28": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "28",
+"next_id": "29",
+"tags": PackedStringArray(),
+"text": "That's a relief...",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "That's a relief...",
+"type": "dialogue"
+},
+"29": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "29",
+"next_id": "30",
+"tags": PackedStringArray(),
+"text": "Now I'll give you my first mission to celebrate your return.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Now I'll give you my first mission to celebrate your return.",
+"type": "dialogue"
+},
+"3": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "3",
+"next_id": "4",
+"tags": PackedStringArray(),
+"text": "Hey, friend!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Hey, friend!",
+"type": "dialogue"
+},
+"30": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "30",
+"next_id": "31",
+"tags": PackedStringArray(),
+"text": "Go to the end of this room,",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Go to the end of this room,",
+"type": "dialogue"
+},
+"31": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "31",
+"next_id": "32",
+"tags": PackedStringArray(),
+"text": "widow the generator,",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "widow the generator,",
+"type": "dialogue"
+},
+"32": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "32",
+"next_id": "33",
+"tags": PackedStringArray(),
+"text": "go out the exit.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "go out the exit.",
+"type": "dialogue"
+},
+"33": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "33",
+"next_id": "34",
+"tags": PackedStringArray(),
+"text": "That's the first mission.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "That's the first mission.",
+"type": "dialogue"
+},
+"34": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "34",
+"next_id": "35",
+"tags": PackedStringArray(),
+"text": "...",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "...",
+"type": "dialogue"
+},
+"35": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "35",
+"next_id": "37",
+"tags": PackedStringArray(),
+"text": "Good luck!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Good luck!",
+"type": "dialogue"
+},
+"37": {
+"id": "37",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"39": {
+"id": "39",
+"next_id": "41",
+"text": "start_4",
+"type": "title"
+},
+"4": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "4",
+"next_id": "5",
+"tags": PackedStringArray(),
+"text": "Now that you haven't had a vacation in a long time,",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Now that you haven't had a vacation in a long time,",
+"type": "dialogue"
+},
+"41": {
+"character": "System",
+"character_replacements": Array[Dictionary]([]),
+"id": "41",
+"next_id": "42",
+"tags": PackedStringArray(),
+"text": "Warning!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Warning!",
+"type": "dialogue"
+},
+"42": {
+"character": "System",
+"character_replacements": Array[Dictionary]([]),
+"id": "42",
+"next_id": "43",
+"tags": PackedStringArray(),
+"text": "Warning!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Warning!",
+"type": "dialogue"
+},
+"43": {
+"character": "System",
+"character_replacements": Array[Dictionary]([]),
+"id": "43",
+"next_id": "44",
+"tags": PackedStringArray(),
+"text": "The generator was overridden and a fire was detected.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "The generator was overridden and a fire was detected.",
+"type": "dialogue"
+},
+"44": {
+"character": "System",
+"character_replacements": Array[Dictionary]([]),
+"id": "44",
+"next_id": "45",
+"tags": PackedStringArray(),
+"text": "Please evacuate quickly.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Please evacuate quickly.",
+"type": "dialogue"
+},
+"45": {
+"character": "System",
+"character_replacements": Array[Dictionary]([]),
+"id": "45",
+"next_id": "46",
+"tags": PackedStringArray(),
+"text": "Warning!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Warning!",
+"type": "dialogue"
+},
+"46": {
+"character": "System",
+"character_replacements": Array[Dictionary]([]),
+"id": "46",
+"next_id": "48",
+"tags": PackedStringArray(),
+"text": "Warning!",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Warning!",
+"type": "dialogue"
+},
+"48": {
+"id": "48",
+"is_snippet": false,
+"next_id": "end",
+"type": "goto"
+},
+"5": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "5",
+"next_id": "6",
+"tags": PackedStringArray(),
+"text": "you're watching the basic education program again.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "you're watching the basic education program again.",
+"type": "dialogue"
+},
+"6": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "6",
+"next_id": "7",
+"tags": PackedStringArray(),
+"text": "First, I'll test if you can move well.",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "First, I'll test if you can move well.",
+"type": "dialogue"
+},
+"7": {
+"character": "Commander",
+"character_replacements": Array[Dictionary]([]),
+"id": "7",
+"next_id": "8",
+"tags": PackedStringArray(),
+"text": "Would you like to move around?",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Would you like to move around?",
+"type": "dialogue"
+},
+"8": {
+"character": "",
+"character_replacements": Array[Dictionary]([]),
+"id": "8",
+"next_id": "9",
+"next_id_after": "12",
+"responses": PackedStringArray("8", "10"),
+"tags": PackedStringArray(),
+"text": "Ok",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "Ok",
+"type": "response"
+},
+"9": {
+"character": "Tutorial",
+"character_replacements": Array[Dictionary]([]),
+"id": "9",
+"next_id": "12",
+"parent_id": "8",
+"tags": PackedStringArray(),
+"text": "( Move to WASD. )",
+"text_replacements": Array[Dictionary]([]),
+"translation_key": "( Move to WASD. )",
+"type": "dialogue"
+}
+}
+metadata/dialogue_manager_version = "2.32.1"
