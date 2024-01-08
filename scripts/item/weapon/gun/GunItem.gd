@@ -14,14 +14,18 @@ const MUZZLE_EFFECT_SCENE := preload("res://scenes/effect/muzzle_effect.tscn")
 @export var reload_time: float
 @export var shoot_type: ShootType
 @export var camera_shake_amount: float
+@export var aim_amount: float
 
 @onready var animation_player: AnimationPlayer = $AnimationPlayer
 @onready var muzzle_pos: Node2D = $MuzzlePos
 @onready var muzzle_sound: AudioStreamPlayer2D = $MuzzlePos/MuzzleSound
-@onready var reload_sound: AudioStreamPlayer2D = $ReloadSound
+@onready var magin_sound: AudioStreamPlayer2D = $MagInSound
+@onready var magout_sound: AudioStreamPlayer2D = $MagOutSound
 
 var action_states: Dictionary = { "shooting": false, "reloading": false, "aimming": false }
 var attacker: Character
+
+var on_magin = false
 
 var on_timeout := func():
 	if action_states["shooting"]: action_states["shooting"] = false
@@ -87,7 +91,27 @@ func input(type):
 		
 		animation_player.stop()
 		animation_player.play("reload")
-		reload_sound.play()
 		
 		timer.wait_time = reload_time
 		timer.start()
+		
+		magout_sound.play()
+		await get_tree().create_timer(reload_time/2).timeout
+		magin_sound.play()
+
+func tick(user):
+	attacker = user
+	if not attacker is Player: return
+	if Input.is_action_pressed("aim"):
+		action_states["aimming"] = true
+	elif Input.is_action_just_released("aim"):
+		action_states["aimming"] = false
+		
+	if action_states["aimming"]:
+		Global.player.camera.follow_mouse_mul = lerp(Global.player.camera.follow_mouse_mul, aim_amount, 0.1)
+		Global.player.walk_speed = 2000
+		Global.player.sprint_speed = 2000
+	else:
+		Global.player.camera.follow_mouse_mul = lerp(Global.player.camera.follow_mouse_mul, 0.07, 0.1)
+		Global.player.walk_speed = 3000
+		Global.player.sprint_speed = 4000

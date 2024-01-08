@@ -177,3 +177,8 @@ func input_item(type):
 	if is_dead: return
 	if selected_item != null:
 		selected_item.input(type)
+
+func tick_item(user):
+	if selected_item != null:
+		if not selected_item is UsableItem: return
+		selected_item.tick(user)

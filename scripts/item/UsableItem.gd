@@ -29,3 +29,6 @@ func use():
 
 func input(_type):
 	pass
+
+func tick(user):
+	pass

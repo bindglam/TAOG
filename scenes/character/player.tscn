@@ -152,6 +152,10 @@ polygon = PackedVector2Array(-4, 0, -4, -1, 4, -1, 4, 0)
 [node name="Player" type="CharacterBody2D"]
 light_mask = 4
 script = ExtResource("1_rdkek")
+walk_speed = null
+sprint_speed = null
+health = null
+max_health = null
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture_filter = 1

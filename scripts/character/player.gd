@@ -42,6 +42,8 @@ func _process(_delta: float) -> void:
 	
 	player_ui.health = health
 	player_ui.max_health = max_health
+	
+	tick_item(self)
 
 func _input(event: InputEvent) -> void:
 	if event.is_action_pressed("inv_toggle"):
@@ -61,3 +63,9 @@ func on_damage(damage, damager):
 	super.on_damage(damage, damager)
 	
 	player_ui.on_damage(damage, damager)
+	
+	if health <= 0:
+		player_ui.switch_screen(Color.RED, Color.TRANSPARENT, 5.0)
+		await get_tree().create_timer(5.0).timeout
+		get_tree().change_scene_to_file("res://scenes/game.tscn")
+		#get_tree().current_scene.queue_free.call_deferred()

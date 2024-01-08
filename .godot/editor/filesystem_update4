@@ -13,3 +13,7 @@ res://scripts/character/player/Inventory.gd
 res://scripts/character/player/player_ui.gd
 res://scenes/ui/ending_credits.tscn
 res://scripts/ui/ending_credits.gd
+res://scenes/item/weapon/gun/YH-001.tscn
+res://scripts/item/weapon/gun/GunItem.gd
+res://scenes/item/weapon/gun/M23.tscn
+res://scripts/item/UsableItem.gd
