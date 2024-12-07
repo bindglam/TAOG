@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-@export var speed: float = 2000
+@export var speed: float = 5000
 @onready var area2d: Area2D = $Area2D
 @onready var timer: Timer = $Timer
 var damage = 0

@@ -23,6 +23,10 @@ environment = SubResource("Environment_a78gl")
 
 [node name="Player" parent="." instance=ExtResource("3_aekqw")]
 position = Vector2(-36, 2)
+walk_speed = 3000.0
+sprint_speed = 4000.0
+health = 100.0
+max_health = 100.0
 
 [node name="Bullets" type="Node" parent="."]
 

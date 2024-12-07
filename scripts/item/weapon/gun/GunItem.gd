@@ -62,7 +62,8 @@ func use():
 	bullet.attacker = attacker
 	bullet.damage = damage
 	
-	animation_player.stop()
+	if animation_player.is_playing():
+		animation_player.stop()
 	animation_player.play("fire")
 	muzzle_sound.play()
 	

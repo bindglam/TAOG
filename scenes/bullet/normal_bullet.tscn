@@ -1,11 +1,16 @@
-[gd_scene load_steps=4 format=3 uid="uid://cna0aofk5me4g"]
+[gd_scene load_steps=6 format=3 uid="uid://cna0aofk5me4g"]
 
 [ext_resource type="Texture2D" uid="uid://6pchdsrxuo64" path="res://assets/arts/util/bullet/Bullet.png" id="1_jf5vn"]
 [ext_resource type="Script" path="res://scripts/bullet/normal_bullet.gd" id="1_jltxo"]
+[ext_resource type="Script" path="res://scripts/effect/trail.gd" id="3_0cu4i"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_w0u0m"]
 radius = 3.0
 height = 10.0
+
+[sub_resource type="Curve" id="Curve_nl5lh"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 2
 
 [node name="Bullet" type="CharacterBody2D"]
 z_as_relative = false
@@ -36,3 +41,11 @@ scale = Vector2(0.5, 0.333333)
 wait_time = 5.0
 one_shot = true
 autostart = true
+
+[node name="Trail" type="Line2D" parent="."]
+top_level = true
+width = 3.0
+width_curve = SubResource("Curve_nl5lh")
+default_color = Color(1, 1, 0, 1)
+script = ExtResource("3_0cu4i")
+max_length = 3

@@ -136,14 +136,14 @@ tracks/0/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_qj6sy"]
 _data = {
-"RESET": SubResource("Animation_4fq1a"),
-"death": SubResource("Animation_877xy"),
-"idle_down": SubResource("Animation_g71n6"),
-"idle_side": SubResource("Animation_enwcc"),
-"idle_up": SubResource("Animation_uprnb"),
-"walk_down": SubResource("Animation_qfx8c"),
-"walk_side": SubResource("Animation_03ceg"),
-"walk_up": SubResource("Animation_seyrb")
+&"RESET": SubResource("Animation_4fq1a"),
+&"idle_side": SubResource("Animation_enwcc"),
+&"idle_up": SubResource("Animation_uprnb"),
+&"walk_side": SubResource("Animation_03ceg"),
+&"walk_up": SubResource("Animation_seyrb"),
+&"idle_down": SubResource("Animation_g71n6"),
+&"walk_down": SubResource("Animation_qfx8c"),
+&"death": SubResource("Animation_877xy")
 }
 
 [sub_resource type="OccluderPolygon2D" id="OccluderPolygon2D_bjuj1"]
@@ -152,10 +152,6 @@ polygon = PackedVector2Array(-4, 0, -4, -1, 4, -1, 4, 0)
 [node name="Player" type="CharacterBody2D"]
 light_mask = 4
 script = ExtResource("1_rdkek")
-walk_speed = null
-sprint_speed = null
-health = null
-max_health = null
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture_filter = 1
@@ -183,7 +179,7 @@ target = NodePath("..")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
-"": SubResource("AnimationLibrary_qj6sy")
+&"": SubResource("AnimationLibrary_qj6sy")
 }
 
 [node name="Hand" type="Node2D" parent="."]

@@ -1,7 +1,8 @@
-[gd_scene load_steps=9 format=3 uid="uid://cawanlybg61bf"]
+[gd_scene load_steps=10 format=3 uid="uid://cawanlybg61bf"]
 
 [ext_resource type="Texture2D" uid="uid://bivbjvh1geqeu" path="res://assets/arts/effect/Effect 3 - Sprite Sheet.png" id="1_jdhiy"]
 [ext_resource type="Script" path="res://scripts/effect/muzzle_effect.gd" id="1_s5nyk"]
+[ext_resource type="Texture2D" uid="uid://cyqxulkhm5eks" path="res://assets/arts/util/Circle.png" id="3_st6eh"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_i8oj4"]
 atlas = ExtResource("1_jdhiy")
@@ -55,4 +56,14 @@ sprite_frames = SubResource("SpriteFrames_w2js8")
 offset = Vector2(4, 0)
 
 [node name="Timer" type="Timer" parent="."]
+one_shot = true
+
+[node name="PointLight2D" type="PointLight2D" parent="."]
+color = Color(1, 1, 0, 1)
+energy = 2.0
+texture = ExtResource("3_st6eh")
+texture_scale = 7.0
+
+[node name="Timer" type="Timer" parent="PointLight2D"]
+wait_time = 0.01
 one_shot = true

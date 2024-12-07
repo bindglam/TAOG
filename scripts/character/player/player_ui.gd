@@ -36,7 +36,7 @@ func _process(_delta: float) -> void:
 		var new_current_item:Node2D = packed_current_item.instantiate()
 		ItemInfoHolder.add_child(new_current_item)
 		new_current_item.scale = Vector2(4, 4)
-		new_current_item.position = Vector2(80, 50)
+		new_current_item.position = Vector2(45, 40)
 		
 		if Global.player.selected_item is GunItem:
 			ItemInfoInfo.text = str(Global.player.selected_item.ammo) + " / " + str(Global.player.selected_item.max_ammo)

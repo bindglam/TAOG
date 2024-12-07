@@ -121,10 +121,10 @@ tracks/0/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_qry1r"]
 _data = {
-"RESET": SubResource("Animation_mfil0"),
-"fire": SubResource("Animation_vvtm7"),
-"idle": SubResource("Animation_fdxi5"),
-"reload": SubResource("Animation_n37vv")
+&"reload": SubResource("Animation_n37vv"),
+&"RESET": SubResource("Animation_mfil0"),
+&"idle": SubResource("Animation_fdxi5"),
+&"fire": SubResource("Animation_vvtm7")
 }
 
 [node name="YH-001" type="Node2D"]
@@ -148,7 +148,7 @@ hframes = 10
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
-"": SubResource("AnimationLibrary_qry1r")
+&"": SubResource("AnimationLibrary_qry1r")
 }
 
 [node name="MuzzlePos" type="Node2D" parent="."]

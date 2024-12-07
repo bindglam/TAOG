@@ -48,8 +48,8 @@ tracks/0/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_tbu6r"]
 _data = {
-"RESET": SubResource("Animation_1q6a0"),
-"idle": SubResource("Animation_v7lsp")
+&"RESET": SubResource("Animation_1q6a0"),
+&"idle": SubResource("Animation_v7lsp")
 }
 
 [sub_resource type="LabelSettings" id="LabelSettings_cdv0m"]
@@ -204,7 +204,7 @@ texture_progress = ExtResource("8_tnk2q")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="HealthBar"]
 libraries = {
-"": SubResource("AnimationLibrary_tbu6r")
+&"": SubResource("AnimationLibrary_tbu6r")
 }
 
 [node name="ItemInfo" type="Control" parent="."]

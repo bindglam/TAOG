@@ -8,6 +8,21 @@
 [ext_resource type="Script" path="res://scripts/util/TutorialDoor.gd" id="6_uisq4"]
 [ext_resource type="AudioStream" uid="uid://ew2cgt7ca5c6" path="res://assets/sounds/SCI FI DOORS/DOOR_OPEN_39.wav" id="7_nikjp"]
 
+[sub_resource type="Animation" id="Animation_p0kn2"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(548, 222)]
+}
+
 [sub_resource type="Animation" id="Animation_uxaek"]
 resource_name = "default"
 loop_mode = 1
@@ -24,25 +39,10 @@ tracks/0/keys = {
 "values": [Vector2(548, 222), Vector2(558.655, 222), Vector2(548, 222)]
 }
 
-[sub_resource type="Animation" id="Animation_p0kn2"]
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath(".:position")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 0,
-"values": [Vector2(548, 222)]
-}
-
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_ldhnp"]
 _data = {
-"RESET": SubResource("Animation_p0kn2"),
-"default": SubResource("Animation_uxaek")
+&"default": SubResource("Animation_uxaek"),
+&"RESET": SubResource("Animation_p0kn2")
 }
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_0g3mr"]
@@ -131,7 +131,7 @@ texture = ExtResource("3_a0uyn")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="ThisWay"]
 libraries = {
-"": SubResource("AnimationLibrary_ldhnp")
+&"": SubResource("AnimationLibrary_ldhnp")
 }
 
 [node name="BaljeonGi" type="Area2D" parent="."]
