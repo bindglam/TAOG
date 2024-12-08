@@ -14,4 +14,3 @@ func tick(_actor: Node, blackboard: Blackboard) -> int:
 			blackboard.set_value("enemy", body)
 			return SUCCESS
 	return RUNNING
-

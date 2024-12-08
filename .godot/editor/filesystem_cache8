@@ -1,8 +1,8 @@
 3acdcc5cb6df755358dde907981ccea8
-::res://::1733572000
+::res://::1733618336
 icon.svg::CompressedTexture2D::1716297411008757711::1733571959::1733572024::1::::<><><>e090d829d2ad98161cb8192e4333d552<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1733571957::0::1::::<><><><>::
-settings.json::JSON::-1::1733571959::0::1::::<><><><>::
+settings.json::JSON::-1::1733612822::0::1::::<><><><>::
 ::res://addons/::1733571957
 ::res://addons/beehave/::1733571957
 blackboard.gd::GDScript::-1::1733571957::0::1::::Blackboard<>Node<>res://addons/beehave/icons/blackboard.svg<><>::
@@ -17,14 +17,14 @@ global_debugger.gd::GDScript::-1::1733571957::0::1::::<>Node<><><>::
 graph_edit.gd::GDScript::-1::1733571957::0::1::::<>GraphEdit<><><>::
 graph_node.gd::GDScript::-1::1733571957::0::1::::<>GraphNode<><><>::
 tree_node.gd::GDScript::-1::1733571957::0::1::::TreeNode<>RefCounted<><><>::
-::res://addons/beehave/debug/icons/::1733571957
+::res://addons/beehave/debug/icons/::1733572024
 horizontal_layout.svg::CompressedTexture2D::2402871655411330131::1733571957::1733572024::1::::<><><>fa4efdd185271676e1123b091112b15d<>res://.godot/imported/horizontal_layout.svg-d2a7af351e44f9bf61d0c938b6f47fac.ctex::
 port_bottom.svg::CompressedTexture2D::7217175080948403972::1733571957::1733572024::1::::<><><>0a30accefb9e64cf4c6ae756b970a6ac<>res://.godot/imported/port_bottom.svg-e5c5c61b642a79ab9c2b66ff56603d34.ctex::
 port_left.svg::CompressedTexture2D::3340472120496126551::1733571957::1733572024::1::::<><><>96ac4ce07efa0055ba778ba9e4aa50c2<>res://.godot/imported/port_left.svg-69cd927c4db555f1edbb8d1f553ea2fd.ctex::
 port_right.svg::CompressedTexture2D::2481620690672730650::1733571957::1733572024::1::::<><><>e8e0f8c4ce287bd9c40a1b59eabd4f92<>res://.godot/imported/port_right.svg-f760bd8be2dd613d0d3848c998c92a2a.ctex::
 port_top.svg::CompressedTexture2D::4000058125899369395::1733571957::1733572024::1::::<><><>948d22508f1b3a7c8746dbcc032bf7a9<>res://.godot/imported/port_top.svg-d1b336cdc6a0dd570305782a1e56f61d.ctex::
 vertical_layout.svg::CompressedTexture2D::3490232252841307079::1733571957::1733572024::1::::<><><>877a34d8945c5086e2191bc599a35f89<>res://.godot/imported/vertical_layout.svg-1a08fee4b09812a05bcf3defb8afcc4c.ctex::
-::res://addons/beehave/icons/::1733571957
+::res://addons/beehave/icons/::1733572024
 action.svg::CompressedTexture2D::3756133786918721016::1733571957::1733572024::1::::<><><>543a4f47467a79dd21ebb74f5deaa5d3<>res://.godot/imported/action.svg-e8a91246d0ba9ba3cf84290d65648f06.ctex::
 blackboard.svg::CompressedTexture2D::8770534558466881020::1733571957::1733572024::1::::<><><>1d68041a78eba2e51a6b8d7d9ae092e0<>res://.godot/imported/blackboard.svg-18d4dfd4f6de558de250b67251ff1e69.ctex::
 category_bt.svg::CompressedTexture2D::1154176332224819161::1733571957::1733572024::1::::<><><>5d43e5087d7c927c7419eb26a8cc60c4<>res://.godot/imported/category_bt.svg-8537bebd1c5f62dca3d7ee7f17efeed4.ctex::
@@ -97,7 +97,7 @@ plugin.gd::GDScript::-1::1733571957::0::1::::<>EditorPlugin<><><>::
 settings.gd::GDScript::-1::1733571957::0::1::::<>Node<><><>::
 test_scene.gd::GDScript::-1::1733571957::0::1::::BaseDialogueTestScene<>Node2D<><><>::
 test_scene.tscn::PackedScene::-1::1733571957::0::1::::<><><><>::res://addons/dialogue_manager/test_scene.gd
-::res://addons/dialogue_manager/assets/::1733571957
+::res://addons/dialogue_manager/assets/::1733572024
 icon.svg::CompressedTexture2D::9148339284877624195::1733571957::1733572024::1::::<><><>1f523c0ffc790e9669090bedffd6f123<>res://.godot/imported/icon.svg-17eb5d3e2a3cfbe59852220758c5b7bd.ctex::
 responses_menu.svg::CompressedTexture2D::8371359403825774630::1733571957::1733572024::1::::<><><>80641983a0c27ba88b462ca888bb16e7<>res://.godot/imported/responses_menu.svg-87cf63ca685d53616205049572f4eb8f.ctex::
 update.svg::CompressedTexture2D::9126631778427806641::1733571957::1733572024::1::::<><><>0755cd49aa8e1669d0212cb241a62c99<>res://.godot/imported/update.svg-f1628866ed4eb2e13e3b81f75443687e.ctex::
@@ -1230,68 +1230,69 @@ restart_warning.json::JSON::-1::1733571959::0::1::::<><><><>::
 settings_btn.json::JSON::-1::1733571959::0::1::::<><><><>::
 target_fps_label.json::JSON::-1::1733571959::0::1::::<><><><>::
 use_pp_btn.json::JSON::-1::1733571959::0::1::::<><><><>::
-::res://dialogues/::1733571959
+::res://dialogues/::1733572024
 balloon.tscn::PackedScene::7163865763427688110::1733571959::0::1::::<><><><>::res://scripts/ui/balloon.gd<>uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>uid://ckvgyvclnwggo::::res://addons/dialogue_manager/dialogue_label.tscn<>res://addons/dialogue_manager/dialogue_reponses_menu.gd<>uid://ds1l6ammll7dc::::res://assets/sounds/Ui & Item Sounds - HD Remake/Pop sound 1.wav
 tutorial_en.dialogue::Resource::4714998627093284696::1733571959::1733572024::1::::<><><>7b10655ec480672482c52940fd41cd87<>res://.godot/imported/tutorial_en.dialogue-9add11663e54119695abc693bf0212b3.tres::res://addons/dialogue_manager/dialogue_resource.gd
 tutorial_kr.dialogue::Resource::3596608115538783894::1733571959::1733572024::1::::<><><>8c95e4b3dc3363a1eaa486b565cf84ea<>res://.godot/imported/tutorial_kr.dialogue-68ddaa8120e5c722b11d49c51c450e03.tres::res://addons/dialogue_manager/dialogue_resource.gd
-::res://scenes/::1733571959
-game.tscn::PackedScene::5687706632649075393::1733571959::0::1::::<><><><>::res://scripts/game.gd<>uid://1ena6ji4c1hu::::res://scenes/map/tutorial_map.tscn<>uid://d4cvahlopgf0p::::res://scenes/character/player.tscn
+::res://scenes/::1733612816
+game.tscn::PackedScene::5687706632649075393::1733612816::0::1::::<><><><>::res://scripts/game.gd<>uid://1ena6ji4c1hu::::res://scenes/map/tutorial_map.tscn<>uid://d4cvahlopgf0p::::res://scenes/character/player.tscn
 ::res://scenes/ai/::1733571959
 enemy_ai.tscn::PackedScene::7103493669447502275::1733571959::0::1::::<><><><>::res://scripts/ai/enemy_ai.gd<>res://addons/beehave/nodes/composites/selector.gd<>res://addons/beehave/nodes/composites/sequence.gd<>res://scripts/ai/HasEnemyInDistance.gd<>res://scripts/ai/MoveToEnemy.gd<>res://scripts/ai/AttackEnemy.gd
-::res://scenes/bullet/::1733571959
-normal_bullet.tscn::PackedScene::5686815003045630384::1733571959::0::1::::<><><><>::uid://6pchdsrxuo64::::res://assets/arts/util/bullet/Bullet.png<>res://scripts/bullet/normal_bullet.gd
-::res://scenes/character/::1733571959
-player.tscn::PackedScene::9200142714251140629::1733571959::0::1::::<><><><>::uid://bodisxwv3jjqy::::res://assets/arts/character/Player.png<>res://scripts/character/player.gd<>res://scripts/character/player/camera.gd<>uid://cwwa8ce1va3g8::::res://scenes/ui/player_ui.tscn<>uid://cj1ny1kge8m7::::res://scenes/light/flashlight.tscn
-regressors_1.tscn::PackedScene::728198902883123744::1733571959::0::1::::<><><><>::res://scripts/character/enemy.gd<>uid://b7wjbsp018vl7::::res://scenes/item/weapon/gun/M23.tscn<>uid://dxknnu3f344ax::::res://assets/arts/character/Regressors_1.png<>uid://c8g8rdmctf5m2::::res://scenes/ai/enemy_ai.tscn<>uid://cj1ny1kge8m7::::res://scenes/light/flashlight.tscn
-::res://scenes/effect/::1733571959
-muzzle_effect.tscn::PackedScene::4818281508183140359::1733571959::0::1::::<><><><>::uid://bivbjvh1geqeu::::res://assets/arts/effect/Effect 3 - Sprite Sheet.png<>res://scripts/effect/muzzle_effect.gd
+::res://scenes/bullet/::1733612816
+normal_bullet.tscn::PackedScene::5686815003045630384::1733612816::0::1::::<><><><>::uid://6pchdsrxuo64::::res://assets/arts/util/bullet/Bullet.png<>res://scripts/bullet/normal_bullet.gd<>res://scripts/effect/trail.gd
+::res://scenes/character/::1733612817
+player.tscn::PackedScene::9200142714251140629::1733612816::0::1::::<><><><>::uid://bodisxwv3jjqy::::res://assets/arts/character/Player.png<>res://scripts/character/player.gd<>res://scripts/character/player/camera.gd<>uid://cwwa8ce1va3g8::::res://scenes/ui/player_ui.tscn<>uid://cj1ny1kge8m7::::res://scenes/light/flashlight.tscn
+regressors_1.tscn::PackedScene::728198902883123744::1733612817::0::1::::<><><><>::res://scripts/character/enemy.gd<>uid://b7wjbsp018vl7::::res://scenes/item/weapon/gun/M23.tscn<>uid://dxknnu3f344ax::::res://assets/arts/character/Regressors_1.png<>uid://c8g8rdmctf5m2::::res://scenes/ai/enemy_ai.tscn<>uid://cj1ny1kge8m7::::res://scenes/light/flashlight.tscn
+::res://scenes/effect/::1733612816
+muzzle_effect.tscn::PackedScene::4818281508183140359::1733612816::0::1::::<><><><>::uid://bivbjvh1geqeu::::res://assets/arts/effect/Effect 3 - Sprite Sheet.png<>res://scripts/effect/muzzle_effect.gd<>uid://cyqxulkhm5eks::::res://assets/arts/util/Circle.png
 ::res://scenes/item/::1733571959
 error.tscn::PackedScene::7067774169864710309::1733571959::0::1::::<><><><>::res://scripts/item/Item.gd<>uid://b6es2k8kaaq07::::res://assets/arts/icons/item/error.png
 ::res://scenes/item/weapon/::1733571959
-::res://scenes/item/weapon/gun/::1733571959
-M23.tscn::PackedScene::4678429199192576370::1733571959::0::1::::<><><><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://cro6q1rkjftx::::res://assets/arts/item/weapon/gun/M23.png<>uid://b38cfnhx4te4k::::res://assets/arts/icons/item/weapon/gun/M23.png<>uid://cipif5g6d878e::::res://assets/sounds/Gun Sounds Pro - HD Remake/Pistol Shot 2.wav<>uid://bndo0nsskn6jk::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In 4.wav<>uid://dtms4mrjgkr4f::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag Out.wav
-YH-001.tscn::PackedScene::7599532901747134652::1733571959::0::1::::<><><><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://b7u5mr4q8um5h::::res://assets/arts/icons/item/weapon/gun/YH-001.png<>uid://c5qnlwrl36roq::::res://assets/arts/item/weapon/gun/YH-001.png<>uid://b7px7maj36xyy::::res://assets/sounds/Gun Sounds Pro - HD Remake/Assault Rifle Shot 1.wav<>uid://d2a1cg8ul1cc0::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In.wav<>uid://dtms4mrjgkr4f::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag Out.wav
-::res://scenes/light/::1733571959
-flashlight.tscn::PackedScene::160560245383180796::1733571959::0::1::::<><><><>::uid://mt1ge48cdrx1::::res://assets/arts/util/Light.png<>res://scripts/light/flashlight.gd
-::res://scenes/map/::1733571959
+::res://scenes/item/weapon/gun/::1733612816
+M23.tscn::PackedScene::4678429199192576370::1733612816::0::1::::<><><><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://cro6q1rkjftx::::res://assets/arts/item/weapon/gun/M23.png<>uid://b38cfnhx4te4k::::res://assets/arts/icons/item/weapon/gun/M23.png<>uid://cipif5g6d878e::::res://assets/sounds/Gun Sounds Pro - HD Remake/Pistol Shot 2.wav<>uid://bndo0nsskn6jk::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In 4.wav<>uid://dtms4mrjgkr4f::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag Out.wav
+YH-001.tscn::PackedScene::7599532901747134652::1733612816::0::1::::<><><><>::res://scripts/item/weapon/gun/GunItem.gd<>uid://b7u5mr4q8um5h::::res://assets/arts/icons/item/weapon/gun/YH-001.png<>uid://c5qnlwrl36roq::::res://assets/arts/item/weapon/gun/YH-001.png<>uid://b7px7maj36xyy::::res://assets/sounds/Gun Sounds Pro - HD Remake/Assault Rifle Shot 1.wav<>uid://d2a1cg8ul1cc0::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag In.wav<>uid://dtms4mrjgkr4f::::res://assets/sounds/Gun Sounds Pro - HD Remake/Mag Out.wav
+::res://scenes/light/::1733612816
+flashlight.tscn::PackedScene::160560245383180796::1733612816::0::1::::<><><><>::uid://mt1ge48cdrx1::::res://assets/arts/util/Light.png<>res://scripts/light/flashlight.gd
+::res://scenes/map/::1733613702
 tile_map.tscn::PackedScene::3059106266868536069::1733571959::0::1::::<><><><>::uid://df6hbm4e6b3xd::::res://assets/arts/tileset/Cyberpunk Tileset/Tileset/Tileset.png
-tutorial_map.tscn::PackedScene::1833958409040485386::1733571959::0::1::::<><><><>::res://scripts/map/tutorial_map.gd<>uid://bjt4bep2wgoxp::::res://scenes/map/tile_map.tscn<>uid://dfntoku4apdpq::::res://assets/arts/util/ThisWay.png<>res://scripts/util/BaljeonGi.gd<>uid://b2y52kki4sk4l::::res://assets/arts/tileset/Cyberpunk Tileset/Animation/door_2.png<>res://scripts/util/TutorialDoor.gd<>uid://ew2cgt7ca5c6::::res://assets/sounds/SCI FI DOORS/DOOR_OPEN_39.wav
-::res://scenes/ui/::1733571959
+tutorial_map.tscn::PackedScene::1833958409040485386::1733613702::0::1::::<><><><>::res://scripts/map/tutorial_map.gd<>uid://bjt4bep2wgoxp::::res://scenes/map/tile_map.tscn<>uid://df6hbm4e6b3xd::::res://assets/arts/tileset/Cyberpunk Tileset/Tileset/Tileset.png<>uid://dfntoku4apdpq::::res://assets/arts/util/ThisWay.png<>res://scripts/util/BaljeonGi.gd<>uid://b2y52kki4sk4l::::res://assets/arts/tileset/Cyberpunk Tileset/Animation/door_2.png<>res://scripts/util/TutorialDoor.gd<>uid://ew2cgt7ca5c6::::res://assets/sounds/SCI FI DOORS/DOOR_OPEN_39.wav
+::res://scenes/ui/::1733612816
 ending_credits.tscn::PackedScene::5339952017860802618::1733571959::0::1::::<><><><>::uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/ui/ending_credits.gd
 InventoryItem.tscn::PackedScene::360759264966976409::1733571959::0::1::::<><><><>::
-main_menu.tscn::PackedScene::7993356746350678539::1733571959::0::1::::<><><><>::res://scripts/ui/MainMenu.gd<>uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/ui/SettingsPanel.gd<>res://scripts/translation/TranslationControl.gd
-player_ui.tscn::PackedScene::6362471281646425837::1733571959::0::1::::<><><><>::uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/character/player/player_ui.gd<>res://scripts/character/player/EquipmentSlots.gd<>res://scripts/character/player/Inventory.gd<>uid://cvtsmf320vjxf::::res://assets/arts/ui/InventoryGrid.png<>res://scripts/character/player/GridBackPack.gd<>uid://lkb51tb31s3::::res://assets/arts/ui/BloodOverlay.png<>uid://df1ih06iyj8x3::::res://assets/arts/ui/HealthBar.png<>uid://c5a7xqy7njo::::res://assets/arts/ui/HealthBarFill.png<>uid://clwaox2ooq0ue::::res://assets/arts/ui/GunUI.png
+main_menu.tscn::PackedScene::7993356746350678539::1733612816::0::1::::<><><><>::res://scripts/ui/MainMenu.gd<>uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/ui/SettingsPanel.gd<>res://scripts/translation/TranslationControl.gd
+player_ui.tscn::PackedScene::6362471281646425837::1733612816::0::1::::<><><><>::uid://b058eixo0tfnl::::res://assets/fonts/DungGeunMo.ttf<>res://scripts/character/player/player_ui.gd<>res://scripts/character/player/EquipmentSlots.gd<>res://scripts/character/player/Inventory.gd<>uid://cvtsmf320vjxf::::res://assets/arts/ui/InventoryGrid.png<>res://scripts/character/player/GridBackPack.gd<>uid://lkb51tb31s3::::res://assets/arts/ui/BloodOverlay.png<>uid://df1ih06iyj8x3::::res://assets/arts/ui/HealthBar.png<>uid://c5a7xqy7njo::::res://assets/arts/ui/HealthBarFill.png<>uid://clwaox2ooq0ue::::res://assets/arts/ui/GunUI.png
 ::res://scripts/::1733571959
 game.gd::GDScript::-1::1733571959::0::1::::<>Node2D<><><>::
-::res://scripts/ai/::1733571959
+::res://scripts/ai/::1733613702
 AttackEnemy.gd::GDScript::-1::1733571959::0::1::::<>ActionLeaf<><><>::
 enemy_ai.gd::GDScript::-1::1733571959::0::1::::<>BeehaveTree<><><>::
-HasEnemyInDistance.gd::GDScript::-1::1733571959::0::1::::<>ConditionLeaf<><><>::
+HasEnemyInDistance.gd::GDScript::-1::1733613702::0::1::::<>ConditionLeaf<><><>::
 MoveToEnemy.gd::GDScript::-1::1733571959::0::1::::<>ActionLeaf<><><>::
 ::res://scripts/autoload/::1733571959
 Global.gd::GDScript::-1::1733571959::0::1::::<>Node<><><>::
 ItemDB.gd::GDScript::-1::1733571959::0::1::::<>Node<><><>::
-::res://scripts/bullet/::1733571959
-normal_bullet.gd::GDScript::-1::1733571959::0::1::::<>CharacterBody2D<><><>::
+::res://scripts/bullet/::1733574311
+normal_bullet.gd::GDScript::-1::1733574311::0::1::::<>CharacterBody2D<><><>::
 ::res://scripts/character/::1733571959
 Character.gd::GDScript::-1::1733571959::0::1::::Character<>CharacterBody2D<><><>::
 enemy.gd::GDScript::-1::1733571959::0::1::::<>Character<><><>::
 player.gd::GDScript::-1::1733571959::0::1::::Player<>Character<><><>::
-::res://scripts/character/player/::1733571959
+::res://scripts/character/player/::1733573156
 camera.gd::GDScript::-1::1733571959::0::1::::<>Camera2D<><><>::
 EquipmentSlots.gd::GDScript::-1::1733571959::0::1::::<>Panel<><><>::
 GridBackPack.gd::GDScript::-1::1733571959::0::1::::<>TextureRect<><><>::
 Inventory.gd::GDScript::-1::1733571959::0::1::::<>Control<><><>::
-player_ui.gd::GDScript::-1::1733571959::0::1::::<>Control<><><>::
-::res://scripts/effect/::1733571959
-muzzle_effect.gd::GDScript::-1::1733571959::0::1::::<>Node2D<><><>::
+player_ui.gd::GDScript::-1::1733573156::0::1::::<>Control<><><>::
+::res://scripts/effect/::1733574589
+muzzle_effect.gd::GDScript::-1::1733574589::0::1::::<>Node2D<><><>::
+trail.gd::GDScript::-1::1733573940::0::1::::Trail<>Line2D<><><>::
 ::res://scripts/item/::1733571959
 Item.gd::GDScript::-1::1733571959::0::1::::Item<>Node2D<><><>::
 UsableItem.gd::GDScript::-1::1733571959::0::1::::UsableItem<>Item<><><>::
 ::res://scripts/item/weapon/::1733571959
 WeaponItem.gd::GDScript::-1::1733571959::0::1::::WeaponItem<>UsableItem<><><>::
-::res://scripts/item/weapon/gun/::1733571959
-GunItem.gd::GDScript::-1::1733571959::0::1::::GunItem<>WeaponItem<><><>::
+::res://scripts/item/weapon/gun/::1733572502
+GunItem.gd::GDScript::-1::1733572502::0::1::::GunItem<>WeaponItem<><><>::
 ::res://scripts/light/::1733571959
 flashlight.gd::GDScript::-1::1733571959::0::1::::<>PointLight2D<><><>::
 ::res://scripts/map/::1733571959

@@ -12,8 +12,9 @@ radius = 3.0
 [sub_resource type="CircleShape2D" id="CircleShape2D_shxei"]
 radius = 86.0058
 
-[sub_resource type="Animation" id="Animation_aey5s"]
-length = 0.001
+[sub_resource type="Animation" id="Animation_opido"]
+resource_name = "walk_up"
+length = 0.8
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -21,42 +22,10 @@ tracks/0/path = NodePath("Sprite2D:frame")
 tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
+"times": PackedFloat32Array(0, 0.2, 0.4, 0.6, 0.8),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1),
 "update": 1,
-"values": [0]
-}
-
-[sub_resource type="Animation" id="Animation_61i6u"]
-resource_name = "death"
-length = 1.1
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0, 0.3, 0.7, 1.1),
-"transitions": PackedFloat32Array(1, 1, 1, 1),
-"update": 1,
-"values": [12, 13, 14, 15]
-}
-
-[sub_resource type="Animation" id="Animation_gvesy"]
-resource_name = "idle_down"
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 1,
-"values": [0]
+"values": [9, 10, 11, 10, 10]
 }
 
 [sub_resource type="Animation" id="Animation_38k3q"]
@@ -75,22 +44,6 @@ tracks/0/keys = {
 "values": [4]
 }
 
-[sub_resource type="Animation" id="Animation_nutl8"]
-resource_name = "idle_up"
-length = 0.001
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0),
-"transitions": PackedFloat32Array(1),
-"update": 1,
-"values": [8]
-}
-
 [sub_resource type="Animation" id="Animation_c1rva"]
 resource_name = "walk_down"
 length = 0.8
@@ -105,6 +58,38 @@ tracks/0/keys = {
 "transitions": PackedFloat32Array(1, 1, 1, 1, 1),
 "update": 1,
 "values": [1, 2, 3, 2, 2]
+}
+
+[sub_resource type="Animation" id="Animation_gvesy"]
+resource_name = "idle_down"
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
+}
+
+[sub_resource type="Animation" id="Animation_nutl8"]
+resource_name = "idle_up"
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [8]
 }
 
 [sub_resource type="Animation" id="Animation_7ycgq"]
@@ -123,9 +108,9 @@ tracks/0/keys = {
 "values": [5, 6, 7, 6, 6]
 }
 
-[sub_resource type="Animation" id="Animation_opido"]
-resource_name = "walk_up"
-length = 0.8
+[sub_resource type="Animation" id="Animation_61i6u"]
+resource_name = "death"
+length = 1.1
 tracks/0/type = "value"
 tracks/0/imported = false
 tracks/0/enabled = true
@@ -133,22 +118,37 @@ tracks/0/path = NodePath("Sprite2D:frame")
 tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/keys = {
-"times": PackedFloat32Array(0, 0.2, 0.4, 0.6, 0.8),
-"transitions": PackedFloat32Array(1, 1, 1, 1, 1),
+"times": PackedFloat32Array(0, 0.3, 0.7, 1.1),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
 "update": 1,
-"values": [9, 10, 11, 10, 10]
+"values": [12, 13, 14, 15]
+}
+
+[sub_resource type="Animation" id="Animation_aey5s"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [0]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_udn4v"]
 _data = {
-"RESET": SubResource("Animation_aey5s"),
-"death": SubResource("Animation_61i6u"),
-"idle_down": SubResource("Animation_gvesy"),
-"idle_side": SubResource("Animation_38k3q"),
-"idle_up": SubResource("Animation_nutl8"),
-"walk_down": SubResource("Animation_c1rva"),
-"walk_side": SubResource("Animation_7ycgq"),
-"walk_up": SubResource("Animation_opido")
+&"RESET": SubResource("Animation_aey5s"),
+&"walk_up": SubResource("Animation_opido"),
+&"idle_side": SubResource("Animation_38k3q"),
+&"walk_down": SubResource("Animation_c1rva"),
+&"idle_down": SubResource("Animation_gvesy"),
+&"idle_up": SubResource("Animation_nutl8"),
+&"walk_side": SubResource("Animation_7ycgq"),
+&"death": SubResource("Animation_61i6u")
 }
 
 [sub_resource type="OccluderPolygon2D" id="OccluderPolygon2D_vw2cg"]
@@ -187,7 +187,7 @@ position = Vector2(4, -2)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
-"": SubResource("AnimationLibrary_udn4v")
+&"": SubResource("AnimationLibrary_udn4v")
 }
 
 [node name="LightOccluder2D" type="LightOccluder2D" parent="."]
